@@ -21,6 +21,13 @@ chapterRanges = {
     "jhn": [1, 21]
 }
 
+# clear content of the file if it exists
+for lang in languages:
+    file_name = os.path.join(output_folder, f"{lang}.txt")
+    with open(file_name, "w", encoding="utf-8") as f:
+        pass 
+
+
 for lang, bibleNumber, abbreviation in zip(languages, bibleNumbers, bibleAbbreviation):
   if bibleNumber == "SKIP" or abbreviation == "SKIP":
         continue
