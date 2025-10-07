@@ -8,6 +8,9 @@ def sentence_regex(text):
     # replace weird ‘ with ' accounts for letters before and after
     text = re.sub(r"(\w)‘(\w)", r"\1'\2", text, flags=re.MULTILINE)
     text = re.sub(r"‘", r"'", text, flags=re.MULTILINE)  # for standalone
+    # replace ’ with '
+    text = re.sub(r"(\w)’(\w)", r"\1'\2", text, flags=re.MULTILINE)
+    text = re.sub(r"’", r"'", text, flags=re.MULTILINE)  # for standalone
 
     # replace weird ” and “ with " and accounts for letters before and after
     text = re.sub(r"(\w)”", r'\1"', text, flags=re.MULTILINE)
@@ -153,6 +156,9 @@ def sentence_regex(text):
 
     # remove :. (kapampangan-specific)
     text = re.sub(r":\.", "", text, flags=re.MULTILINE)  
+
+    # Add a space after a comma if there's none (ex. niya,asin to niya, asin)
+    text = re.sub(r',(\S)', r', \1', text, flags=re.MULTILINE)
 
     #text = re.sub(r'', r'', text)
 

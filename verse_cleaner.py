@@ -1,7 +1,7 @@
 import os
 import re
 
-os.chdir(r"C:\Users\Van Asher Alcantara\Documents\DLSU\AY 2025-2026\Term 1\NLP1000\nlp1000-mco1")
+# os.chdir(r"C:\Users\Van Asher Alcantara\Documents\DLSU\AY 2025-2026\Term 1\NLP1000\nlp1000-mco1")
 
 def verse_regex(text):
     text = re.sub(r'^\d+\s*', r'', text, flags=re.MULTILINE)
@@ -20,6 +20,7 @@ def verse_regex(text):
     
     return text
 
+'''
 text = ""
 
 script_dir = os.path.dirname(__file__)
@@ -34,3 +35,4 @@ text = verse_regex(text)
 output_path = os.path.join(script_dir, "ivatan-cleaned-verses.txt")
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(text)
+'''
