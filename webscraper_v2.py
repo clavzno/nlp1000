@@ -8,10 +8,10 @@ output_folder = "data"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
-languages = ["spanish", "tagalog", "english", "hiligaynon", "bikol", "waray", "ilocano", "cebuano", "kapampangan", "pangasinense", "maguindanao", "ivatan", "tausug", "yami", "tuwali_ifugao", "masbateno"]
+languages = ["spanish", "tagalog", "english", "hiligaynon", "bikol", "waray", "ilocano", "cebuano", "kapampangan", "pangasinense", "yakan", "ivatan", "tausug", "yami", "tuwali_ifugao", "masbateno"]
 # if SKIP, skip entirely and move to the next 
-bibleNumbers = ["1076", "177", "SKIP", "2190", "890", "SKIP", "782", "562", "1141", "SKIP", "SKIP", "1315", "1319", "2364", "2123", "1222"]
-bibleAbbreviation = ["JBS", "TLAB", "SKIP", "MBBHIL12", "MBBBIK92", "SKIP", "RIPV", "RCPV", "PMPV", "SKIP", "SKIP", "VTSP", "TSG", "SNT", "IFKWB", "MSB"]
+bibleNumbers = ["1076", "177", "3523", "2190", "890", "2198", "782", "562", "1141", "2194", "1388", "1315", "1319", "2364", "2123", "1222"]
+bibleAbbreviation = ["JBS", "TLAB", "NRSVUE", "MBBHIL12", "MBBBIK92", "MBBSAM", "RIPV", "RCPV", "PMPV", "MBBPAN83", "YAKV", "VTSP", "TSG", "SNT", "IFKWB", "MSB"]
 
 bookCodes = ["mat", "mrk", "luk", "jhn"]
 chapterRanges = {
