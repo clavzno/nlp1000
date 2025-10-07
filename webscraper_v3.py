@@ -54,6 +54,10 @@ for lang, bibleNumber, abbreviation in zip(languages, bibleNumbers, bibleAbbrevi
           # excludes the pop-up notes
           for note in text.select('span.ChapterContent_note__YlDW0'):
             note.decompose()
+          
+          # excludes chapter headings
+          for heading in text.select('span.ChapterContent_heading__xBDcs'):
+            heading.decompose()
         
           # write to lang-specific file
           file_name = os.path.join(output_folder, f"{lang}.txt")
