@@ -16,7 +16,7 @@ San Mateo|2|1|Nayanak ni Jesus iti ili a Betlehem idiay Judea, idi ni Herodes ti
 San Mateo|2|2|"Sadino ti ayan ti ubing a nayanak nga ari dagiti Judio?" sinaludsodda. "Nakitami ti bituenna a nagparang idiay daya ket immaykami agdaydayaw kenkuana." 
 San Mateo|2|3|Idi madamag daytoy ni Ari Herodes, napalalo ti pannakariribukna, kasta met ti tunggal maysa a taga-Jerusalem. 
 San Mateo|2|4|Pinaayabanna ngarud dagiti panguloen a papadi ken mamaestro iti Linteg ket sinaludsodna kadakuada no sadino ti pakayanakan ti Cristo. 
-San Mateo|2|5|"Iti ili a Betlehem idiay Judea," insungbatda, "ta daytoy ti insurat ti profeta: 6|'Sika, Betlehem, iti daga ti Juda,Saanka a maudi kadagiti ili iti Juda;Ta tumaudto kenka ti maysa a panguloA mangaywan iti ilik nga Israel.'" 
+San Mateo|2|5|"Iti ili a Betlehem idiay Judea," insungbatda, "ta daytoy ti insurat ti profeta: 6'Sika, Betlehem, iti daga ti Juda,Saanka a maudi kadagiti ili iti Juda;Ta tumaudto kenka ti maysa a panguloA mangaywan iti ilik nga Israel.'" 
 San Mateo|2|7|Inayaban ngarud ni Herodes dagiti sangaili ket kinasaritana ida iti nalimed. Sinaludsodna kadakuada no kaano ti panagparang ti bituen. 
 San Mateo|2|8|Iti kasta, imbaonna ida idiay Betlehem ket imbilinna kadakuada, "Inkay sapulen a naimbag ti ubing; no masapulanyo, ipakaammoyonto kaniak tapno innak met agdaydayaw kenkuana." 
 San Mateo|2|9-10| Pimmanawda ket idi addada iti dalan, nakitada manen daydi bituen a nagparang idiay daya. Idi makitada, anian a ragsakda, anian a rag-oda! Indaldalanna ida agingga a nagsardeng iti ngatoen ti balay a yan ti ubing. 
@@ -315,7 +315,7 @@ San Mateo|11|12|Manipud idi inkasaba ni Juan ti mensahena agingga ita, nagsagaba
 San Mateo|11|13|Agingga iti tiempo ni Juan, amin dagiti profeta ken ti Linteg ni Moises nagsaoda iti maipapan iti Pagarian. 
 San Mateo|11|14|No patienyo ti saoda, ni Juan ti Elias a naipadto ti yaayna. 
 San Mateo|11|15|Dumngeg ngarud ti siasinoman nga addaan pannakaawat. 
-San Mateo|11|16|"Ngem ania ti pangipadaak kadagiti tattao kadagitoy nga aldaw? Kasda la ubbing nga agtugtugaw iti tiendaan. Ipukkaw ti maysa a grupo kadagiti kaay-ayamda: 17|'Nagtokarkami iti naragsak, ngem dikay nagsala. Nagkantakami iti naliday, ngem dikay nagsangit!'
+San Mateo|11|16|"Ngem ania ti pangipadaak kadagiti tattao kadagitoy nga aldaw? Kasda la ubbing nga agtugtugaw iti tiendaan. Ipukkaw ti maysa a grupo kadagiti kaay-ayamda: 17'Nagtokarkami iti naragsak, ngem dikay nagsala. Nagkantakami iti naliday, ngem dikay nagsangit!'
 San Mateo|11|18|"Immay ni Juan ket nagay-ayunar ken saan nga immin-inum iti arak, ket kunkuna dagiti tattao nga isu ket linuganan ti demonio. 
 San Mateo|11|19|"Immay ti Anak ti Tao, nangnangan ken immin-inum, ket kunkunada, 'Kitaenyo daytoy a tao, narawet ken mammartek, gayyem dagiti agsingsingir iti buis ken dadduma pay a dakes a tattao!' Nupay kasta, maipakita ti kinasirib ti Dios babaen kadagiti gapuananna." 
 San Mateo|11|20|Binabalaw ni Jesus dagiti il-ili a nakaaramidan ti kaaduan kadagiti milagrona agsipud ta di nagbabawi dagiti tattao kadagiti basbasolda. 
@@ -477,7 +477,7 @@ San Mateo|15|3|"Ket dakayo," insungbat ni Jesus, "apay a salungasingenyo ti bili
 San Mateo|15|4|Ta kinuna ti Dios, 'Dayawem da amam ken inam,' ken 'Ti agsao iti dakes ken ni amana wenno inana, rebbengna ti mapapatay.'
 San Mateo|15|5|Ngem isursuroyo a no ibaga ti maysa a tao kada ama ken inana a ti itulongna koma kadakuada ipaayna laengen iti Dios, 
 San Mateo|15|6|saanen a masapul a dayawenna ni amana. Iti kasta, laksidenyo ti pannursuro ti Dios tapno surotenyo ti bukodyo a pannursuro. 
-San Mateo|15|7|Dakayo nga aginsisingpet! Pudno unay ti impadto ni Isaias maipapan kadakayo: 8|'Kuna ti Dios, dagitoy a tattao kunkunada a dayawendak,Ngem adayo ti pusoda kaniak. 
+San Mateo|15|7|Dakayo nga aginsisingpet! Pudno unay ti impadto ni Isaias maipapan kadakayo: 8'Kuna ti Dios, dagitoy a tattao kunkunada a dayawendak,Ngem adayo ti pusoda kaniak. 
 San Mateo|15|9|Awan serserbi ti panagdaydayawda kaniakGapu ta isursuroda dagiti linteg nga aramid ti tao ket ibilangda a bilinko.' " 
 San Mateo|15|10|Inayaban ni Jesus dagiti tattao sana kinuna kadakuada, "Denggen ken awatenyo daytoy: 
 San Mateo|15|11|Saan a ti ipauneg ti tao ti mangtulaw kenkuana no di ket ti rummuar iti ngiwatna." 
@@ -1283,7 +1283,7 @@ San Marcos|6|41|Innala ni Jesus dagiti lima a tinapay ken dua nga ikan. Timmanga
 San Marcos|6|42|Nanganda amin ket nabsogda. 
 San Marcos|6|43|Napno ti sangapulo ket dua a basket ti natda kadagiti tinapay ken ikan nga inurnong dagiti adalan. 
 San Marcos|6|44|Kadagiti nangan,
-San Marcos|6|5,000| dagiti nataengan a lallaki. 
+San Marcos|6|5,000 dagiti nataengan a lallaki. 
 San Marcos|6|45|Bayat ti panangpagawid ni Jesus kadagiti tattao, pinaluganna a dagus dagiti adalanna iti bangka. Pinaunana ida a mapan idiay Betsaida, iti ballasiw ti dan-aw. 
 San Marcos|6|46|Apaman a napalubosanna dagiti tattao, simmang-at iti maysa a turod tapno agkararag. 
 San Marcos|6|47|Idi rumabiin, addan ti bangka iti tengnga ti dan-aw, ngem maymaysa ni Jesus iti sang-at. 
@@ -2140,8 +2140,8 @@ San Lucas|9|9|"Pinaputolak ni Juan," kinuna ni Herodes, "ngem siasino daytoy a t
 San Lucas|9|10|Nagsubli dagiti apostoles ket sinaritada ken ni Jesus ti amin nga inaramidda. Inkuyogna ida a napan iti ili a managan Betsaida. 
 San Lucas|9|11|Nadamag daytoy dagiti tattao ket simmurotda kenkuana. Inawatna ida ket inkasabana kadakuada ti Pagarian ti Dios. Pinaimbagna dagiti masapul a maagasan. 
 San Lucas|9|12|Mumalemen idi napan kenkuana dagiti sangapulo ket dua nga adalan. "Pagawidemon dagiti tattao," kinunada, "tapno mapanda kadagiti kabangibang nga il-ili ken barbarrio ket agbirokda iti kanen ken pagdagusanda, ta adayotayo kadagiti balbalay." 
-San Lucas|9|13|"Ikkanyo ketdi ida iti kanenda!" insungbat ni Jesus."Lima a tinapay ken dua nga ikan laeng ti adda kadakami," kinunada. "Kayatmo kadi nga inkam gumatang iti ipakan kadakuada amin?" 
-San Lucas|9|14|(Aglimaribu ti bilang dagiti lallaki sadiay.)"Pagtugawenyo a magrupo-grupo dagiti tattao; saglilimapulo iti tunggal grupo," imbilin ni Jesus kadagiti adalan. 
+San Lucas|9|13|"Ikkanyo ketdi ida iti kanenda!" insungbat ni Jesus."Lima a tinapay ken dua nga ikan laeng ti adda kadakami," kinunada. "Kayatmo kadi nga inkam gumatang iti ipakan kadakuada amin?"
+San Lucas|9|14|Aglimaribu ti bilang dagiti lallaki sadiay.)"Pagtugawenyo a magrupo-grupo dagiti tattao; saglilimapulo iti tunggal grupo," imbilin ni Jesus kadagiti adalan. 
 San Lucas|9|15|Nagtungpal dagiti adalan ket pinagtugawda dagiti amin a tattao. 
 San Lucas|9|16|Innala ni Jesus dagiti lima a tinapay ken dua nga ikan. Timmangad sadi langit sa nagyaman iti Dios. Pinispisina dagiti tinapay ket intedna kadagiti adalan tapno ibunongda kadagiti tattao. 
 San Lucas|9|17|Nanganda amin ket nabsogda.Inurnong dagiti adalan dagiti natda ket napno ti sangapulo ket dua a basket a nagikabilanda. 
@@ -2199,7 +2199,7 @@ San Lucas|10|6|No iti dayta a balay adda tao a managayat iti kappia, agbatinto k
 San Lucas|10|7|Agdaguskay iti dayta a balay, ket kanen ken inumenyo ti idasarda kadakayo ta rumbeng a matangdanan ti agtrabaho. Dikay agalis-alis iti pagdagusanyo. 
 San Lucas|10|8|No sumrekkay iti maysa nga ili ket awatendakayo, kanenyo ti maidasar kadakayo. 
 San Lucas|10|9|Paimbagenyo dagiti masakit iti dayta nga ili ket kunayo kadagiti tattao sadiay, 'Asidegen kadakayo ti Pagarian ti Dios.'
-San Lucas|10|10|Ngem no sumrekkay iti maysa nga ili ket didakay awaten, mapankayo kadagiti kalkalsada ket kunayo: 11|'Uray ti tapok ti iliyo a kumpet kadagiti sakami, punasenmi a maibusor kadakayo. Nupay kasta, laglagipenyo nga asidegen kadakayo ti Pagarian ti Dios!'
+San Lucas|10|10|Ngem no sumrekkay iti maysa nga ili ket didakay awaten, mapankayo kadagiti kalkalsada ket kunayo: 11'Uray ti tapok ti iliyo a kumpet kadagiti sakami, punasenmi a maibusor kadakayo. Nupay kasta, laglagipenyo nga asidegen kadakayo ti Pagarian ti Dios!'
 San Lucas|10|12|Ibagak kadakayo nga inton Aldaw ti Panangukom, dakdakkelto ti asi ti Dios iti Sodoma ngem iti dayta nga ili!" 
 San Lucas|10|13|"Asikanto pay, Corazin! Asikanto met, Betsaida! No naaramid koma idiay Tiro ken Sidon dagiti milagro a naaramid kadakayo, nabayag koman nga impakita dagiti tattao sadiay ti panagbabawida kadagiti basbasolda babaen iti panagtugawda a sikakawes iti nakersang a lupot ken panangiwarakiwakda iti dapu kadagiti bagbagida. 
 San Lucas|10|14|Inton Aldaw a Panangukom, dakdakkelto ti asi ti Dios iti Tiro ken Sidon ngem kadakayo. 
@@ -2409,7 +2409,7 @@ San Lucas|14|27|Saan met a makapagbalin nga adalak ti siasinoman a di mangbaklay
 San Lucas|14|28|"No maysa kadakayo ti agpanggep a mangbangon iti torre, saan aya nga agtugaw nga umuna tapno panunotenna ti magastonanto, no adda makaanay a kuartana a pangleppasna? 
 San Lucas|14|29|No saan, dinanto maituloy ti torre kalpasan ti panangikabilna iti fondasion. Ang-angawento dagiti amin a makakita iti inrugina ket kunadanto,
 San Lucas|14|30|'Inrugina a binangon ti torre, ngem dina met maituloy!'
-San Lucas|14|31|"No rummuar ti maysa nga ari nga addaan 10,000| a soldado ket mapanna sarangten ti sabali nga ari nga addaan 20,000| a soldado, agtugaw pay a mangpanunot no kabaelanna a sangoen ti karangetna nga ari. 
+San Lucas|14|31|"No rummuar ti maysa nga ari nga addaan 10,000 a soldado ket mapanna sarangten ti sabali nga ari nga addaan 20,000 a soldado, agtugaw pay a mangpanunot no kabaelanna a sangoen ti karangetna nga ari. 
 San Lucas|14|32|No saan, mangibaon iti sumabat iti dayta nga ari no adayo pay laeng tapno dawatenna ti panagkappiada." 
 San Lucas|14|33|Kamaudiananna, kinuna ni Jesus, "Kasta met nga awan kadakayo ti makapagbalin nga adalak no dina panawan amin nga adda kenkuana." 
 San Lucas|14|34|"Nasayaat ti asin. Ngem no timmamnayen, saanen a mapaapgad. 
@@ -2975,7 +2975,7 @@ San Juan|3|34|Ta ti imbaon ti Dios sawenna dagiti sao ti Dios, agsipud ta inted 
 San Juan|3|35|Ti Ama ayatenna ti Anakna ket impaimana kenkuana dagiti isuamin. 
 San Juan|3|36|Ti siasinoman a mamati iti Anak maaddaan iti biag nga agnanayon. Siasinoman a di agtulnog iti Anak, dinanto maragpat ti biag, no di ket agtalinaed kenkuana ti pannusa ti Dios.
 San Juan|4|1|Nadamag dagiti Fariseo nga ad-adu ti adalan a mapaspasurot ken bumbuniagan ni Jesus ngem ni Juan. 
-San Juan|4|2|(Kinapudnona, saan a nangbumbuniag ni Jesus, no di ket dagiti adalanna laeng.) 
+San Juan|4|2|Kinapudnona, saan a nangbumbuniag ni Jesus, no di ket dagiti adalanna laeng.) 
 San Juan|4|3|Ngarud, idi madamag ni Jesus ti maisasao, pimmanaw idiay Judea ket nagsubli idiay Galilea. 
 San Juan|4|4|Iti panagbiahena, masapul a lumasat idiay Samaria. 
 San Juan|4|5|Idiay Samaria, dimteng iti maysa nga ili a managan Sicar, a saan nga adayo iti talon nga inted idi ni Jacob ken ni Jose nga anakna. 
@@ -3182,8 +3182,8 @@ San Juan|7|34|Sapulendakto ngem didakto masarakan, gapu ta dikay makaumay iti pa
 San Juan|7|35|Kinuna dagiti papangulo a Judio iti maysa ken maysa, "Sadino ngata ti papananna tapno ditayto masarakan? Mapanto ngata kadagiti il-ili dagiti Griego a yan dagiti naiwaraswaras a Judio ket isuronanto dagiti Griego? 
 San Juan|7|36|Ania ti kayatna a sawen iti panagkunana, 'Sapulendakto ngem didakto masarakan,' ken 'Dikay makaumay iti papanak'?" 
 San Juan|7|37|Iti maudi ken kangrunaan nga aldaw ti fiesta, nagtakder ni Jesus ket kinunana iti napigsa a timek, "Ti siasinoman a mawaw, umay kaniak tapno uminum. 
-San Juan|7|38|Kas kuna ti Nasantoan a Surat, 'Agayusto dagiti karayan ti sibibiag a danum manipud iti puso ti siasinoman a mamati kaniak.'" 
-San Juan|7|39|(Sinao daytoy ni Jesus maipapan iti Espiritu ti Dios a dandanin awaten dagiti namati kenkuana. Ta iti dayta a tiempo, saan pay a naited ti Espiritu, agsipud ta di pay naitan-ok ni Jesus.) 
+San Juan|7|38|Kas kuna ti Nasantoan a Surat, 'Agayusto dagiti karayan ti sibibiag a danum manipud iti puso ti siasinoman a mamati kaniak.'"
+San Juan|7|39|Sinao daytoy ni Jesus maipapan iti Espiritu ti Dios a dandanin awaten dagiti namati kenkuana. Ta iti dayta a tiempo, saan pay a naited ti Espiritu, agsipud ta di pay naitan-ok ni Jesus.) 
 San Juan|7|40|Adu kadagiti tattao a naitaripnong ti nakangngeg iti daytoy nga imbaga ni Jesus. "Pudno nga isu daytoy ti profeta!" kinunada. 
 San Juan|7|41|Kinuna dagiti dadduma, "Isu ti Cristo!"Ngem adda met nagkuna, "Saan nga idiay Galilea ti paggapuan ti Cristo! 
 San Juan|7|42|Saan aya a kuna ti Nasantoan a Surat nga agtaud ti Cristo iti kaputotan ni David, ket mayanak idiay Betlehem, iti ili a nagnaedan ni David?" 
@@ -3197,7 +3197,7 @@ San Juan|7|49|Ngem mailunod dagitoy a tattao ta dida ammo ti Linteg ni Moises."
 San Juan|7|50|Nupay kasta, nagsao ti maysa kadakuada, ni Nicodemo, a napan idi nakisao ken ni Jesus. 
 San Juan|7|51|"Segun ti paglintegantayo," kinunana, "ditayo mabalin a dusaen ti maysa a tao no ditay mangngegan ken maammoan no ania ti inaramidna." 
 San Juan|7|52|"Taga-Galileaka met kadi?" kinunada kenkuana. "Sukimatem dagiti Sursurat ket maammoamto nga awan a pulos ti profeta a tumaud idiay Galilea."
-San Juan|8|1|[Nagawid dagiti amin a tattao, ngem napan ni Jesus idiay Bantay Olivo. 
+San Juan|8|1|Nagawid dagiti amin a tattao, ngem napan ni Jesus idiay Bantay Olivo. 
 San Juan|8|2|Kabigatanna, nasapa a nagsubli idiay Templo. Inaribungbongan ti adu a tattao ket nagtugaw a nangisuro kadakuada. 
 San Juan|8|3|Inyeg dagiti mamaestro iti Linteg ken dagiti Fariseo ti maysa a babai a natiliwanda a makikamkamalala. Pinagtakderda iti sangoananda amin. 
 San Juan|8|4|"Maestro," kinunada ken ni Jesus, "natiliwanmi daytoy a babai a makikamkamalala. 
@@ -3387,8 +3387,8 @@ San Juan|11|46|Ngem sumagmamano kadakuada ti napan kadagiti Fariseo ket impadama
 San Juan|11|47|Iti kasta, nakitaripnong dagiti Fariseo ken panguloen a papadi kadagiti kamkameng ti Sanhedrin. "Ania ti aramidentayo?" kinunada. "Adu ti nakaskasdaaw nga ar-aramiden daytoy a tao! 
 San Juan|11|48|No baybay-antayo, mamatinto dagiti amin a tattao kenkuana, ket umayto dagiti agtuturay a taga-Roma a mangdadael iti Templo ken iti entero a nasiontayo!" 
 San Juan|11|49|Ngem nagsao ti maysa kadakuada nga agnagan Caifas, ti Kangatoan a Padi iti dayta a tawen. "Awan ammoyo," kinunana. 
-San Juan|11|50|"Saanyo aya a maawatan a nasaysayaat no matay ti maysa a tao, ngem ti madadael ti entero a nasion?" 
-San Juan|11|51|(Saanna a sinao daytoy a naknakemna, ngem agsipud ta isu ti Kangatoan a Padi iti dayta a tawen, impadtona ti ipapatay ni Jesus a maipaay kadagiti Judio 
+San Juan|11|50|"Saanyo aya a maawatan a nasaysayaat no matay ti maysa a tao, ngem ti madadael ti entero a nasion?"
+San Juan|11|51|Saanna a sinao daytoy a naknakemna, ngem agsipud ta isu ti Kangatoan a Padi iti dayta a tawen, impadtona ti ipapatay ni Jesus a maipaay kadagiti Judio 
 San Juan|11|52|ket saan laeng a gapu kadakuada no di ket tapno pagkaykaysaenna amin dagiti naiwaraswaras nga annak ti Dios.) 
 San Juan|11|53|Manipud iti dayta nga aldaw, nagtutulagan dagiti agtuturay a Judio a papatayenda ni Jesus. 
 San Juan|11|54|Isut' gapuna a saanen a nagnagna a silalatak ni Jesus idiay Judea, ngem pimmanaw sadiay ket napan iti asideg ti let-ang, iti ili a managan Efraim. Nagyan sadiay agraman dagiti adalan. 
@@ -3730,8 +3730,8 @@ San Juan|21|14|Daytoy ti maikatlo a panagparang ni Jesus kadagiti adalanna kalpa
 San Juan|21|15|Kalpasan ti panamigatda, kinuna ni Jesus ken ni Simon Pedro, "Simon nga anak ni Juan, ad-adda kadi ti panangdungngom kaniak ngem dagitoy?""Wen, Apo," insungbatna, "ammom nga ay-ayatenka."Kinuna ni Jesus kenkuana, "Aywanam dagiti urbon a karnerok." 
 San Juan|21|16|Pinidua ni Jesus a sinaludsod, "Simon nga anak ni Juan, dungdungngoennak kadi?""Wen, Apo," insungbatna, "ammom nga ay-ayatenka."Kinuna ni Jesus kenkuana, "Aywanam dagiti karnerok." 
 San Juan|21|17|Pinitlo ni Jesus a sinaludsod, "Simon nga anak ni Juan, ay-ayatennak kadi?"Nagliday ni Pedro gapu ta namitlon a sinaludsod ni Jesus kenkuana, "Ay-ayatennak kadi?"Kinuna ni Pedro, "Apo, ammom amin a banag. Ammom nga ay-ayatenka!"Kinuna ni Jesus kenkuana, "Aywanam dagiti karnerok. 
-San Juan|21|18|Ibagak ti pudno kenka: Idi kabambanuagam, sika ti mangbarbarikes iti bagim ket mapanka iti sadinoman a kayatmo a papanan. Ngem inton lumakaykan, sabalinto ti mangbarikes kenka sanaka ipan iti dimo kayat a papanan." 
-San Juan|21|19|(Iti panangisao ni Jesus iti daytoy, impakaammona no kasano ti ipapatay ni Pedro tapno maidaydayaw ti Dios.)Kalpasanna, kinuna ni Jesus kenkuana, "Surotennak." 
+San Juan|21|18|Ibagak ti pudno kenka: Idi kabambanuagam, sika ti mangbarbarikes iti bagim ket mapanka iti sadinoman a kayatmo a papanan. Ngem inton lumakaykan, sabalinto ti mangbarikes kenka sanaka ipan iti dimo kayat a papanan."
+San Juan|21|19|Iti panangisao ni Jesus iti daytoy, impakaammona no kasano ti ipapatay ni Pedro tapno maidaydayaw ti Dios.)Kalpasanna, kinuna ni Jesus kenkuana, "Surotennak." 
 San Juan|21|20|Timmaliaw ni Pedro. Nakitana a sumursurot ti adalan a dinungdungngo ni Jesus. Daytoy ti adalan a nagsadag ken ni Jesus iti daydi panangrabii tapno saludsodenna no siasinonto ti mangliput iti Apo. 
 San Juan|21|21|Idi makita ni Pedro ti adalan, kinunana ken ni Jesus, "Apo, anianto ngarud ti mapasamak iti daytoy a tao?" 
 San Juan|21|22|"No kayatko nga agbiag agingga iti yaayko, apay a maseknanka?" insungbat ni Jesus. "Surotennak!" 

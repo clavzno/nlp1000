@@ -1219,8 +1219,8 @@ Marcos|5|3|tan manaayam ed saray inongib a lobuk. Anggapoy makarel ed sikato,
 Marcos|5|4|ta amimpiga-piga da lan binalur iray lima tan saray sali to, balet kapag baluren da sarasarag ton pulpultoten so golung-golung tan pangpangen iray balatyang ed saray sali to. Diad kinabiskeg to anggapoy toon makapangipuger ed sikato. 
 Marcos|5|5|Labi tan agew so panaakar-akar ton maneeyag-eyag ed saray lobuk tan diad nipokpokdul iran pasen. Susugat-sugaten to ni na bato so laman ton dili. 
 Marcos|5|6|Arawi niy kawalaan to, anengneng to lay Jesus. Mambabtik a dinmago tan nantalimukor ed arap nen Jesus, 
-Marcos|5|7|insan to iningaingal, "Jesus, Anak na Sankatageyan a Dios, antoy pibabalim ed siak? Diad ngaray Dios, ipangasim ta ag mo ak papairapen!" 
-Marcos|5|8|(Imbaga to ya lapud inkuanen Jesus ed sikato, "Maoges ya ispiritu, ekal kad sayan too!") 
+Marcos|5|7|insan to iningaingal, "Jesus, Anak na Sankatageyan a Dios, antoy pibabalim ed siak? Diad ngaray Dios, ipangasim ta ag mo ak papairapen!"
+Marcos|5|8|Imbaga to ya lapud inkuanen Jesus ed sikato, "Maoges ya ispiritu, ekal kad sayan too!") 
 Marcos|5|9|Tinepet nen Jesus, "Antoy ngaran mo?""Say ngaran ko 'Amayamay,' ta dakel kami," inkuanto. 
 Marcos|5|10|Insan akikasid kinen Jesus ya ag to komun paalisen ed saman a pasen ira may ispiritun maoges. 
 Marcos|5|11|Diad asingger diman, wala ray amayamay a baboy a manaalibok ed gilig na palandey. 
@@ -1718,13 +1718,13 @@ Marcos|15|46|Analiw si Jose na abel a sida. Nen niepas to lay bangkay nen Jesus,
 Marcos|15|47|Ombabantay si Maria Magdalena tan si Maria ya ina nen Jose, kanyan anengneng day angipomponan ed kinen Jesus.
 Marcos|16|1|Asumpal lay Agew na Panagpainawa. Si Maria Magdalena, si Maria ya ina nen Santiago, tan si Salome, analiw iray pabalingit ya ipoyuk dad bangkay nen Jesus. 
 Marcos|16|2|Diad kabkabwasay Simba, nen ompapaway lay agew, linma rad pantion. 
-Marcos|16|3|Nen wala rad dalan, inkuandad sakey tan sakey, "Siopa kasi so napikasian tayon mangitolin na baton akasara ed sangab na pantion?" 
-Marcos|16|4|(Agaylay kabaleg to may bato.) Balet nen ontangwa ra anengneng dan nitolin la. 
+Marcos|16|3|Nen wala rad dalan, inkuandad sakey tan sakey, "Siopa kasi so napikasian tayon mangitolin na baton akasara ed sangab na pantion?"
+Marcos|16|4|Agaylay kabaleg to may bato.) Balet nen ontangwa ra anengneng dan nitolin la. 
 Marcos|16|5|Nen linmoob irad pantion, nikelawan ira nen anengneng day sakey a balolakin akaampoti a manyodyorung ed nikawanan. 
 Marcos|16|6|Inkuanto, "Ag kayo mankelaw. Aanapen yoy Jesus a taga Nazaret a nipasak ed krus, anto? Andi dia, ta inmoli lad bilay. Nengneng yoy angiparokulan dad sikato. 
 Marcos|16|7|Laka yod kinen Pedro tan saray arum a disipulo tan ikuanyo: 'Onona nen sikayo si Jesus ya onlad Galilea tan diman yo nanengneng, onung na imbaga tod sikayo!" 
 Marcos|16|8|Kanyan pinmaway tan batik ira lapud mapalaloy takot tan pankelaw da. Anggapon balut so imbagbaga rad arum, ta natatakot ira.[
-Marcos|16|9 Nen inmolid bilay si Jesus ed kabkabwasay Simba, si Maria Magdalena ya amapawayan toy pitoran dimonyo so onaan a nampanengnengan to. 
+Marcos|16|9|Nen inmolid bilay si Jesus ed kabkabwasay Simba, si Maria Magdalena ya amapawayan toy pitoran dimonyo so onaan a nampanengnengan to. 
 Marcos|16|10|Linmay Maria Magdalena tan imbaga tod saray maneermen tan mannanangis a kakaiba nen Jesus. 
 Marcos|16|11|Nen nadngel dan imbaga ton mabilay si Jesus tan anengneng to, ag da sinisia. 
 Marcos|16|12|Kasumpal to ya, pinmanengneng si Jesus diad nidoman nengneng ed saray duaran disipulo nen wala rad dalan a mamaarap ed bario. 
@@ -1736,7 +1736,7 @@ Marcos|16|17|Saray mananisia naitdan ira na saray tanda na pakayari: papawayen d
 Marcos|16|18|no mamemben iray oleg tan no oninom iray samal anggapoy maoges a nagawad sikara; tan onabig iray mansasakit a pangitapewan da ray lima ra." 
 Marcos|16|19|Kasumpal ya akisalitay Katawan a Jesus ed sikara, niatagey ed tawen tan inmirung ed nikawanan na Dios. 
 Marcos|16|20|Linma sirin a nampupulong ed amin a pasen iray disipulo. Tinulongan iray Katawan ed sayan kimey da. Initdan to ray pakayari a manggaway milagro a pamaneknek ton katwaan so salita ya impupulong da.][
-Marcos|16|9 Linma ra may bibii ed kinen Pedro tan saray kakaaro to. Diad antikey a panangibaga, imbalita ray amin a nibagad sikara. 
+Marcos|16|9|Linma ra may bibii ed kinen Pedro tan saray kakaaro to. Diad antikey a panangibaga, imbalita ray amin a nibagad sikara. 
 Marcos|16|10|Kasumpal to ya, inkayat nen Jesus a dili ed amin a sokung na mundo, diad panamegley da ray disipulo to, so masanto tan mabilay lawas a balita na andi-anggaan a kilalaban.]
 Lucas|1|1|Kagalgalang kon Teofilo:Amayamay la ray nanoksuy tan nansulat na nipaakar ed saray bengatlan agawgawad pegley mi. 
 Lucas|1|2|Insulat da ray imbabalitad sikami na saray akakkaimatun nanlapud gapo ed sarayan agawgawa tan nampupulong na salitay Dios. 
@@ -2157,8 +2157,8 @@ Lucas|9|9|Inkuanen Herodes, "Impapotul koy olo nen Juan. Balet siopa yan toon am
 Lucas|9|10|Kapawil da ra may apostol, imbaga rad kinen Jesus iray amin a ginagawa ra. Intagar ira nen Jesus tan linma ran kabukbukoran da ed sakey a baley a manngaray Betsaida. 
 Lucas|9|11|Nen nadngelan ya na totoo, tinombuk day Jesus tan maliket ya angawat ed sikara. Nansalitay Jesus ed sikara na nipaakar ed Panariay Dios, tan pinapaabig to ray mansasakit. 
 Lucas|9|12|Nen onngangarem la, dinmagod kinen Jesus iray labinduan disipulo. Inkuandad sikato, "Ibakim la ray totoo, pian makakar irad kaabungan ed saray kaliber-liber a bario, et makalmo ray kanen tan ogipan da, ta arawid kaabungan yan pasen." 
-Lucas|9|13|Balet inkuanen Jesus ed sikara, "Sikayo ingey mangiter na kanen da."Inmebat ira, "Anggapoy kanen tayo no ag labat limaran tinapay tan duaran sira. Say labay mon ibaga, onla kamin manaliw na kanen da ra yan amin a totoo?" 
-Lucas|9|14|(Sakey a liman libon lalaki so wadman.)Inkuanen Jesus ed saray disipulo, "Payorung yo ray totoo a sanlilimamplod sakey a grupo." 
+Lucas|9|13|Balet inkuanen Jesus ed sikara, "Sikayo ingey mangiter na kanen da."Inmebat ira, "Anggapoy kanen tayo no ag labat limaran tinapay tan duaran sira. Say labay mon ibaga, onla kamin manaliw na kanen da ra yan amin a totoo?"
+Lucas|9|14|Sakey a liman libon lalaki so wadman.)Inkuanen Jesus ed saray disipulo, "Payorung yo ray totoo a sanlilimamplod sakey a grupo." 
 Lucas|9|15|Onyay ginawa ran tua, tan pinayorung da ran amin. 
 Lucas|9|16|Inala nen Jesus ira may limaran tinapay tan duaran sira, tinmangay ed tawen, tan akisalamat ed Dios. Pinipisag to ra tan inter tod saray disipulo to ya ibunog dad saray totoo. 
 Lucas|9|17|Angan ira ya amin tan napsel ira. Nen tinipon na saray disipulo so kera-keran tinapay tan sira, napnoy labinduan tiklis. 
@@ -2794,8 +2794,8 @@ Lucas|23|13|Impatawag nen Pilato ray manonan papari, saray opisyal na baley, tan
 Lucas|23|14|tan inkuantod sikara, "Inyakar yo yan tood siak, ta kuanyon sosogsogan to ray totoo a manggaway aliwa. Natan, inosisak la tan naimatunan yo met, balet nalmoan ko ya anggapoy kasalanan to ed saray ipapakasalanan yod sikato. 
 Lucas|23|15|Anggapo met so nalmoan nen Herodes a kasalanan to, kanyan pinapawil to diad sikatayo. Anggapoy ginawa to yan too a makasengeg na pamateyan ed sikato. 
 Lucas|23|16|Kanyan pasipsiplatan ko, insan ko la ibolus." 
-Lucas|23|18|Balet nankakasakey ya inmeyag iran amiy totoo, "Pateyen itan a too! Si Barabbas so labay min ibolus mo!" 
-Lucas|23|19|(Aprisoy Barabbas lapud golon agawad siudad, tan lapud impamatey to.) 
+Lucas|23|18|Balet nankakasakey ya inmeyag iran amiy totoo, "Pateyen itan a too! Si Barabbas so labay min ibolus mo!"
+Lucas|23|19|Aprisoy Barabbas lapud golon agawad siudad, tan lapud impamatey to.) 
 Lucas|23|20|Si Jesus balet so labay nen Pilato ya ibolus, kanyan nansalita lamet ed saray totoo. 
 Lucas|23|21|Balet lalon inmeyag ira, "Ipasak mod krus! Ipasak mod krus!" 
 Lucas|23|22|Pinitlo nen Pilato ya inkuan ed sikara, "Akin, antoy ginawa ton kasalanan? Anggapoy naalmoan kon ginawa ton makasengeg na pamatey ed sikato! Kanyan pasipsiplatan ko, insan ko la ibolus." 
@@ -2927,8 +2927,8 @@ Juan|1|39|"Mila kayo tan nengneng yo," ebat nen Jesus. Kanyan akila rad sikato t
 Juan|1|40|Say sakey ed saray duaran akadngel ed kinen Juan tan tinmombuk ed kinen Jesus et si Andres ya agi nen Simon Pedro. 
 Juan|1|41|Arumog ton tampol si agi ton Simon, tan kuanto, "Arumog miy Misias!" ("Cristo" so kabaliksan to ya.) 
 Juan|1|42|Insan intagar toy Simon ed kinen Jesus.Ninengneng nen Jesus tan kuanto, "Sikay Simon ya anak nen Juan. Nangaranan ka na Cefas." (Say ngaran a Cefas, kapara toy ngaran a Pedro.) 
-Juan|1|43|Diad ontombuk ya agew, linmay Jesus ed Galilea. Arumog toy Felipe tan kuantod sikato, "Tombuk kad siak." 
-Juan|1|44|(Si Felipe taga Betsaida a baley di Andres tan Pedro.) 
+Juan|1|43|Diad ontombuk ya agew, linmay Jesus ed Galilea. Arumog toy Felipe tan kuantod sikato, "Tombuk kad siak."
+Juan|1|44|Si Felipe taga Betsaida a baley di Andres tan Pedro.) 
 Juan|1|45|Nalmo nen Felipe si Nataniel tan kuantod sikato, "Arumog miy Jesus a taga Nazaret ya anak nen Jose. Sikato may toon labay ya ibaga nen Moises ed insulat tod Ganggan, tan sikato met imay labay ya ibaga da ray propita." 
 Juan|1|46|"Wala tay kamaungan a manlapud Nazaret?" tepet nen Nataniel."Gala, ta nengneng mo," ebat nen Felipe. 
 Juan|1|47|Nen anengneng nen Jesus si Nataniel ya ondaragod sikato inkuanto, "Niay tuan Israelita ya ag manasaol na kapara ton too." 
@@ -2984,7 +2984,7 @@ Juan|3|20|Siopamay maoges iray gawa to bosulen toy silew tan ag ondagod silew, o
 Juan|3|21|Balet siopamay mambilay onung ed katwaan, onsingger ed silew tan diad ontan napatnagan a katotoluk ed Dios iray gagawaen to. 
 Juan|3|22|Kasumpal to ya, linmad luyag na Judea si Jesus tan saray disipulo to. Nanayam diman ya agano a kaiba to ra, tan nambibinyag. 
 Juan|3|23|Si Juan mambibinyag met ed Enon, ya ag arawid Salim, lapud dakel so danum diman. Dinmarago ray totood sikato tan binibinyagan to ra. 
-Juan|3|24|(Ag ni aprisoy Juan ed saya.) 
+Juan|3|24|Ag ni aprisoy Juan ed saya.) 
 Juan|3|25|Aminsan akisangsangan iray pigaran disipulo nen Juan ed sakey a Judio, nipaakar ed panaglinis onung ed ganggan. 
 Juan|3|26|Kanyan linma rad kinen Juan tan kuanda, "Maistro, samay toon tinasian mo tan kaibam ed biek na Jordan et mamibinyag met la tan daragoen na amin a totoo." 
 Juan|3|27|Inmebat si Juan, "Anggapoy antokaman a naawat na too, no ag iter na Dios ed sikato. 
@@ -2998,13 +2998,13 @@ Juan|3|34|Ta say imbakiy Dios ipulong toy salitay Dios, ta ag nasabsabaay pangit
 Juan|3|35|Inararoy Ama so Anak tan impalima tod sikatoy amin a bengatla. 
 Juan|3|36|Say manisiad Anak walay bilay ton andi-anggaan, balet say ag mangonur ed Anak ag nawalaay bilay—mansiansia ingey pasnuk na Dios ed sikato.
 Juan|4|1|Nadngelan na saray Pariseo a si Jesus et dakel niy natatanggoyur tan nabibinyagan to nen si Juan. 
-Juan|4|2|(Balet say katwaan to ag mamibinyag si Jesus, no ag ingen saray disipulo to.) 
+Juan|4|2|Balet say katwaan to ag mamibinyag si Jesus, no ag ingen saray disipulo to.) 
 Juan|4|3|Nen akabatan ya nen Jesus, tinmaynan ed Judea tan pinmawil ed Galilea. 
 Juan|4|4|Nakaukolan balet ya ondalan ed Samaria. 
 Juan|4|5|Akasabid baley na Sicar ed Samaria ya asingger ed alog ya inter nen Jacob ed anak ton si Jose. 
 Juan|4|6|Diay kawalaan na bobun nen Jacob. Naknaksawan si Jesus lapud impanakar to, kanyan inmirung ed abay na bobun. Ngalngali lan alas dosi ed kaagewan. 
-Juan|4|7|Sinmabi so sakey a Samaritanan bii ya onasul. Inkuanen Jesus ed sikato, "Nayariy miinom?" 
-Juan|4|8|(Saray disipulo nen Jesus linma ran agano ed baley a manaliw na pangogtoan da.) 
+Juan|4|7|Sinmabi so sakey a Samaritanan bii ya onasul. Inkuanen Jesus ed sikato, "Nayariy miinom?"
+Juan|4|8|Saray disipulo nen Jesus linma ran agano ed baley a manaliw na pangogtoan da.) 
 Juan|4|9|Inmebat imay biin Samaritana, "Akin, anta Judio ka et mimiala kad siak na inomin mo? Ag mo ta amta a Samaritana ak?" (Ta saray Judio ag ira mitotongtong ed saray Samaritano.) 
 Juan|4|10|Inmebat si Jesus, "No amtam labat so iter na Dios tan no kabat mo no siopay mikekerew ed sika na inomen, miala kad sikato angangko et itdan to kay mabilay a danum." 
 Juan|4|11|Inkuanto may bii, "Anggapoy anggan iyasul mo tan araldalem ni met so bobun. Pangalaan moy mabilay a danum ey? 
@@ -3101,8 +3101,8 @@ Juan|6|1|Kasumpal to ya, binmasil si Jesus ed biek na Dayat na Galilea (o Dayat 
 Juan|6|2|Dakerakel iray totoon tinmombuk ed sikato, lapud anengneng da ray makapakelaw a ginagawa to diad impamaabig tod saray mansasakit. 
 Juan|6|3|Tinmakdang si Jesus tan saray disipulo tod nipukdol a pasen, tan diman ira inmirung. 
 Juan|6|4|Asingger lad saman so Pista na Paskua da ray Judio. 
-Juan|6|5|Tinmangway Jesus tan anengneng toy amayamay a totoo ya ondaragod sikato. Tinepet tod kinen Felipe, "Iner so panaliwan tayoy ipakan tayod sarayan totoo?" 
-Juan|6|6|(Tinepet ya nen Jesus, ta labay ton subokey Felipe, balet diad tuay tua amta la nen Jesus so gawaen to.) 
+Juan|6|5|Tinmangway Jesus tan anengneng toy amayamay a totoo ya ondaragod sikato. Tinepet tod kinen Felipe, "Iner so panaliwan tayoy ipakan tayod sarayan totoo?"
+Juan|6|6|Tinepet ya nen Jesus, ta labay ton subokey Felipe, balet diad tuay tua amta la nen Jesus so gawaen to.) 
 Juan|6|7|Inmebat si Felipe, "Anggan mambiliy duan lasus a dinarion tinapay so saliwen, siansian ag ni naapisay eges dan amin." 
 Juan|6|8|Sakey ed saray disipulo, si Andres ya agi nen Simon Pedro, inkuantod kinen Jesus, 
 Juan|6|9|"Wala diay sakey ya ogaw a laki a nambaloy limaran tinapay tan duaran sira. Balet piga la ya ed sayan karakel na totoo?" 
@@ -3171,8 +3171,8 @@ Juan|6|71|Si Judas ya anak nen Simon Iscariote so labay ton ibaga. Ta si Judas a
 Juan|7|1|Kasumpal na sarayan bengatla, niliber-liber nen Jesus so Galilea. Ag to labay so onlad Judea lapud labay a pateyen na saray Judio. 
 Juan|7|2|Magano lan onsabiy Pista na saray Abung-abung, sakey a pista da ray Judio. 
 Juan|7|3|Inkuan sirin na saray lalakin agagi nen Jesus ed sikato, "Taynan ka dia tan lakad Judea, ta pian nanengneng na saray disipulom iray gagawaen mo. 
-Juan|7|4|Ta anggapoy toon iyamut toy kimey to no labay toy ombantug. Gagawaen mo ni lamlamang ira yan bengatla, kanyan ibawag mo lay sikan dili ed sankamundoan." 
-Juan|7|5|(Ta anggan saray lalakin agagi nen Jesus et ag ira manisiad sikato.) 
+Juan|7|4|Ta anggapoy toon iyamut toy kimey to no labay toy ombantug. Gagawaen mo ni lamlamang ira yan bengatla, kanyan ibawag mo lay sikan dili ed sankamundoan."
+Juan|7|5|Ta anggan saray lalakin agagi nen Jesus et ag ira manisiad sikato.) 
 Juan|7|6|Inkuanen Jesus ed sikara, "Ag ni sinmabiy oras ko. Maung ed sikayo ta nayariy amin a panaon. 
 Juan|7|7|Ag kayo nayarin bosulen na sankamundoan balet bosulen to ak, lapud papaneknekan kon maoges iray gawa to. 
 Juan|7|8|Onla ki lan mipista. Ag ak ni onla, ta ag ni sinmabiy oras ko." 
@@ -3220,7 +3220,7 @@ Juan|7|49|Balet insambay Dios yan karaklan ta ag da amtay Ganggan!"
 Juan|7|50|Kaiba rad may Nicodemo a nen aminsan et sinmingger a nanosisa ed kinen Jesus. Tinepet to, 
 Juan|7|51|"Ag ta isesebel na Ganggan so panintinsiad sakey a toon ag ni atepetan tan ag ni amtay gagawaen to?" 
 Juan|7|52|Inmebat ira, "Taga Galilea ka met sirin? Manaral ka pay Masanton Sulat, pian narumog mo ya anggapoy propitan manlapud Galilea."
-Juan|8|1|[Sinmempet lay balang sakey ed abung to, balet linmay Jesus ed Palandey na Kaolibaan. 
+Juan|8|1|Sinmempet lay balang sakey ed abung to, balet linmay Jesus ed Palandey na Kaolibaan. 
 Juan|8|2|Kabkabwasan nen pinmawil ed Timplo. Minongkug na dakel a totoo, kanyan inmirung tan binangatan to ra. 
 Juan|8|3|Kabebekta inyakar na saray iskriba tan saray Pariseo so sakey a biin narel a mikakaloguran, tan pinaalagey dad pegley na totoo. 
 Juan|8|4|Inkuandad kinen Jesus, "Maistro, sayan bii narel a mikakaloguran. 
@@ -3363,7 +3363,7 @@ Juan|10|40|Pinmawil lamet si Jesus ed basil na Ilog na Jordan a nambibinyagan ne
 Juan|10|41|dakel a totoo so linmad sikato tan inkuanda, "Anggapo ray milagron ginawa nen Juan, balet tuan amiy imbabaga ton nipaakar ed sayan too." 
 Juan|10|42|Dakel so anisiad man ed kinen Jesus.
 Juan|11|1|Walay taloran sanaagi a taga ra Betania. Lazaro, Maria, tan Marta so kangaranan da. 
-Juan|11|2|(Si Maria sikato ya may angikalboy pabalingit ed saray sali na Katawan tan pinonasan to ra na buek to.) Mansasakit si Lazaro, 
+Juan|11|2|Si Maria sikato ya may angikalboy pabalingit ed saray sali na Katawan tan pinonasan to ra na buek to.) Mansasakit si Lazaro, 
 Juan|11|3|kanyan nampabaki ra may agagi ton bibii ed kinen Jesus tan impaibaga ra, "Katawan, mansasakit imay malet a kaarom." 
 Juan|11|4|Balet nen nadngelan ya nen Jesus, inkuanto, "Aliwan patey so pansumpalan to yan sakit nen Lazaro. Agawa yan pakagalangay Dios, pian nitanduroy Anak na Dios." 
 Juan|11|5|Inaro nen Jesus ira yan sanaagin Marta, Maria, tan Lazaro. 
@@ -3391,7 +3391,7 @@ Juan|11|26|tan siopamay mambilay tan manisiad siak, ag balut ompatey. Sisiaen mo
 Juan|11|27|"On, Katawan!" inebat nen Marta. "Manisia ak a sikay Anak na Dios, say Cristo ya onsabi diad mundo." 
 Juan|11|28|Kapangibaga nen Marta ed saya, pinmawil ed abung. Tinawag toy agi ton Maria tan inyesaes to, "Wadya lay Maistro; patatawag to ka." 
 Juan|11|29|Kadngel nen Maria ed saya, inmalagey a tampol tan inmabet ed kinen Jesus. 
-Juan|11|30|(Ag ni akasabiy Jesus ed bario, no ag ingen wadman nid pasen ya angabetan nen Marta ed sikato.) 
+Juan|11|30|Ag ni akasabiy Jesus ed bario, no ag ingen wadman nid pasen ya angabetan nen Marta ed sikato.) 
 Juan|11|31|Saray Judio a wadmad abung a manliligliwad Maria et anengneng dan inmalagey a tampol tan pinmaway. Tinombuk da, ta abaloan da ya onlad lobuk tan diman manakis. 
 Juan|11|32|Akasabiy Maria ed pasen a kawalaan nen Jesus. Nen anengneng toy Jesus, dinmakmomod saliyan to, tan kuanto, "Katawan, no wadya ka labat, ag komun inatey so agik!" 
 Juan|11|33|Atenyeg so puso nen Jesus tan agunigon nen anengneng ton mannangnangis si Maria tan saray Judion kakaiba to. 
@@ -3411,8 +3411,8 @@ Juan|11|46|Balet pigarad sikaray linmad saray Pariseo tan imbalita ray ginawa ne
 Juan|11|47|Kanyan akitongtongan na saray manonan papari tan saray Pariseo ray kabyangay Sanidrin. "Antoy gawaen tayo?" kuanda. "Dakel so milagron gagawaen to man a too. 
 Juan|11|48|No palpaolyan tayo, manisia lan amin iray totoo ed sikato tan kabekta, onla ra diay taga Roma a maneral na Timplo tan say baley tayo!" 
 Juan|11|49|Inmebat so sakey ed sikara a Caifas so ngaran to tan sikatoy Pangulon Pari ed saman a taon, "Anggapoy amta yon balut! 
-Juan|11|50|Ag yo ta amtan lalon maung nin ompatey so sakey a toon para saray katoowan, nen say naderal so intiron bansa?" 
-Juan|11|51|(Ag to ya inkuan a nanlapud nunot ton dili. Lapud sikatoy Pangulon Pari ed saman a taon, impasakbay ton ompatey si Jesus para saray Judio. 
+Juan|11|50|Ag yo ta amtan lalon maung nin ompatey so sakey a toon para saray katoowan, nen say naderal so intiron bansa?"
+Juan|11|51|Ag to ya inkuan a nanlapud nunot ton dili. Lapud sikatoy Pangulon Pari ed saman a taon, impasakbay ton ompatey si Jesus para saray Judio. 
 Juan|11|52|Aliwa labat a para saray Judio, no ag ingen pian pankakasakeyen to ray akaykayat ya anak na Dios.) 
 Juan|11|53|Nanlapud saman ya agew, implano ray pamatey dad kinen Jesus. 
 Juan|11|54|Kanyan ag la pinmarontal si Jesus ed saray Judio. Tinmaynan tan linmad baley na Efraim ya asingger ed kalawakan. Nanayam diman a kaiba to ray disipulo to. 
@@ -3450,8 +3450,8 @@ Juan|12|28|Ama, pagalangan moy ngaran mo!"Insan walay bosis a nanlapud tawen a k
 Juan|12|29|Nadngel ya na saray totoon wadman tan kuanda, "Kinmarul!"Inkuan balet na saray arum, "Akisalitay sakey ya anghil ed sikato!" 
 Juan|12|30|Balet inkuanen Jesus ed sikara, "Imparengel yan bosis lapud sikayo, aliwan lapud siak. 
 Juan|12|31|Panaon lan nasintinsiaay sankamundoan. Nibantak la natan so manoley na sayan mundo. 
-Juan|12|32|No nibitin ak la, natanggoyur kon onsingger lad siak ya amiy totoo." 
-Juan|12|33|(Imbaga to yan pangipanengneng toy klasi na ipatey to.) 
+Juan|12|32|No nibitin ak la, natanggoyur kon onsingger lad siak ya amiy totoo."
+Juan|12|33|Imbaga to yan pangipanengneng toy klasi na ipatey to.) 
 Juan|12|34|Inmebat iray totood sikato, "Nadngel mid Ganggan a say Cristo mansiansiad ando lan ando. Panoy pangibagam sirin a nibitin so Anak na Too? Siopa ta yay Anak na Too?" 
 Juan|12|35|Inmebat si Jesus, "Maganggano lan nakaiba yo niy silew. Manakar kayo legan a kaiba yo niy silew, pian ag kayo naabotay bilonget. Ta ag amta na toon manaakar ed ambilonget so lalaen to. 
 Juan|12|36|Ambegyan kaiba yo niy silew sisia yo, pian magmaliw kayon mananombuk na silew."Kapangibaga nen Jesus ed saya, tinmaynan tan inamutan to ra. 
@@ -3478,8 +3478,8 @@ Juan|13|6|Nen asabi lay Simon Pedro inkuanto, "Katawan, akin et orasan mo ray sa
 Juan|13|7|Inmebat si Jesus, "Ag mo ni natan natalusan yay gagawaen ko, balet natalusan mo lamlamang naani." 
 Juan|13|8|Inkuanen Pedro ed sikato, "Ag kon balut paorasan iray salik ed sika!"Inmebat si Jesus, "No ag mo ra paorasan ed siak, anggapo siriy pibibiang mod siak." 
 Juan|13|9|Inmebat si Simon Pedro, "Katawan, aliwan saray salik labat sirin, no ag ingen pati saray limak tan say olok!" 
-Juan|13|10|Inkuanen Jesus, "Ag la nakaukolan a manoras na laman to so siopaman a nanames la likud ed saray sali to, ta malinis lay intiron laman to. Malinis kayo la, balet aliwan amin yo." 
-Juan|13|11|(Kabat nen Jesus no siopay mantraidor ed sikato, kanyan inkuanto, "Malinis kayo la, balet aliwan amin yo.") 
+Juan|13|10|Inkuanen Jesus, "Ag la nakaukolan a manoras na laman to so siopaman a nanames la likud ed saray sali to, ta malinis lay intiron laman to. Malinis kayo la, balet aliwan amin yo."
+Juan|13|11|Kabat nen Jesus no siopay mantraidor ed sikato, kanyan inkuanto, "Malinis kayo la, balet aliwan amin yo.") 
 Juan|13|12|Kayarin inorasan nen Jesus iray sali ra, insolung to lamet imay inekal ton akakolibemben a kawes to, insan pinmawil ed yorungan to. "Atalusan yoy kabaliksan na ginawak ed sikayo?" tinepet tod sikara. 
 Juan|13|13|"Tatawagen yo ak na Maistro tan Katawan. Tuay kuanyo, ta ontan ak lanti. 
 Juan|13|14|No siak sirin a Katawan tan Maistro yo et inorasan ko ray sali yo, nepeg met a manoorasan kayoy sali. 
@@ -3495,8 +3495,8 @@ Juan|13|23|Akasaral ed pagew nen Jesus imay inararo ton disipulo.
 Juan|13|24|Sininyasan nen Simon Pedro tan kuanto, "Tepet mo pad sikato no siopay labay ton ibaga." 
 Juan|13|25|Kanyan inyasingger toy olo to may disipulo ed pagew nen Jesus tan tinepet to, "Katawan, siopa tay kuanmo?" 
 Juan|13|26|Inmebat si Jesus, "No siopay pangitdan koy tinapay ya isawsaw ko, sikato." Angalay tinapay sirin, insawsaw to, insan to inter ed kinen Judas ya anak nen Simon Iscariote. 
-Juan|13|27|Kapangawat nen Judas na tinapay linmoob si Satanas ed sikato. Inkuanen Jesus ed sikato, "Gawam lan tampol so labay mon gawaen!" 
-Juan|13|28|(Anggapod saray karongo nen Jesus so akatalus ed imbaga tod kinen Judas. 
+Juan|13|27|Kapangawat nen Judas na tinapay linmoob si Satanas ed sikato. Inkuanen Jesus ed sikato, "Gawam lan tampol so labay mon gawaen!"
+Juan|13|28|Anggapod saray karongo nen Jesus so akatalus ed imbaga tod kinen Judas. 
 Juan|13|29|Lapud si Judas so mambebembey kuarta, abaloan na saray arum a disipulo a pansaliwen nen Jesus na saray onkana no pista, odino ibabaki ton mangiter ed saray mairap-bilay.) 
 Juan|13|30|Inawat nen Judas imay tinapay tan nangganat a pinmaway. Et labi la. 
 Juan|13|31|Kataynan nen Judas, inkuanen Jesus, "Nipatnag la natay kagalangay Anak na Too, tan napagalangay Dios met natan diad panamegley to. 
@@ -3631,13 +3631,13 @@ Juan|18|4|Amta nen Jesus ya amin iray nagawad sikato, kanyan inmabet ed sikara t
 Juan|18|5|"Si Jesus a taga Nazaret," inebat da.Inkuanen Jesus ed sikara, "Siak si Jesus."Kaiba ray Judas a traidor a manalalagey. 
 Juan|18|6|Nen imbaga ton, "Siak si Jesus," sinmener ira tan atumba ra. 
 Juan|18|7|Tinepet lamet nen Jesus ed sikara, "Siopay aanapen yo?""Si Jesus a taga Nazaret," inkuanda. 
-Juan|18|8|"Imbagak lad sikayon siak si Jesus," inkuanto. "No siak sirin so aanapen yo, abuloyan yon ontaynan la ra yay kakaibak." 
-Juan|18|9|(Imbaga to ya, pian nasumpal imay sinalita to, "Ama, anggapoy anggan sakey ya abalang kod saray inter mod siak.") 
+Juan|18|8|"Imbagak lad sikayon siak si Jesus," inkuanto. "No siak sirin so aanapen yo, abuloyan yon ontaynan la ra yay kakaibak."
+Juan|18|9|Imbaga to ya, pian nasumpal imay sinalita to, "Ama, anggapoy anggan sakey ya abalang kod saray inter mod siak.") 
 Juan|18|10|Inoyus nen Simon Pedro so ispadan awit to, insan insigbat tod aripen na Panguloy Pari, tan nakal so kawanan a layag to. Malco so ngaran to yan aripen. 
 Juan|18|11|Inkuanen Jesus ed Pedro, "Ikaluban mo tay ispadam. Ag ko ta nepeg ya inomen so kupay kairapan ya inter na Ama ed siak?" 
 Juan|18|12|Si Jesus inerel tan binalur na saray guardian Judio tan saray sondalo diad panangipanguloy opisyal da. 
 Juan|18|13|Inyakar dan inmona ed kinen Anas a katolangan nen Caifas a Pangulon Pari ed saman a taon. 
-Juan|18|14|(Si Caifas imay animbawad saray Judio a lalo nin maung so sakey a toon ompatey para amin a katoowan.) 
+Juan|18|14|Si Caifas imay animbawad saray Judio a lalo nin maung so sakey a toon ompatey para amin a katoowan.) 
 Juan|18|15|Si Jesus et tinombuk nen Simon Pedro tan say sakey a disipulo. Kabat na Pangulon Pari yan disipulo, kanyan akaloob a kaiba toy Jesus ed solar na panaayaman to may Pangulon Pari. 
 Juan|18|16|Atilak si Pedro ed paway na puirta. Pinmawil imay disipulon kabat na samay Pangulon Pari, akitongtong ed biin bantay na puirta, tan inloob toy Pedro. 
 Juan|18|17|Tinepet na samay biin bantay na puirta ed kinen Pedro, "Ag ta sakey kad saray disipulo to man a too?""Andi pa," ebat nen Pedro. 
@@ -3654,8 +3654,8 @@ Juan|18|27|Imbori lamet nen Pedro, insan kinmukaok a tampol so lalung.
 Juan|18|28|Nanlapud abung nen Caifas, inyakar day Jesus ed palasioy gobirnador. Kabkabwasan ed saman. Ag linmoob iray Judio ed palasio, pian ag ira nipasen a marotak, et makana ran mangay pandem a Paskua. 
 Juan|18|29|Pinmaway sirin si Pilato tan akiarapan ed sikara. Tinepet to, "Antoy kasalanan to yan too?" 
 Juan|18|30|Inmebat ira, "No anggapoy maoges a ginawa to yan too, ag mi komun inyakar ed sika." 
-Juan|18|31|Inkuanen Pilato, "Awit yo la tan sintinsiaan yo, onung ed ganggan yo."Saray Judio kuanda, "Sebel ed sikami so mamatey na anggan siopa." 
-Juan|18|32|(Agawa ya pian nasumpal so imbaga nen Jesus nipaakar ed klasiy ipatey to.) 
+Juan|18|31|Inkuanen Pilato, "Awit yo la tan sintinsiaan yo, onung ed ganggan yo."Saray Judio kuanda, "Sebel ed sikami so mamatey na anggan siopa."
+Juan|18|32|Agawa ya pian nasumpal so imbaga nen Jesus nipaakar ed klasiy ipatey to.) 
 Juan|18|33|Linmoob lamet si Pilato ed palasio, tinawag toy Jesus tan tinepet to, "Sikay ari da ray Judio?" 
 Juan|18|34|Inmebat si Jesus, "Nanlapud dilin isip mo yan tepet, odino imbagay arum ed sika so nipaakar ed siak?" 
 Juan|18|35|Inmebat si Pilato, "Judio ak ta? Saray kabaleyan mo tan saray manonan pari so angiparontal ed sikad siak. Anto tay ginawam a?" 
@@ -3714,7 +3714,7 @@ Juan|20|5|Yinmokon ninmengneng ed dalem na lobuk. Anengneng to ray abel a sida y
 Juan|20|6|Tinmombuk a sinmabiy Simon Pedro tan linmoob ed lobuk. Anengneng ton wadman iray sidan abel. 
 Juan|20|7|Anengneng to met so abel ya impamalkut ed olo nen Jesus, balet alokut tan akabiig ed saray sidan abel. 
 Juan|20|8|Linmoob met la may akaonan sinmabi a disipulo; anengneng to tan anisia. 
-Juan|20|9|(Ag da ni atalusan so ibabagay Masanton Sulat a nakaukolan ya onolid bilay si Jesus.) 
+Juan|20|9|Ag da ni atalusan so ibabagay Masanton Sulat a nakaukolan ya onolid bilay si Jesus.) 
 Juan|20|10|Sinmempet la sirin ira may disipulo ed kaabungan da. 
 Juan|20|11|Akaalagey a mannangnangis ed paway na lobuk si Maria. Mannangnangis ni nen yinmoko tan ninengneng toy dalem na lobuk. 
 Juan|20|12|Anengneng toy duaran anghil ya akaampotin manyodyorung irad angigatonan ed bangkay nen Jesus, sakey so walad olowan tan sakey so walad saliyan. 
@@ -3754,8 +3754,8 @@ Juan|21|14|Sikato yay kumatlon impanpanengneng nen Jesus ed saray disipulo, kasu
 Juan|21|15|Kasumpal dan angan, tinepet nen Jesus ed kinen Simon Pedro, "Simon ya anak nen Juan, lalon inaro mo ak nen saraya?""On, Katawan," ebat to, "amtam ya inaro ta ka."Inkuanen Jesus ed sikato, "Asikasom iray kordirok." 
 Juan|21|16|Pinidwa nen Jesus a tinepet, "Simon ya anak nen Juan, inaro mo ak?""On, Katawan," ebat to, "amtam ya inaro ta ka."Inkuanen Jesus ed sikato, "Asikasom iray karnirok." 
 Juan|21|17|Pinitlo nen Jesus a tinepet, "Simon ya anak nen Juan, inaro mo ak?"Naermenay Pedro ta pinitlo nen Jesus a tinepet, "Inaro mo ak?" Kanyan kuantod kinen Jesus, "Katawan, amtam iray amin a bengatla; amtam ya inaro ta ka!"Inkuanen Jesus ed sikato, "Asikasom iray karnirok. 
-Juan|21|18|Ibagak ed sikay katwaan: nen ogaw ka ni, sikay mansosolung na kawes mon dili tan oonla kad labay mon laen. Balet no masiken ka la, iyonat mo ray limam tan sananey so mangisolung na kawes mo tan iyakar to ka ed ag mo labay a laen." 
-Juan|21|19|(Imbaga ya nen Jesus diad pangipaamta to no panoy ipatey nen Pedro, tan diad saya et napagalangan nen Pedro so Dios.) Insan inkuanen Jesus ed kinen Pedro, "Tombuk mo ak!" 
+Juan|21|18|Ibagak ed sikay katwaan: nen ogaw ka ni, sikay mansosolung na kawes mon dili tan oonla kad labay mon laen. Balet no masiken ka la, iyonat mo ray limam tan sananey so mangisolung na kawes mo tan iyakar to ka ed ag mo labay a laen."
+Juan|21|19|Imbaga ya nen Jesus diad pangipaamta to no panoy ipatey nen Pedro, tan diad saya et napagalangan nen Pedro so Dios.) Insan inkuanen Jesus ed kinen Pedro, "Tombuk mo ak!" 
 Juan|21|20|Linmingaw si Pedro tan anengneng ton manomtombuk imay disipulon inararo nen Jesus—samay sinmaral ed pagew nen Jesus nen mamandem ira tan nantepet, "Katawan, siopay mantraidor ed sika?" 
 Juan|21|21|Diad impakanengneng nen Pedro ed sikato tinepet to ed kinen Jesus, "Katawan, sayan too balet ey?" 
 Juan|21|22|Inmebat si Jesus, "No labay kon mambilay ya anggad ipawil ko, antoy wala ed sika? Tombuk mo ak!" 

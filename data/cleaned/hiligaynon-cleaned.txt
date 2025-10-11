@@ -28,7 +28,7 @@ Mateo|2|1|Sang natawo na si Jesus sa banwa sang Betlehem nga sakop sang Judea sa
 Mateo|2|2|Nagpamangkot sila, "Sa diin na bala ang bata nga natawo nga manginhari sang mga Judio? Nakita namon ang iya bituon sa sidlangan, kag nag-abot kami sa pagsimba sa iya." 
 Mateo|2|3|Sang pagkabati sini ni Haring Herodes natublag gid sia, subong man ang tanan nga mga tawo sa Jerusalem. 
 Mateo|2|4|Gani ginpatawag niya ang tanan nga mga pangulo sang mga pari kag ang mga manunodlo sang Kasugoan kag nagpamangkot sia sa ila, "Sa diin bala matawo ang Cristo?" 
-Mateo|2|5|Nagsabat sila, "Didto sa banwa sang Betlehem nga sakop sang Judea, kay amo ini ang ginsulat sang propeta: 6|'Kamo nga mga taga-Betlehem sa duta sang Juda,ang inyo banwa indi amo ang pinakakubos sa nagapanguna nga mga siudad sang Juda.Kay sa inyo katawhan magagikan ang isa ka pangulonga magatuytoy sa akon mga tawo nga Israelinhon.'" 
+Mateo|2|5|Nagsabat sila, "Didto sa banwa sang Betlehem nga sakop sang Judea, kay amo ini ang ginsulat sang propeta: 6'Kamo nga mga taga-Betlehem sa duta sang Juda,ang inyo banwa indi amo ang pinakakubos sa nagapanguna nga mga siudad sang Juda.Kay sa inyo katawhan magagikan ang isa ka pangulonga magatuytoy sa akon mga tawo nga Israelinhon.'" 
 Mateo|2|7|Dayon ginpatawag ni Herodes sing tago ang mga bisita halin sa Sidlangan kag nagpamangkot sing maid-id sa ila kon san-o gid nagpakita ang bituon. 
 Mateo|2|8|Dayon ginpakadto niya sila sa Betlehem kag ginmanduan, "Lakat kamo kag pangitaa sing maid-id ang bata, kag kon inyo sia makita pahibal-a ninyo ako, agod makakadto man ako kag magsimba sa iya." 
 Mateo|2|9-10| Sang mabatian nila ang ginsiling sang hari, naglakat sila. Sang nagapanglakaton sila, nakita nila ang bituon nga nakita nila anay sa Sidlangan. Nagkalipay gid sila sang makita nila ang bituon. Nag-una ini sa ila kag nagdulog sa ibabaw sang lugar sa diin nahamtang ang bata. 
@@ -470,7 +470,7 @@ Mateo|14|17|Nagsabat sila, "Lima gid lang ka bilog nga tinapay kag duha ka isda 
 Mateo|14|18|Nagsiling si Jesus, "Dalha ninyo ina diri sa akon." 
 Mateo|14|19|Ginsugo niya ang mga tawo nga magpungko sa hilamon. Dayon iya ginkuha ang lima ka bilog nga tinapay kag duha ka isda, nagtangla sa langit kag nagpasalamat sa Dios. Ginpamihakpihak niya ang tinapay kag ginhatag niya ini sa iya mga gintuton-an, kag ginhatag ini sang mga gintuton-an sa mga tawo. 
 Mateo|14|20|Ang tagsatagsa nagkaon kag nabusog. Dayon gintipon sang mga gintuton-an ang nabilin kag dose pa ka mga alat ang napuno. 
-Mateo|14|21|Ang mga nagkalaon mga 5,000| ka mga lalaki, wala labot ang mga babayi kag mga kabataan. 
+Mateo|14|21|Ang mga nagkalaon mga 5,000 ka mga lalaki, wala labot ang mga babayi kag mga kabataan. 
 Mateo|14|22|Dayon ginsugo ni Jesus ang iya mga gintuton-an sa pagsakay sa sakayan kag sa pag-una sa tabok sang linaw, samtang ginpapauli niya ang mga tawo. 
 Mateo|14|23|Sang mapalakat na niya ang mga tawo nagtaklad sia nga nagaisahanon sa isa ka bakulod sa pagpangamuyo. Sang gab-i na, isa lang si Jesus didto. 
 Mateo|14|24|Sa amo nga tion, ang sakayan didto na sa tunga sang linaw nga ginabulobalinsay sang mga balod, tungod kay sumpong ang hangin. 
@@ -523,7 +523,7 @@ Mateo|15|34|Ginpamangkot sila ni Jesus, "Pila bala ka bilog ang inyo tinapay?"Na
 Mateo|15|35|Gani ginsugo niya ang mga tawo nga magpungko sa duta. 
 Mateo|15|36|Dayon ginkuha niya ang pito ka bilog nga tinapay kag ang mga isda, kag sang nakapasalamat sia sa Dios, ginpamihakpihak niya ini kag ginhatag sa mga gintuton-an, kag ang mga gintuton-an naghatag sini sa mga tawo. 
 Mateo|15|37|Ang tanan nagkaon kag nabusog. Dayon gintipon sang mga gintuton-an ang nabilin kag pito pa ka mga alat ang napuno. 
-Mateo|15|38|Ang kadamuon sang mga tawo nga nagkalaon 4,000| ka mga lalaki wala labot sa mga babayi kag mga kabataan. 
+Mateo|15|38|Ang kadamuon sang mga tawo nga nagkalaon 4,000 ka mga lalaki wala labot sa mga babayi kag mga kabataan. 
 Mateo|15|39|Dayon ginpapauli ni Jesus ang mga tawo, nagsakay sia sa sakayan kag nagkadto sa duta sang Magadan.
 Mateo|16|1|May mga Fariseo kag mga Saduceo nga nagpalapit kay Jesus. Buot nila tilawan sia, gani nagpangayo sila sa iya nga maghimo sia sang isa ka milagro sa pagpakita nga may gahom sia halin sa Dios. 
 Mateo|16|2|Pero si Jesus nagsabat, "Kon magtunod ang adlaw nagasiling kamo, 'Magaayo ang tiyempo, tungod kay ang langit mapula.'
@@ -533,8 +533,8 @@ Mateo|16|5|Sang pagtabok sang mga gintuton-an sa pihak sang linaw, nalipat sila 
 Mateo|16|6|Nagsiling si Jesus sa ila, "Mag-andam kag magbantay kamo batok sa lebadora sang mga Fariseo kag mga Saduceo." 
 Mateo|16|7|Kag nagbinaisay sila nga nagasiling, "Naghambal sia sini tungod kay wala kita makadala sing tinapay." 
 Mateo|16|8|Si Jesus nga nakahibalo sang ila ginabaisan, nagpamangkot sa ila, "Ngaa bala nagabinaisay kamo tungod kay wala kamo sing tinapay? Kadiutay sang inyo pagtuo! 
-Mateo|16|9|Wala pa bala kamo makahangop? Wala bala kamo makadumdom sang lima ka tinapay nga akon ginpamihakpihak para sa 5,000| ka mga tawo? Pila bala ka alat ang inyo ginpuno? 
-Mateo|16|10|Kag yadtong pito ka tinapay para sa 4,000| ka mga tawo? Pila bala ka mga alat ang inyo ginpuno? 
+Mateo|16|9|Wala pa bala kamo makahangop? Wala bala kamo makadumdom sang lima ka tinapay nga akon ginpamihakpihak para sa 5,000 ka mga tawo? Pila bala ka alat ang inyo ginpuno? 
+Mateo|16|10|Kag yadtong pito ka tinapay para sa 4,000 ka mga tawo? Pila bala ka mga alat ang inyo ginpuno? 
 Mateo|16|11|Paano bala nga wala kamo makahangop nga indi nahanungod sa tinapay ang ginhambal ko sa inyo? Mag-andam kamo sa lebadora sang mga Fariseo kag mga Saduceo!" 
 Mateo|16|12|Dayon nahangpan sang mga gintuton-an nga wala sia magpaandam sa ila nga magbantay sang ila kaugalingon sa lebadora nga ginagamit sa tinapay, kundi sa pagtulon-an sang mga Fariseo kag mga Saduceo. 
 Mateo|16|13|Nagkadto si Jesus sa kadutaan nga malapit sa banwa sang Cesarea Filipo, sa diin nagpamangkot sia sa iya mga gintuton-an, "Sin-o bala ang Anak sang Tawo suno sa mga tawo?" 
@@ -764,7 +764,7 @@ Mateo|22|39|Ang ikaduha kaangay man sini: 'Higugmaa ang imo isigkatawo subong sa
 Mateo|22|40|Sa sining duha ka mga sugo napasad ang bug-os nga Kasugoan ni Moises kag ang mga pagtulon-an sang mga propeta." 
 Mateo|22|41|Sang pagtilipon sang mga Fariseo, si Jesus nagpamangkot sa ila, 
 Mateo|22|42|"Ano bala ang hunahuna ninyo nahanungod sa Cristo? Kay sin-o bala sia kaliwat?"Nagsabat sila, "Kaliwat sia ni David." 
-Mateo|22|43|Si Jesus nagpamangkot, "Ti, ngaa nga si David ginbugnaan sang Espiritu sa pagtawag sa iya nga 'Ginoo'? Kay si David nagsiling: 44|'Ang Ginoo nagsiling sa akon Ginoo,pungko ka diri sa akon tuo,tubtob nga mabutang ko ang imo mga kaaway sa idalom sang imo mga tiil.'
+Mateo|22|43|Si Jesus nagpamangkot, "Ti, ngaa nga si David ginbugnaan sang Espiritu sa pagtawag sa iya nga 'Ginoo'? Kay si David nagsiling: 44'Ang Ginoo nagsiling sa akon Ginoo,pungko ka diri sa akon tuo,tubtob nga mabutang ko ang imo mga kaaway sa idalom sang imo mga tiil.'
 Mateo|22|45|Karon kon si David nagtawag sa iya nga 'Ginoo,' paano bala nga ang Cristo mangin-kaliwat ni David?" 
 Mateo|22|46|Wala gid sing may nakasabat kay Jesus bisan isa ka tinaga, kag sugod sadto nga adlaw wala na sing may nangahas sa pagpamangkot sa iya.
 Mateo|23|1|Dayon si Jesus naghambal sa madamo nga mga tawo kag sa iya mga gintuton-an, 
@@ -870,20 +870,20 @@ Mateo|25|11|"Dugaydugay nag-abot ang iban nga mga dalaga kag nagpanawag, 'Sir, s
 Mateo|25|12|Pero ang lalaki nga kalasalon nagsabat, 'Nagasiling ako sa inyo, wala ako makakilala sa inyo.'" 
 Mateo|25|13|Kag si Jesus nagsiling, "Gani magbantay kamo, tungod kay wala kamo makahibalo sang adlaw ukon sang takna. 
 Mateo|25|14|"Sa sadto nga tion ang Ginharian sang langit kaangay sang isa ka tawo nga manuglakat sa iban nga lugar. Gintawag niya ang iya mga suloguon kag gintugyan niya sa ila ang iya mga pagkabutang. 
-Mateo|25|15|Ginhatagan niya ang kada isa sa ila suno sa ila ikasarang. Ginhatagan niya ang isa sing 5,000| pisos, ang isa sing 2,000| pisos, kag ang isa pa gid sing 1,000| ka pisos. Dayon naglakat sia. 
-Mateo|25|16|Ang suloguon nga nakabaton sing 5,000| pisos naglakat sa gilayon kag iya ginpatikang ang iya kwarta, kag nakaganansya sia sing 5,000| pisos. 
-Mateo|25|17|Amo man ang suloguon nga nakabaton sing 2,000| pisos, nakaganansya man sia sing 2,000| pisos. 
-Mateo|25|18|Pero ang nakabaton sing 1,000| ka pisos naglakat kag nagkutkot sa duta, kag ginlubong niya ang kwarta sang iya agalon. 
+Mateo|25|15|Ginhatagan niya ang kada isa sa ila suno sa ila ikasarang. Ginhatagan niya ang isa sing 5,000 pisos, ang isa sing 2,000 pisos, kag ang isa pa gid sing 1,000 ka pisos. Dayon naglakat sia. 
+Mateo|25|16|Ang suloguon nga nakabaton sing 5,000 pisos naglakat sa gilayon kag iya ginpatikang ang iya kwarta, kag nakaganansya sia sing 5,000 pisos. 
+Mateo|25|17|Amo man ang suloguon nga nakabaton sing 2,000 pisos, nakaganansya man sia sing 2,000 pisos. 
+Mateo|25|18|Pero ang nakabaton sing 1,000 ka pisos naglakat kag nagkutkot sa duta, kag ginlubong niya ang kwarta sang iya agalon. 
 Mateo|25|19|"Sa tapos ang malawig nga panahon nagbalik ang agalon kag nagpakighusay sa iya mga suloguon. 
-Mateo|25|20|Ang suloguon nga nakabaton sing 5,000| pisos nagsulod kag nagdala sing 5,000| pisos. Nagsiling sia, 'Ginoo, ginhatagan mo ako sing 5,000| pisos. Yari pa gid ang 5,000| pisos nga akon naganansya.'
+Mateo|25|20|Ang suloguon nga nakabaton sing 5,000 pisos nagsulod kag nagdala sing 5,000 pisos. Nagsiling sia, 'Ginoo, ginhatagan mo ako sing 5,000 pisos. Yari pa gid ang 5,000 pisos nga akon naganansya.'
 Mateo|25|21|Ang iya agalon nagsiling sa iya, 'Maayo gid, maayo kag matutom nga suloguon! Tungod kay matutom ka magpatikang sang diutay nga kantidad karon, ikaw ang padumalahon ko sang dalagku pa gid nga kantidad. Dali diri kag mag-ambit sang akon kalipay!'
-Mateo|25|22|Dayon ang suloguon nga nakabaton sing 2,000| pisos nagsulod kag nagsiling, 'Ginoo, ginhatagan mo ako sing 2,000| pisos. Yari pa gid ang 2,000| pisos nga akon naganansya.'
+Mateo|25|22|Dayon ang suloguon nga nakabaton sing 2,000 pisos nagsulod kag nagsiling, 'Ginoo, ginhatagan mo ako sing 2,000 pisos. Yari pa gid ang 2,000 pisos nga akon naganansya.'
 Mateo|25|23|Ang iya agalon nagsiling, 'Maayo gid, maayo kag matutom nga suloguon! Tungod kay matutom ka magpatikang sang diutay nga kantidad, karon ikaw ang padumalahon ko sang dalagku pa gid nga kantidad. Dali diri kag mag-ambit sang akon kalipay!'
-Mateo|25|24|Dayon ang suloguon nga nakabaton sing 1,000| ka pisos nagsulod kag nagsiling, 'Ginoo, nakahibalo ako nga mabudlay ikaw nga tawo, nagaani ka sa wala mo matamni kag nagatipon sang patubas sa wala mo masab-ugi. 
+Mateo|25|24|Dayon ang suloguon nga nakabaton sing 1,000 ka pisos nagsulod kag nagsiling, 'Ginoo, nakahibalo ako nga mabudlay ikaw nga tawo, nagaani ka sa wala mo matamni kag nagatipon sang patubas sa wala mo masab-ugi. 
 Mateo|25|25|Hinadlukan ako, gani naglakat ako kag gintago ko ang imo kwarta sa duta. Yari ang imo kwarta.'
 Mateo|25|26|Ang iya agalon nagsiling, 'Malain kag matamad ka nga suloguon! Nakahibalo ka gali nga ako nagaani sa wala ko matamni kag nagatipon sang patubas sa wala ko masab-ugi? 
 Mateo|25|27|Ti, kuntani ginpatago mo sa bangko ang akon kwarta, agod sa akon pagbalik mabaton ko ang akon kwarta upod sang iya saka. 
-Mateo|25|28|Karon, kuhaa ninyo ang kwarta sa iya kag ihatag sa suloguon nga may 10,000| pisos. 
+Mateo|25|28|Karon, kuhaa ninyo ang kwarta sa iya kag ihatag sa suloguon nga may 10,000 pisos. 
 Mateo|25|29|Kay ang tagsatagsa nga may iya, hatagan pa gid, kag magasulobra ang iya pagkabutang. Pero sia nga wala sing iya, bisan pa ang diutay niya nga pagkabutang kuhaon pa sa iya. 
 Mateo|25|30|Nahanungod sa sining walay pulos nga suloguon, ihaboy sia ninyo sa kadudulman sa gwa. Didto magahibi sia kag magabagrot ang iya mga ngipon.'
 Mateo|25|31|"Kon ang Anak sang Tawo mag-abot subong Hari, nga ginaupdan sang tanan nga mga anghel, magapungko sia sa iya harianon nga trono, 
@@ -1224,7 +1224,7 @@ Marcos|5|9|Gani ginpamangkot sia ni Jesus, "Ano ang ngalan mo?"Nagsabat sia, "An
 Marcos|5|10|Kag sagad sia pakitluoy kay Jesus nga indi pagtabugon ang malaut nga mga espiritu pa gwa sa sadto nga lugar. 
 Marcos|5|11|Malapit sa sadtong lugar may daku nga panong sang mga baboy nga nagaungad sa banglid. 
 Marcos|5|12|Nagpakitluoy ang mga espiritu sa kay Jesus, "Pakadtua kami sa mga baboy, kag tugoti kami nga magsulod sa ila." 
-Marcos|5|13|Gani gintugotan niya sila. Ang malaut nga mga espiritu naggwa sa tawo kag nagsulod sa mga baboy. Ang bug-os nga panong nga mga 2,000| ka mga baboy, nagdinaguso padulhog sa kilid sang pil-as pakadto sa linaw, kag nagkalalumos sila tanan. 
+Marcos|5|13|Gani gintugotan niya sila. Ang malaut nga mga espiritu naggwa sa tawo kag nagsulod sa mga baboy. Ang bug-os nga panong nga mga 2,000 ka mga baboy, nagdinaguso padulhog sa kilid sang pil-as pakadto sa linaw, kag nagkalalumos sila tanan. 
 Marcos|5|14|Ang mga manugsagod sang mga baboy nagpalalagyo kag nagpanugid sa mga tawo sa banwa kag sa mga tawo sa mga barangay sang natabo. Ang mga tawo nagkadto sa pagtan-aw kon ano ang nahanabo. 
 Marcos|5|15|Nagpalapit sila kay Jesus kag nakita nila ang tawo nga gingamhan anay sang mga demonyo. Nagapungko sia didto nga may bayu na, kag yara na sa iya husto nga panghunahuna, kag hinadlukan sila tanan. 
 Marcos|5|16|Ang mga nakakita sang nahanabo sa tawo nga ginagamhan sang mga demonyo, kag sang nahanabo sa mga baboy nagpanugid sa mga tawo. 
@@ -1298,7 +1298,7 @@ Marcos|6|40|Kag ang mga tawo grupo-grupo nga nagpungko kag napa-idas. Ang iban n
 Marcos|6|41|Dayon ginkuha ni Jesus ang lima ka bilog nga tinapay kag ang duha ka bilog nga isda, nagtangla sia sa langit, kag nagpasalamat sa Dios. Iya ginpamihakpihak ang tinapay kag ginhatag sa iya mga gintuton-an agod nga ila ipanagtag sa mga tawo. Iya man ginpartiparti ang duha ka bilog nga isda sa ila tanan. 
 Marcos|6|42|Nagkaon sila tanan kag nagkalabusog. 
 Marcos|6|43|Dayon gintipon sang mga gintuton-an ang nagkalabilin nga tinapay kag isda kag napuno ang dose ka mga alat. 
-Marcos|6|44|Ang kadamuon sang mga lalaki nga nagkalaon 5,000|. 
+Marcos|6|44|Ang kadamuon sang mga lalaki nga nagkalaon 5,000. 
 Marcos|6|45|Sa gilayon ginpasakay ni Jesus ang iya mga gintuton-an sa sakayan kag ginpauna sila sa Betsaida sa tabok sang linaw, samtang ginpapauli niya ang mga tawo. 
 Marcos|6|46|Sa tapos sia makapaalam sa ila, nagkadto sia sa isa ka bakulod sa pagpangamuyo. 
 Marcos|6|47|Sang pagkagab-i, ang sakayan yadto na sa tunga sang linaw, samtang si Jesus isahanon lang sa takas. 
@@ -1354,7 +1354,7 @@ Marcos|8|4|Ang iya mga gintuton-an nagpamangkot sa iya, "Diin bala kita sa sini 
 Marcos|8|5|Nagpamangkot si Jesus, "Pila pa ka bilog ang inyo tinapay?"Nagsabat sila, "Pito." 
 Marcos|8|6|Ginsugo niya ang mga tawo nga magpungko sa duta. Dayon ginkuha niya ang pito ka bilog nga tinapay, nagpasalamat sia sa Dios, ginpamihakpihak niya ini kag ginhatag sa iya mga gintuton-an agod ipanagtag nila sa mga tawo, kag ginpanagtag ini sang mga gintuton-an. 
 Marcos|8|7|May pila man sila ka bilog nga magagmay nga isda. Nagpasalamat si Jesus tungod sini kag iya ginsugo ang iya mga gintuton-an nga ipanagtag man ini. 
-Marcos|8|8-9| Ang tanan nagkalaon kag nagkalabusog, kag ang kadamuon sang mga tawo mga 4,000|. Sa tapos sini ang mga nabilin gintipon sang mga gintuton-an kag napuno ang pito ka alat. Ginpapauli ni Jesus ang mga tawo, 
+Marcos|8|8-9| Ang tanan nagkalaon kag nagkalabusog, kag ang kadamuon sang mga tawo mga 4,000. Sa tapos sini ang mga nabilin gintipon sang mga gintuton-an kag napuno ang pito ka alat. Ginpapauli ni Jesus ang mga tawo, 
 Marcos|8|10|kag sa gilayon nagsakay sia sa isa ka sakayan upod ang iya mga gintuton-an kag nagkadto sila sa distrito sang Dalmanuta. 
 Marcos|8|11|May mga Fariseo nga nagpalapit kag nagpakigsuay sa kay Jesus. Luyag nila nga tilawan sia, gani nagpangayo sila sa iya sing isa ka milagro sa pagpakita nga may gahom sia halin sa Dios. 
 Marcos|8|12|Nagpanghakroy si Jesus sing malawig kag nagsiling, "Ngaa bala nga ang mga tawo karon nga mga inadlaw nagapangayo sang isa ka milagro? Nagasiling ako sing matuod sa inyo, nga wala sing milagro nga ihatag sa sini nga mga tawo!" 
@@ -1364,8 +1364,8 @@ Marcos|8|15|Ginpaandaman sila ni Jesus, "Mag-andam kamo kag magbantay sang inyo 
 Marcos|8|16|Nagbinaisay sila kag nagsiling, "Ginhambal niya ini tungod kay wala kita sing tinapay." 
 Marcos|8|17|Si Jesus nakahibalo sang ila ginabaisan, gani ginpamangkot niya sila, "Ngaa bala nga nagabais kamo kay wala kamo sing tinapay? Wala pa bala kamo makahibalo ukon makahangop? Matig-a gid bala kamo sing ulo. 
 Marcos|8|18|May mga mata man kamo, kag indi bala kamo makakita? May mga dulonggan man kamo, kag indi bala kamo makabati? Wala bala kamo makadumdom 
-Marcos|8|19|sang ginpamihakpihak ko ang lima ka bilog nga tinapay para sa 5,000| ka mga tawo? Pila ka alat ang napuno sang nabilin nga inyo gintipon?"Nagsabat sila, "Dose." 
-Marcos|8|20|Si Jesus nagpamangkot, "Kag sang ginpamihakpihak ko ang pito ka bilog nga tinapay para sa 4,000| ka mga tawo, pila bala ka alat ang napuno sang natipon ninyo nga sobra?"Nagsabat sila, "Pito." 
+Marcos|8|19|sang ginpamihakpihak ko ang lima ka bilog nga tinapay para sa 5,000 ka mga tawo? Pila ka alat ang napuno sang nabilin nga inyo gintipon?"Nagsabat sila, "Dose." 
+Marcos|8|20|Si Jesus nagpamangkot, "Kag sang ginpamihakpihak ko ang pito ka bilog nga tinapay para sa 4,000 ka mga tawo, pila bala ka alat ang napuno sang natipon ninyo nga sobra?"Nagsabat sila, "Pito." 
 Marcos|8|21|Nagpamangkot sia sa ila, "Kag indi pa bala kamo makahangop?" 
 Marcos|8|22|Nag-abot sila sa Betsaida. May mga tawo didto nga nagdala sang isa ka bulag kay Jesus kag nagpakitluoy sa iya nga iya sia tandugon. 
 Marcos|8|23|Gin-uyatan ni Jesus ang bulag sa kamot kag gintuytoyan pa gwa sa barangay. Sang malamhitan ni Jesus sang dupla ang mga mata sang bulag, gintungtong niya ang iya mga kamot sa bulag kag nagpamangkot, "May makita ka bala?" 
@@ -1721,7 +1721,7 @@ Marcos|16|5|Gani nagsulod sila sa lulobngan sa diin nakita nila ang isa ka pamat
 Marcos|16|6|Nagsiling sia sa ila, "Indi kamo magkahadlok! Nakahibalo ako nga ginapangita ninyo si Jesus nga taga-Nazaret nga ginlansang sa krus. Wala sia diri! Nabanhaw sia! Tan-awa bala ninyo, yari ang lugar nga ginpahamyangan nila sang iya bangkay. 
 Marcos|16|7|Karon lakat kamo kag isugid ninyo ini nga balita sa iya mga gintuton-an labi na gid kay Pedro: 'Magauna sia sa inyo sa Galilea. Didto makita ninyo sia suno gid sa ginsiling niya sa inyo.'" 
 Marcos|16|8|Gani naggwa ang mga babayi sa lulobngan kag nagpalagyo, kay nagakulurog sila sa kahadlok. Kag wala gid sila maghambal bisan kay sin-o, tungod kay hinadlukan sila.[
-Marcos|16|9 Aga pa gid sang nahauna nga adlaw sang simana, sang pagkabanhaw ni Jesus, nagpakita sia sing una kay Maria Magdalena nga gikan sa iya anay gintabog niya ang pito ka demonyo. 
+Marcos|16|9|Aga pa gid sang nahauna nga adlaw sang simana, sang pagkabanhaw ni Jesus, nagpakita sia sing una kay Maria Magdalena nga gikan sa iya anay gintabog niya ang pito ka demonyo. 
 Marcos|16|10|Naglakat si Maria Magdalena kag nagpanugid sang nahanabo sa mga kaupdanan anay ni Jesus. Nagapangalisod sila kag nagahinibi, 
 Marcos|16|11|kag sang pagkabati nila sang iya panugiron nga si Jesus buhi kag nakit-an niya, wala sila magpati sa iya. 
 Marcos|16|12|Sa tapos sini, nagpakita si Jesus sa lain nga paagi sa duha ka gintuton-an samtang nagapakadto sila sa uma. 
@@ -1733,7 +1733,7 @@ Marcos|16|17|Ang mga tumoluo pagahatagan sining masunod nga mga gahom: magatabog
 Marcos|16|18|kag kon mag-uyat sila sang mga man-og ukon makainom sang bisan ano nga hilo, indi sila mahalitan. Magatungtong sila sang ila mga kamot sa mga masakiton, kag ini sila magaayo." 
 Marcos|16|19|Sa tapos si Ginoong Jesus nakapakighambal sa ila, nagkayab sia sa langit kag nagpungko sa tuo sang Dios. 
 Marcos|16|20|Naglakat kag nagwali ang mga gintuton-an sa bisan diin nga lugar kag ang Ginoo nagbulig sa ila, kag nagpamatuod sang ila mensahe paagi sa paghatag sa ila sing gamhanan nga mga tanda.][
-Marcos|16|9 Ang mga babayi nagkadto kay Pedro kag sa iya mga kaupdanan kag nagpanaysayon sing malip-ot sa ila sang tanan nga ginsugid sa ila. 
+Marcos|16|9|Ang mga babayi nagkadto kay Pedro kag sa iya mga kaupdanan kag nagpanaysayon sing malip-ot sa ila sang tanan nga ginsugid sa ila. 
 Marcos|16|10|Sa tapos sini, ginpadala ni Jesus mismo paagi sa iya mga gintuton-an ang balaan kag buhi nga mensahe sang walay katubtoban nga kaluwasan nga iwali halin sa sidlangan tubtob sa nakatundan.]
 Lucas|1|1|Halangdon nga Teofilo:Madamo na nga mga tawo ang nagtinguha sa pagsulat sing sugilanon nahanungod sang mga butang nga nagkalatabo sa tunga namon. 
 Lucas|1|2|Ginsulat nila ang ginsugid sa amon sang mga nakakita sini nga mga butang kag sang mga nagwali sang mensahe halin sa ginsugoran. 
@@ -2076,7 +2076,7 @@ Lucas|7|37|May isa ka makasasala nga babayi nga nagaestar sa amo nga banwa. Sang
 Lucas|7|38|Nagtindog sia sa likod nayon ni Jesus malapit sa iya tiil nga nagahibi, kag ginbasa niya ang mga tiil ni Jesus sang iya mga luha. Dayon ginpahiran niya ang mga tiil ni Jesus sang iya buhok, iya ginhalukan, kag ginbuboan ini sang agwa. 
 Lucas|7|39|Sang pagkakita sini sang Fariseo nga nag-agda kay Jesus nagsiling sia sa iya kaugalingon, "Kon matuod nga ining tawo propeta, kuntani nahibal-an niya kon sin-o kag ano ka makasasala sang kabuhi sini nga babayi nga nagatandog sa iya." 
 Lucas|7|40|Si Jesus naghambal kag nagsiling sa iya, "Simon, may isugid ako sa imo."Si Simon nagsabat, "Huo, Manunodlo, sugiri ako." 
-Lucas|7|41|Si Jesus nagsiling, "May isa ka manugpautang nga may duha ka tawo nga ginpautang. Ang isa nakautang sa iya sing 5,000| kag ang isa 500. 
+Lucas|7|41|Si Jesus nagsiling, "May isa ka manugpautang nga may duha ka tawo nga ginpautang. Ang isa nakautang sa iya sing 5,000 kag ang isa 500. 
 Lucas|7|42|Sila nga duha indi gid makabayad, gani, wala na lang sila ginpabayad sang nagpautang sa ila. Diin sa ila nga duha ang magahigugma sing labi sa nagpautang sa ila?" 
 Lucas|7|43|Si Simon nagsabat, "Sa banta ko ang nakautang sing daku kag wala na pagpabayara."Si Jesus nagsiling, "Husto ang sabat mo." 
 Lucas|7|44|Dayon nagliso sia sa babayi samtang nagapadayon sa pagsiling kay Simon, "Nakita mo ining babayi? Nagsulod ako sa imo balay kag wala ka maghatag sa akon sing tubig para sa akon mga tiil, pero sia nagbasa sang akon mga tiil sang iya mga luha kag ginpahiran niya ini sang iya buhok. 
@@ -2155,7 +2155,7 @@ Lucas|9|10|Ang mga apostoles nagbalik kag nagpanugid kay Jesus sang tanan nga il
 Lucas|9|11|Sang nahibaluan ini sang madamo nga mga tawo nag-apas sila sa iya. Ginbaton niya sila kag naghambal sa ila nahanungod sang paghari sang Dios. Kag gin-ayo niya ang mga nagakinahanglan sang pag-ayo. 
 Lucas|9|12|Sang nagahinunod na ang adlaw, ang dose ka mga apostoles nagkadto sa iya kag nagsiling, "Palakta ang mga tawo agod nga makakadto sila sa mga barangay kag mga kaumhan sa palibot sa pagpangita sing kalan-on kag dalayunan tungod kay maligwin ini nga lugar." 
 Lucas|9|13|Pero si Jesus nagsiling sa ila, "Kamo mismo ang maghatag sa ila sang sarang makaon."Nagsabat sila, "Lima gid lang ka bilog ang aton tinapay kag duha lang ka isda. Luyag mo bala nga maglakat kami sa pagbakal sing pagkaon para sa sini tanan nga mga tawo?" 
-Lucas|9|14|Kay mga 5,000| ang mga lalaki didto.Si Jesus nagsiling sa iya mga gintuton-an, "Papungkua ninyo sila sing grupo-grupo nga tag-singkwenta kada grupo." 
+Lucas|9|14|Kay mga 5,000 ang mga lalaki didto.Si Jesus nagsiling sa iya mga gintuton-an, "Papungkua ninyo sila sing grupo-grupo nga tag-singkwenta kada grupo." 
 Lucas|9|15|Ginhimo ini sang mga gintuton-an kag ginpapungko sila tanan. 
 Lucas|9|16|Ginkuha ni Jesus ang lima ka bilog nga tinapay kag ang duha ka isda, nagtangla sia sa langit, nagpasalamat sa Dios, ginpamihakpihak ini, kag ginhatag sa mga gintuton-an agod ipanagtag sa mga tawo. 
 Lucas|9|17|Nagkalaon sila tanan kag nagkalabusog. Ang mga gintuton-an nakatipon sing dose ka mga alat sang nagkalabilin. 
@@ -2424,7 +2424,7 @@ Lucas|14|27|Ang bisan sin-o nga wala nagapas-an sang iya kaugalingon nga krus ka
 Lucas|14|28|Kon ang isa sa inyo nagaplano nga magpatindog sing tore, indi bala nga magapungko sia anay kag isipon ang bili, agod mahibaluan niya kon bala makaigo ang iya kwarta sa pagpahuman sini? 
 Lucas|14|29|Kay basi sa tapos nga mapasad niya ang sadsaran, indi na sia makasarang sa pagpatapos sang tore, kag ang tanan nga makakita sini magayaguta sa iya. 
 Lucas|14|30|Magasiling sila, 'Ini nga tawo nagsugod sa pagpatindog sing tore kag indi makapatapos.'
-Lucas|14|31|Kon ang hari nga may 10,000| ka mga soldado magpakigsumpong sa isa ka hari nga may 20,000| ka mga soldado nga nagapadulong batok sa iya, magapungko anay sia kag magabinagbinag kon bala may tuman sia nga kusog sa pag-atubang sa nagapadulong nga hari. 
+Lucas|14|31|Kon ang hari nga may 10,000 ka mga soldado magpakigsumpong sa isa ka hari nga may 20,000 ka mga soldado nga nagapadulong batok sa iya, magapungko anay sia kag magabinagbinag kon bala may tuman sia nga kusog sa pag-atubang sa nagapadulong nga hari. 
 Lucas|14|32|Kon indi sia makasarang, magapadala sia sing mga mensahero sa pagsugata sang nagapadulong nga hari samtang malayo pa sia sa pagpangayo sang mga kasugtanan sang paghidait." 
 Lucas|14|33|Sa katapusan si Jesus nagsiling, "Sa amo man nga bagay, wala sing isa sa inyo nga mangingintuton-an ko kon indi sia magbiya sang tanan niya nga mga pagkabutang." 
 Lucas|14|34|"Ang asin maayo, pero kon ang asin indi na maarat, indi na ini mapaarat liwat. 
@@ -2467,7 +2467,7 @@ Lucas|16|3|Ang enkargado nagsiling sa iya kaugalingon, 'Ano bala ang himuon ko, 
 Lucas|16|4|A, nahibaluan ko na kon ano ang akon himuon, agod nga kon wala na ako sing obra may mga abyan ako nga magabaton sa akon sa ila mga puloy-an.'
 Lucas|16|5|Gani ginpatawag niya ang tanan nga mga tawo nga nakautang sa iya amo. Sa nahauna nagpamangkot sia, 'Pila ang utang mo sa akon amo?'
 Lucas|16|6|Nagsabat ang tawo, '100 ka galon nga lana sang olivo.' Ang enkargado nagsiling sa iya, 'Yari ang imo listahan. Pungko ka kag isulat nga singkwenta lang.'
-Lucas|16|7|Sa isa na man nagpamangkot sia, 'Kag ikaw, pila ang utang mo?' Nagsabat sia, '1,000| ka sako nga trigo.' Nagsiling sa iya ang enkargado, 'Yari ang imo listahan. Isulat nga 800 lang.'
+Lucas|16|7|Sa isa na man nagpamangkot sia, 'Kag ikaw, pila ang utang mo?' Nagsabat sia, '1,000 ka sako nga trigo.' Nagsiling sa iya ang enkargado, 'Yari ang imo listahan. Isulat nga 800 lang.'
 Lucas|16|8|Ang amo sining di-matarong nga enkargado nagdayaw sa iya bangod sang iya pagkaabtik, kay ang mga tawo sining kalibutan mas maabtik pa sang sa mga tawo nga yara sa kapawa sa pagpatikang sang ila mga bulohaton." 
 Lucas|16|9|Kag si Jesus nagpadayon sa pagsiling, "Gani nagasiling ako sa inyo: gamita ninyo ang dutan-on nga manggad sa pagpakig-abyan, agod nga kon ining manggad maurot na pagabatunon kamo sa puloy-an nga wala sing katapusan. 
 Lucas|16|10|Ang bisan sin-o nga masaligan sa diutay nga mga butang masaligan man sa dalagku nga mga butang, kag ang bisan sin-o nga indi masaligan sa diutay nga mga butang indi man masaligan sa dalagku nga mga butang. 
@@ -2583,19 +2583,19 @@ Lucas|19|9|Si Jesus nagsiling sa iya, "Ang kaluwasan nag-abot sa sining panimala
 Lucas|19|10|Kay ang Anak sang Tawo nag-abot sa pagpangita kag sa pagluwas sang nadula." 
 Lucas|19|11|Sang nagapamati ang mga tawo sa sini nga mga pulong, nagpadayon si Jesus sa pagsugid sa ila sing isa ka palaanggiran kay malapit na sia sa Jerusalem, kag naghunahuna sila nga ang Ginharian sang Dios manug-abot na. 
 Lucas|19|12|Gani nagsiling sia, "May isa ka dungganon nga tawo nga nagkadto sa malayo nga pungsod agod himuon sia nga hari kag dayon magapauli. 
-Lucas|19|13|Sa wala pa sia makalakat, gintawag niya ang iya napulo ka mga suloguon kag ginhatagan ang tagsatagsa sa ila sing 1,000| ka pisos kag ginsingganan, 'Patikanga ninyo ini tubtob nga mag-abot ako.'
+Lucas|19|13|Sa wala pa sia makalakat, gintawag niya ang iya napulo ka mga suloguon kag ginhatagan ang tagsatagsa sa ila sing 1,000 ka pisos kag ginsingganan, 'Patikanga ninyo ini tubtob nga mag-abot ako.'
 Lucas|19|14|Karon, ang iya mga kasimanwa nagdumot sa iya, gani nagpaapas sila sing mga mensahero nga magasiling, 'Indi kami luyag nga ini nga tawo maghari sa amon.'
 Lucas|19|15|"Ang dungganon nga tawo ginhimo nga hari kag nagbalik sia. Sa gilayon nagsugo sia nga panawgon ang iya mga suloguon nga ginhatagan niya sing kwarta, agod nga mahibaluan niya kon pila ang ila naganansya. 
-Lucas|19|16|Ang nahauna nag-abot kag nagsiling, 'Sir, nakaganansya ako sing 10,000| sa 1,000| ka pisos nga ginhatag mo sa akon.'
+Lucas|19|16|Ang nahauna nag-abot kag nagsiling, 'Sir, nakaganansya ako sing 10,000 sa 1,000 ka pisos nga ginhatag mo sa akon.'
 Lucas|19|17|Nagsiling sia sa iya, 'Maayo gid! Maayo ka nga suloguon! Tungod kay matutom ka sa diutay nga mga butang, magagahom ka sa napulo ka siudad.'
-Lucas|19|18|Ang ikaduha nga suloguon nag-abot kag nagsiling, 'Sir, nakaganansya ako sing 5,000| sa 1,000| ka pisos nga ginhatag mo sa akon.'
+Lucas|19|18|Ang ikaduha nga suloguon nag-abot kag nagsiling, 'Sir, nakaganansya ako sing 5,000 sa 1,000 ka pisos nga ginhatag mo sa akon.'
 Lucas|19|19|Nagsiling sia sa sini nga suloguon, 'Magagahom ka sa lima ka siudad.'
 Lucas|19|20|Ang isa pa ka suloguon nag-abot kag nagsiling, 'Sir, yari ang imo kwarta. Gintago ko ini nga naputos sa panyo. 
 Lucas|19|21|Nahadlok ako sa imo tungod kay maid-id ka nga tawo. Ginakuha mo ang indi imo, kag ginaani mo ang wala mo masab-og.'
 Lucas|19|22|Nagsiling sia sa iya, 'Matamad ka nga suloguon! Ang imo mismo ginsiling amo ang gamiton ko sa pagkondenar sa imo. Nakahibalo ikaw nga maid-id ako nga tawo, nga nagakuha sang indi akon kag nagaani sang wala ko masab-og. 
 Lucas|19|23|Ti, ngaa bala wala mo pag-ipatago sa bangko ang akon kwarta? Kuntani sa akon pagbalik mabaton ko ang akon kwarta nga may saka na.'
-Lucas|19|24|Kag nagsiling sia sa mga nagatilindog didto, 'Kuhaa ninyo sa iya ang kwarta kag ihatag sa suloguon nga may 10,000| ka pisos.'
-Lucas|19|25|Pero nagsiling sila sa iya, 'Sir, may 10,000| ka pisos na sia! 
+Lucas|19|24|Kag nagsiling sia sa mga nagatilindog didto, 'Kuhaa ninyo sa iya ang kwarta kag ihatag sa suloguon nga may 10,000 ka pisos.'
+Lucas|19|25|Pero nagsiling sila sa iya, 'Sir, may 10,000 ka pisos na sia! 
 Lucas|19|26|Nagsabat sia, 'Nagasiling ako sa inyo nga ang tagsatagsa nga may yara na, hatagan pa, pero ang tawo nga wala iya, bisan ang diutay nga iya kuhaon pa. 
 Lucas|19|27|Karon, nahanungod sadtong akon mga kaaway nga indi luyag nga ako manginhari nila, dalha sila diri sa akon atubang kag pamatya sila.'" 
 Lucas|19|28|Sa tapos makahambal sini si Jesus, nag-una sia sa ila sa pagtaklad pakadto sa Jerusalem. 
@@ -2834,7 +2834,7 @@ Lucas|24|2|Nakita nila nga napaligid na ang bato halin sa lulobngan.
 Lucas|24|3|Gani nagsulod sila, pero wala nila makita ang bangkay ni Ginoong Jesus. 
 Lucas|24|4|Sang nagapalibog sila nahanungod sini, sa hinali may nagtindog sa tupad nila nga duha ka tawo nga nagasuksok sang bayu nga tama ka silaw. 
 Lucas|24|5|Ang mga babayi hinadlukan gid, gani nagdungok sila, samtang ang duha ka tawo nagsiling sa ila, "Ngaa ginapangita ninyo ang buhi sa tunga sang mga minatay? 
-Lucas|24|6|Wala sia diri! Nabanhaw sia! Dumdoma ninyo ang ginsiling niya sa inyo sang didto pa sia sa Galilea: 7|'Ang Anak sang Tawo dapat itugyan sa mga tawo nga makasasala, ilansang nila sia sa krus, kag mabanhaw sia sa ikatlo nga adlaw.'" 
+Lucas|24|6|Wala sia diri! Nabanhaw sia! Dumdoma ninyo ang ginsiling niya sa inyo sang didto pa sia sa Galilea: 7'Ang Anak sang Tawo dapat itugyan sa mga tawo nga makasasala, ilansang nila sia sa krus, kag mabanhaw sia sa ikatlo nga adlaw.'" 
 Lucas|24|8|Dayon nadumdoman sang mga babayi ang mga pulong ni Jesus. 
 Lucas|24|9|Nagpauli sila halin sa lulobngan kag nagsugid sang tanan nga mga butang sa onse ka mga apostoles kag sa iban pa nga mga sumolunod ni Jesus. 
 Lucas|24|10|Ang mga babayi amo sanday Maria Magdalena, Juana, kag Maria nga iloy ni Santiago. Sila kag ang iban pa nga mga babayi nga upod nila nagsugid sining mga butang sa mga apostoles. 
@@ -3102,7 +3102,7 @@ Juan|6|6 Nagpamangkot sia sini sa pagtilaw kay Felipe, ang matuod amo nga si Jes
 Juan|6|7|Si Felipe nagsabat, "Bisan tigdiutay lang ang ihatag mo sa tagsa sa ila, ang tinapay nga nagabili sang 200 ka denario kulang pa." 
 Juan|6|8|Si Andres nga isa sang iya mga gintuton-an kag utod ni Simon Pedro nagsiling kay Jesus, 
 Juan|6|9|"May bata diri nga lalaki nga may lima ka bilog nga tinapay nga sebada kag duha ka bilog nga isda. Pero ano bala ang pagkaigo sini sa amo nga kadamuon sang mga tawo?" 
-Juan|6|10|Si Jesus nagsiling sa ila, "Papungkua ninyo ang mga tawo." (Hilamunon yadto nga lugar.) Gani nagpungko ang tanan; mga 5,000| ka mga lalaki ang yadto didto. 
+Juan|6|10|Si Jesus nagsiling sa ila, "Papungkua ninyo ang mga tawo." (Hilamunon yadto nga lugar.) Gani nagpungko ang tanan; mga 5,000 ka mga lalaki ang yadto didto. 
 Juan|6|11|Dayon ginkuha ni Jesus ang tinapay, nagpasalamat sia sa Dios, kag ginpanagtag niya ini sa mga tawo nga nagapungko didto. Amo man ang ginhimo niya sa isda, kag ang tanan nakakaon suno sa luyag nila. 
 Juan|6|12|Sang nabusog na sila tanan, nagsiling si Jesus sa iya mga gintuton-an, "Tipuna ninyo ang mga nabilin nga wala sing may mausik." 
 Juan|6|13|Gani gintipon nila ang tanan nga nabilin, kag ang sobra sang lima ka bilog nga tinapay nga sebada nga ginkaon sang mga tawo nagpuno sang dose ka mga alat. 
@@ -3216,7 +3216,7 @@ Juan|7|49|Ining mga tawo wala makahibalo sang Kasugoan ni Moises, gani ginpakama
 Juan|7|50|Ang isa sang mga Fariseo didto amo si Nicodemo nga nagpakigkita anay kay Jesus. Nagsiling sia sa ila, 
 Juan|7|51|"Suno sa aton Kasugoan indi kita makakondenar sang isa ka tawo sa wala pa naton sia mabatii kag mausisa kon ano ang iya nahimo." 
 Juan|7|52|Nagsabat sila, "Ano, taga-Galilea man bala ikaw? Usisaa ang mga Kasulatan kag masapwan mo nga wala sing propeta nga magagikan sa Galilea."
-Juan|8|1|[Dayon ang tagsatagsa nagpauli, pero si Jesus nagkadto sa Bukid sang mga Olivo. 
+Juan|8|1|Dayon ang tagsatagsa nagpauli, pero si Jesus nagkadto sa Bukid sang mga Olivo. 
 Juan|8|2|Madulomdulom pa sang madason nga aga nagbalik sia sa Templo. Ang tanan nga mga tawo nagtipon sa iya palibot, kag nagpungko sia sa pagpanudlo sa ila. 
 Juan|8|3|Ang mga manunodlo sang Kasugoan kag ang mga Fariseo nagdala didto sang isa ka babayi nga nadakpan nga nagapanginlalaki, kag ginpatindog nila sia sa atubang sang tanan nga mga tawo. 
 Juan|8|4|Nagsiling sila kay Jesus, "Manunodlo, nadakpan ini nga babayi sa akto nga nagapanginlalaki. 
@@ -3749,8 +3749,8 @@ Juan|21|14|Ikatlo na ini nga tion sang pagpakita ni Jesus sa iya mga gintuton-an
 Juan|21|15|Sang nakapamahaw na sila, nagsiling si Jesus kay Simon Pedro, "Simon, anak ni Juan, ginahigugma mo bala ako sing labi pa sini sa ila?"Nagsabat sia, "Huo, Ginoo, nakahibalo gid ikaw nga ako nagahigugma sa imo."Si Jesus nagsiling sa iya, "Tatapa ang akon mga kordero." 
 Juan|21|16|Sa ikaduha nga tion si Jesus nagsiling sa iya, "Simon, anak ni Juan, ginahigugma mo bala ako?"Nagsabat sia, "Huo, Ginoo, nakahibalo gid ikaw nga ako nagahigugma sa imo."Si Jesus nagsiling sa iya, "Tatapa ang akon mga karnero." 
 Juan|21|17|Sa ikatlo nga tion nagsiling si Jesus sa iya, "Simon, anak ni Juan, ginahigugma mo bala ako?"Si Pedro nagkasubo tungod kay katatlo na sia pamangkuton ni Jesus, "Ginahigugma mo bala ako?" Kag nagsiling si Pedro sa iya, "Ginoo, ikaw nakahibalo sang tanan, kag ikaw nakahibalo gid nga ako nagahigugma sa imo!"Si Jesus nagsiling sa iya, "Tatapa ang akon mga karnero. 
-Juan|21|18|Nagasiling ako sa imo sing matuod: sang ikaw bataon pa, nagailis ka sang imo bayu kag nagakadto sa bisan diin nga luyag mo, pero kon tigulang ka na, untayon mo ang imo mga kamot, kag iban na ang magapailis sa imo kag magadala sa imo sa diin indi ka luyag magkadto." 
-Juan|21|19|(Ginsiling ini ni Jesus sa pagpahayag kon sa ano nga paagi mapatay si Pedro, kag magapasidungog sa Dios.) Dayon nagsiling si Jesus sa iya, "Sunod ka sa akon!" 
+Juan|21|18|Nagasiling ako sa imo sing matuod: sang ikaw bataon pa, nagailis ka sang imo bayu kag nagakadto sa bisan diin nga luyag mo, pero kon tigulang ka na, untayon mo ang imo mga kamot, kag iban na ang magapailis sa imo kag magadala sa imo sa diin indi ka luyag magkadto."
+Juan|21|19|Ginsiling ini ni Jesus sa pagpahayag kon sa ano nga paagi mapatay si Pedro, kag magapasidungog sa Dios.) Dayon nagsiling si Jesus sa iya, "Sunod ka sa akon!" 
 Juan|21|20|Nagliso si Pedro kag iya nakita nga nagasunod sa ila ang hinigugma nga gintuton-an ni Jesus, sia nga nakasandiay gid sa iya sang sila nagapanihapon. Nagpamangkot sia kay Jesus, "Ginoo, sin-o bala ang magaluib sa imo?" 
 Juan|21|21|Sang pagkakita ni Pedro sa iya, nagpamangkot sia kay Jesus, "Ginoo, ano bala ang madangatan sini nga tawo?" 
 Juan|21|22|Si Jesus nagsabat sa iya, "Kon luyag ko nga magpabilin sia nga buhi tubtob sa akon pagbalik, ano bala ina sa imo? Sunod ka sa akon!" 

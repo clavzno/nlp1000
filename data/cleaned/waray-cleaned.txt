@@ -16,7 +16,7 @@ Mateo|2|1|Natawo hi Jesus ha bungto han Betlehem, ha tuna han Judea, han panahon
 Mateo|2|2|ngan nagpakiana hira, "Hain ba an natawo nga bata nga hadi han mga Judiyo? Hinkit-an namon ha sinirangan an iya bituon, ngan kinmanhi kami hin pagsingba ha iya." 
 Mateo|2|3|Han pakabati hini ni Hadi Herodes, nabaraka hiya pati an bug-os nga Jerusalem. 
 Mateo|2|4|Gintirok niya an ngatanan nga mga puno han kapadian ngan mga magturutdo han Balaod, ngan ginpakianhan hira, "Diin ba matatawo an Mesiyas?" 
-Mateo|2|5|"Didto ha bungto han Betlehem, ha Judea," nagbaton hira. "Amo ini an iginsurat han manaragna: 6|'Ikaw Betlehem, ha tuna han Juda,diri ka gud amo an giuubosi han mga bungto han Juda;kay magawas tikang ha imo in usa nga pangulonga magpapakaupay han akon katawhan nga Israel.'" 
+Mateo|2|5|"Didto ha bungto han Betlehem, ha Judea," nagbaton hira. "Amo ini an iginsurat han manaragna: 6'Ikaw Betlehem, ha tuna han Juda,diri ka gud amo an giuubosi han mga bungto han Juda;kay magawas tikang ha imo in usa nga pangulonga magpapakaupay han akon katawhan nga Israel.'" 
 Mateo|2|7|Sanglit, iginpatawag ni Herodes hin hilom an mga kamag-araman nga tikang ha sinirangan. Hinbaroan niya tikang ha ira an untop nga takna han pagpakita han bitoon. 
 Mateo|2|8|Ngan ginpakadto hira ha Betlehem ngan gintugon hira: "Pakadto kamo, ngan pamilnga niyo hin maupay an bata. Kon hiagian niyo, pahibaroa ako dayon, basi kumadto man ako hin pagsingba ha iya." 
 Mateo|2|9-10| Ngan nagkalakat hira. Nakita nira an amo ngahaw nga bitoon nga hinkit-an nira ha sinirangan. Nalipay hira han pakakita nira han bitoon. Nag-una ini ha ira tubtob nga tinmungod ngan hinmunong ha dapit nga hinmumutangan han bata. 
@@ -154,7 +154,7 @@ Mateo|6|28|"Ngan kay ano nga nababaraka kamo mahitungod hin panapton? Paghunahun
 Mateo|6|29|Kundi nasiring ako ha iyo: bisan hi Solomon, dida han iya pagkamanggaranon, waray panapton nga sugad kamakaruruyag han usa hini nga mga bukad. 
 Mateo|6|30|Kon ginpapanaptonan han Dyos an mga banwa ha kapatagan nga buhi yana, ngan pagkabuwas sinusunog ha hudno, kamo pa in diri? Pagkagutiay han iyo pagtoo! 
 Mateo|6|31|"Sanglit ayaw kamo kabaraka han iyo kakaonon, iimnon, o igpapanapton. 
-Mateo|6|32|(Amo ini nga mga butang an nababarak-an han mga tawo nga waray pagsarig sa Dyos.) Maaram an Amay niyo ha langit nga kinahanglan niyo ini ngatanan. 
+Mateo|6|32|Amo ini nga mga butang an nababarak-an han mga tawo nga waray pagsarig sa Dyos.) Maaram an Amay niyo ha langit nga kinahanglan niyo ini ngatanan. 
 Mateo|6|33|Sanglit unaha gud niyo pamiling han iya Ginhadian ngan han iya kaburut-on, ngan ihahatag niya ha iyo an iba ngatanan nga mga butang. 
 Mateo|6|34|Sanglit, ayaw kamo kabaraka mahitungod hiton buwas nga adlaw; may-ada hito kalugaringon nga mga kabaraka. Sanglit ayaw na dugangi an mga kabaraka ha kada adlaw.
 Mateo|7|1|"Ayaw kamo paghukom han iba basi diri kamo paghukman han Dyos. 
@@ -580,7 +580,7 @@ Mateo|18|7|Pagkaraot hini nga kalibutan kay aada an mga butang nga nagsusulay ha
 Mateo|18|8|"Kon an imo kamot o imo tiil amo an tinikangan han imo pakasala, gabay utdon nimo ngan ilabog! Maupay pa nga sumulod ka ha kinabuhi nga utod an imo kamot o tiil kay hin sangkap ka hin duha nga kamot ngan duha nga tiil kundi ilalabog ka ngadto ha dayon nga kalayo. 
 Mateo|18|9|Ngan kon matinikangan an imo mata hin pakasala, gabay lukaton ito ngan ilabog! Maupay pa nga sumulod ka ha kinabuhi nga usa la an imo mata kay hin sangkap ka hin duha nga mata kundi ilalabog ka ngadto ha kalayo han impyerno. 
 Mateo|18|10|"Bantayi nga diri kamo magtamay han usa hini nga mga gudtiay nga kabataan. Nasiring ako ha iyo nga dayuday aada an ira mga anghel ha atubangan han akon Amay ha langit. [
-Mateo|18|11 Kay kinmanhi an Anak han Tawo hin pagtalwas hadton mga nawara.] 
+Mateo|18|11|Kay kinmanhi an Anak han Tawo hin pagtalwas hadton mga nawara.] 
 Mateo|18|12|"Ha iyo paghunahuna, ano an bubuhaton hin usa ka tawo kon mawad-an hiya hin usa han iya 100 nga mga karnero? Babayaan niya an 99 nga nananabsab ha ligid han pungtod, ngan malakat hin pamiling han nawara. 
 Mateo|18|13|Nasiring ako ha iyo, kon hiagian niya ini, labaw kamalipayon hiya tungod hini nga usa nga karnero kay han 99 nga waray mawara. 
 Mateo|18|14|Ha amo gud nga pagkaagi, diri karuyag han Amay niyo ha langit nga may mawara hini nga mga gudtiay nga kabataan. 
@@ -712,7 +712,7 @@ Mateo|21|40|"Niyan kon umabot na an tag-iya han urubasan, ano man an iya bubuhat
 Mateo|21|41|Binmaton hira, "Papatayon gud niya adto nga magraot nga mga tawo, ngan paaagsahan niya an urubasan hin iba nga mga saop nga makakahatag ha iya han iya bahin ha igo nga panahon." 
 Mateo|21|42|Ginsiring hira ni Jesus, "Waray ba kamo makabasa han siring han Kasuratan?'An bato nga iginsalikwayhan mga magtirindog nga waray gamit,nahimo lugod nga importante nga bato.Ginbuhat ini han Ginoo;pagkaorosahon gud pagkit-on!'
 Mateo|21|43|"Sanglit nasiring ako ha iyo," nagpadayon hi Jesus, "kukuhaon ha iyo an Ginhadian han Dyos ngan ihahatag ha mga Tawo nga makakahimo hin angay nga mga bunga. [
-Mateo|21|44 Masasamad an mahulog ngada hini nga bato; ngan mapipisa an mahulogan hini nga bato.]" 
+Mateo|21|44|Masasamad an mahulog ngada hini nga bato; ngan mapipisa an mahulogan hini nga bato.]" 
 Mateo|21|45|Nakabati han mga pananglitan ni Jesus an mga puno han kapadian ngan an mga Parisiyo, ngan nakasabot hira nga nagyakan hiya mahitungod ha ira, 
 Mateo|21|46|sanglit nagtinguha hira hin pagdakop ha iya. Kundi nahadlok hira han mga tawo nga nakilala kan Jesus nga usa hiya nga manaragna.
 Mateo|22|1|Ginmamit gihapon hi Jesus hin mga pananglitan han iya pagyakan ha mga tawo. 
@@ -774,7 +774,7 @@ Mateo|23|10|Ayaw kamo pagpatawag nga 'Pangulo,' kay an Mesiyas la an iyo pangulo
 Mateo|23|11|Kinahanglan mahimo nga iyo surugoon an gilalabawi ha iyo. 
 Mateo|23|12|Adton magpahitaas han iya kalugaringon, pauubson; ngan adton magpapaubos, pagpapahitas-on. 
 Mateo|23|13|"Kamakaharadlok para ha iyo, mga magturutdo han Balaod ngan mga Parisiyo! Mga salingkapaw! Ginsasadhan niyo an porta ngadto han Ginhadian han langit ha atubangan han mga tawo, kundi diri kamo ngahaw nasulod, ngan gindidid-an pa niyo an mga tawo hin pagsulod![
-Mateo|23|14"Kamakaharadlok para ha iyo, mga magturutdo han Balaod ngan mga Parisiyo! Mga salingkapaw! Nasingabot kamo han mga balo nga kababayen-an ngan nagtitikas kamo han ira mga puroy-anan, ngan katapos, napasangil kamo pamatbat hin higlaba nga mga pangadion. Tungod hini, makalilisang an ihahatag nga sirot ha iyo!"] 
+Mateo|23|14|"Kamakaharadlok para ha iyo, mga magturutdo han Balaod ngan mga Parisiyo! Mga salingkapaw! Nasingabot kamo han mga balo nga kababayen-an ngan nagtitikas kamo han ira mga puroy-anan, ngan katapos, napasangil kamo pamatbat hin higlaba nga mga pangadion. Tungod hini, makalilisang an ihahatag nga sirot ha iyo!"] 
 Mateo|23|15|"Kamakaharadlok para ha iyo, mga magturutdo han Balaod ngan mga Parisiyo! Mga salingkapaw! Ginsasakay niyo an kadagatan ngan ginlalatas an katunaan pagkabig hin usa la ka tawo. Ngan kon nakakabig na niyo, ginhihimo niyo nga labi hin ka takos han impyerno kay ha iyo ngahaw! 
 Mateo|23|16|"Kamakaharadlok para ha iyo, mga buta nga magturugway! Igintututdo niyo, 'Kon magsumpa in tawo pinaagi han Templo, diri hiya mapipirit hin pagtuman han iya saad; kundi kon magsumpa hiya pinaagi han bulawan nga aada han Templo, mapipirit hiya hin pagtuman.'
 Mateo|23|17|Mga buta ngan mga lurong! Hain labaw ka importante, an bulawan, o an Templo ba nga nagsasantos han bulawan? 
@@ -1322,7 +1322,7 @@ Marcos|7|12|waray na niya labot pagbulig han amay o iroy niya.
 Marcos|7|13|Kon sugad, gindidiwara niyo an pulong han Dyos pinaagi han pagturon-an nga igintututdo niyo ha iba nga mga tawo. Ngan ginbubuhat niyo in damo pa nga mga butang nga alid-agid hini." 
 Marcos|7|14|Gintawag ngahaw ni Jesus an kadam-an ngada ha iya ngan ginsiring hira, "Pamati kamo ngatanan ngan sabta niyo. 
 Marcos|7|15|Waray bisan ano nga nasulod ha tawo tikang ha gawas nga nakakapahugaw ha iya, kundi adton nagawas tikang han tawo amo lugod an nakakapahugaw ha iya. [
-Marcos|7|16 Sanglit, mamati an may-ada durunggan."] 
+Marcos|7|16|Sanglit, mamati an may-ada durunggan."] 
 Marcos|7|17|Han pagbaya na niya han kadam-an ngan pagsulod na niya han balay, nagpakiana an iya mga tinun-an ha iya mahitungod hini nga pananglitan. 
 Marcos|7|18|Nagsiring hi Jesus ha ira, "Sugad la kamo han iba hin kamahinay makasabot! Diri ba kamo nasabot nga waray bisan ano nga nasulod ha tawo tikang ha gawas nga nakakapahugaw ha iya? 
 Marcos|7|19|Kay diri ito nasulod ha iya kasingkasing kundi ha iya tiyan, ngan onina, iginuguwa." (Dida hini iginpahayag ni Jesus nga mahihimo kaonon an ngatanan nga pagkaon.) 
@@ -1697,7 +1697,7 @@ Marcos|15|24|Sanglit iginraysang hiya ha kros, ngan ginbahinbahin nira an iya mg
 Marcos|15|25|Alas nuybe na han aga nga igraysang hiya ha kros. 
 Marcos|15|26|Iginpaskin an sumbong ha iya nga nasiring, "An Hadi han mga Judiyo." 
 Marcos|15|27|Iginraysang liwat nira upod kan Jesus in duha nga mga tikasan, an usa ha iya tuo ngan an usa ha iya wala. [
-Marcos|15|28 Tungod hini natuman an Kasuratan nga nasiring, "Nahiupod hiya han mga salaan."] 
+Marcos|15|28|Tungod hini natuman an Kasuratan nga nasiring, "Nahiupod hiya han mga salaan."] 
 Marcos|15|29|Ginyubitan hi Jesus han mga lumalabay nga nagpipilingpiling ngadto ha iya ngan nasiring "Aha! gugub-on mo an Templo, ngan titindogon mo liwat sakob hin tulo la ka adlaw! 
 Marcos|15|30|Lusad na yana ha imo kros ngan talwasa an imo kalugaringon." 
 Marcos|15|31|Ha amo nga paagi ginbiaybiay liwat hiya han mga puno han kapadian ngan han mga magturutdo han Balaod, ngan may hin siring ha ira, "Nagtalwas hiya han iba, kundi diri nakakatalwas ha iya ngahaw. 
@@ -1718,13 +1718,13 @@ Marcos|15|46|Ngan pinmalit hi Jose hin busag nga dugnit, gintanggal an lawas, gi
 Marcos|15|47|Nagkikinita hira Maria Magdalena ngan Maria nga iroy ni Jose, sanglit nasayod hira kon diin iglubong hi Jesus.
 Marcos|16|1|Paglabay han Adlaw nga Iparahuway, nanmalit hin mga pahamot hira Maria Magdalena, Maria nga iroy ni Santiago, ug Salome, basi igbanyos nira han lawas ni Jesus. 
 Marcos|16|2|Timprano pa gud han Domingo, ha pagsidlit pa la han adlaw, napakadto hira ha lubnganan. 
-Marcos|16|3|Han dida pa hira ha dalan, may hin pakiana ha ira, "Hin-o man in magwawaring para ha aton han bato nga sada ha lubnganan?" 
-Marcos|16|4|(Kay dako hin duro adto nga bato.) Han pagsiplat nira, ira nakita nga winaring na an bato. 
+Marcos|16|3|Han dida pa hira ha dalan, may hin pakiana ha ira, "Hin-o man in magwawaring para ha aton han bato nga sada ha lubnganan?"
+Marcos|16|4|Kay dako hin duro adto nga bato.) Han pagsiplat nira, ira nakita nga winaring na an bato. 
 Marcos|16|5|Sanglit sinmulod hira ha lubnganan, diin ira nakita in olitawohay nga mabusag an bado, nga nalingkod ha may tuo; ngan inalpan hira hin kakulba. 
 Marcos|16|6|Nagsiring hiya ha ira, "Ayaw kamo kahadlok; maaram ako nga nagbibiling kamo kan Jesus nga taga-Nazaret, nga iginraysang ha kros. Waray hiya dinhe kay nabanhaw na hiya! Kitaa, amo ini an dapit nga ginhayaran ha iya. 
 Marcos|16|7|Kadto na, ngan igsumat niyo ini ha iya mga tinun-an, ngan kan Pedro: 'Mag-uuna hiya ha iyo ngadto ha Galilea; didto makita kamo ha iya sumala han iginsiring niya ha iyo.'" 
 Marcos|16|8|Sanglit nagkaguwa ngan nagdadlagan hira tikang ha lubnganan, kay inalpan hira hin kahadlok ngan kakulba. Ngan tungod han ira kahadlok, waray hira pagsumat bisan kan kanay.[
-Marcos|16|9 Katapos mabanhaw hi Jesus, ha aga pa han Domingo, nagpakita hiya syahan kan Maria Magdalena nga ginpagawasan niya hin pito nga mga yawa. 
+Marcos|16|9|Katapos mabanhaw hi Jesus, ha aga pa han Domingo, nagpakita hiya syahan kan Maria Magdalena nga ginpagawasan niya hin pito nga mga yawa. 
 Marcos|16|10|Linmakat hiya ngan nagsumat han mga tinun-an ni Jesus. Mga masulob-on ngan mabidoon hira; 
 Marcos|16|11|ngan han pakabati nira han sumat niya nga buhi na hi Jesus ngan hinkit-an niya hi Jesus, waray hira tumuod ha iya. 
 Marcos|16|12|Katapos hini, nagpakita hi Jesus, hin lain nga paagi, ngadto hin duha han mga tinun-an, samtang nakada hira ha dalan tipakadto ha huron. 
@@ -1736,7 +1736,7 @@ Marcos|16|17|Tatagan an mga natoo hini nga mga pangilal-an hin gahom: paiiwason 
 Marcos|16|18|diri hira maaano kon kumapot hira hin mga halas o uminom hin makahihilo; ngan magkakaupay an mga magsakit nga dadapatan ha ira mga kamot." 
 Marcos|16|19|Katapos ni Jesus makighimangraw ha ira, ginbayaw hiya ngadto ha langit, ngan linmingkod ha tuo han Dyos. 
 Marcos|16|20|Nagkalakat an mga tinun-an ngan nagwali ha ngatanan nga dapit. An Ginoo kaupod nira dida ha ira mga buhat ngan an ira iginwali ginpadig-on pinaagi han mga milagro nga ira ginbuhat.][
-Marcos|16|9 Napakadto an mga kababayen-an kan Pedro ngan han iya mga kasangkayan ngan naghatag ha ira hin halipot nga sumat mahitungod han ngatanan nga iginsumat ha ira. 
+Marcos|16|9|Napakadto an mga kababayen-an kan Pedro ngan han iya mga kasangkayan ngan naghatag ha ira hin halipot nga sumat mahitungod han ngatanan nga iginsumat ha ira. 
 Marcos|16|10|Katapos hini, ginpadara ni Jesus ngahaw, pinaagi han iya mga tinun-an, an baraan ngan buhi nga mensahe han dayon nga katalwasan, ha ngatanan nga dapit, tikang ha sinirangan ngadto ha katundan.]
 Lucas|1|1|Hinigugma ko nga Teofilo:Damo na in nagtalingoha hin pagsurat han mga butang nga nahinabo dinhe ha aton. 
 Lucas|1|2|Iginsurat nira an ngatanan nga iginsumat ha aton hadton mga nagpakakita hini nga mga butang tikang pa ha tinikangan, ngan hadton nagpasangyaw han mensahe. 
@@ -2157,8 +2157,8 @@ Lucas|9|9|Nagsiring hi Herodes, "Ginpapugotan ko na hi Juan; kundi hin-o ini nga
 Lucas|9|10|Binmalik an mga apostoles ngan ira ginsumatan hi Jesus han ngatanan nga ira nabuhat. Igin-upod hira niya ngan kinmadto nga hira la, ha usa nga bungto nga ginngangaranan Betsaida. 
 Lucas|9|11|Han paghibaro han mga tawo, linmanat hira ha iya, ngan ginkarawat hira ni Jesus. Naghimangraw hiya ha ira mahitungod han Ginhadian han Dyos, ngan gin-upay an mga nagkikinahanglan hin pagtambal. 
 Lucas|9|12|Han tikaturunod na an adlaw, dinmaop ha iya an dose nga mga tinun-an ngan nagsiring, "Palakta na la an mga tawo, basi makakadto hira ha kabaryohan ngan kaumhan nga higrani dinhe, ngan makaagi hin pagkaon ngan ira huhuronan, kay tay-aw ini nga dapit." 
-Lucas|9|13|Kundi ginsiring hira ni Jesus, "Kamo ngahaw an hatag ha ira hin sadang nga pagkaon."Binmaton hira, "Lilima la an aton tinapay ngan duduha an isda. Karuyag ba nimo nga makadto ngan mapalit kami hin pagkaon para hini ngatanan nga mga tawo?" 
-Lucas|9|14|(May mga lima ka yukot an kalalaken-an didto.)Nagsiring hi Jesus ha iya mga tinun-an, "Papanlingkora niyo an mga tawo hin pundokpundok nga mga tinag-50 an kada usa." 
+Lucas|9|13|Kundi ginsiring hira ni Jesus, "Kamo ngahaw an hatag ha ira hin sadang nga pagkaon."Binmaton hira, "Lilima la an aton tinapay ngan duduha an isda. Karuyag ba nimo nga makadto ngan mapalit kami hin pagkaon para hini ngatanan nga mga tawo?"
+Lucas|9|14|May mga lima ka yukot an kalalaken-an didto.)Nagsiring hi Jesus ha iya mga tinun-an, "Papanlingkora niyo an mga tawo hin pundokpundok nga mga tinag-50 an kada usa." 
 Lucas|9|15|Ginbuhat ini han mga tinun-an ngan ginpalingkod hira ngatanan. 
 Lucas|9|16|Ginkuha ni Jesus an lima nga tinapay ngan duha nga isda, hinmangad ha langit, nagpasalamat han Dyos tungod hini, ginpinitpinit ini niya, ngan ihinatag ha mga tinun-an, basi idurot ha mga tawo. 
 Lucas|9|17|Nangaon hira ngatanan ngan nagkabubusog; ngan nakatirok an mga tinun-an hin 12 pa ka basket han nahisalin han mga tawo. 
@@ -2332,7 +2332,7 @@ Lucas|12|26|Kon diri man kamo nakakahimo bisan han mga gudtiay nga butang, kay a
 Lucas|12|27|Tan-awa daw niyo kon inuunan-o an pagtubo han mga bukad ha kapatagan: diri hira nagkabubudlay o naghahablon para ha ira ngahaw, kundi susumatan ko kamo nga bisan pa ngani hi Solomon, ha butnga han iya karikohan, waray mga panapton nga sugad kamagtahom han usa hini nga mga bukad ha kapatagan. 
 Lucas|12|28|An Dyos an nagpapanapton han mga banwa nga buhi yana nga adlaw, pagkabuwas waray na, sinusunog na ha hudno. Asay pa ba kamo nga diri kamo pagpapanaptonan niya? Pagkagutiay han iyo pagtoo! 
 Lucas|12|29|Sanglit ayaw kamo pagpinangarit, nga dayuday la nababaraka hiunong han iyo kakaonon ngan iimnom. 
-Lucas|12|30|(Kay dayuday la nababaraka hini ngatanan nga mga butang an mga diri dyosnon hini nga kalibutan.) Maaram an iyo Amay nga kinahanglan niyo ini nga mga butang. 
+Lucas|12|30|Kay dayuday la nababaraka hini ngatanan nga mga butang an mga diri dyosnon hini nga kalibutan.) Maaram an iyo Amay nga kinahanglan niyo ini nga mga butang. 
 Lucas|12|31|Lugod unaha niyo hin pagbiling an Ginhadian, ngan tatagan kamo niya hini nga mga butang. 
 Lucas|12|32|"Ayaw kamo kahadlok, gutiay nga panon, kay nalilipay an Amay niyo hin paghatag ha iyo han Ginhadian. 
 Lucas|12|33|Ibaligya an ngatanan niyo nga mga garamiton, ngan ihatag an kwarta ha mga kablas. Pag-arog kamo para ha iyo ngahaw hin mga supot nga diri nadudumog, ngan tiroka an iyo mga manggad didto ha langit, diin diri gud ini maiibanan, kay waray kawatan nga makakakuha hini nga manggad ngan waray tangkob nga makakakutkot ha ira. 
@@ -2748,7 +2748,7 @@ Lucas|22|39|Ginmawas hi Jesus han syudad, ngan sugad han iya nahiaraan, kinmadto
 Lucas|22|40|Han pag-abot niya didto, nagsiring hiya ha ira, "Pag-ampo nga diri kamo masulay." 
 Lucas|22|41|Ngan inmuruonhan hiya ha ira hin kahirayo nga kanan usa ka labay hin bato, ngan linmuhod ngan nag-ampo, 
 Lucas|22|42|"Amay ko, kon imo pagbuot, kuhaa gad ini nga kupa ha akon. Diri an akon, kundi an imo pagbuot an matuman." [
-Lucas|22|43 Pinmakita ha iya in usa nga anghel tikang ha langit, nga nagpakusog ha iya. 
+Lucas|22|43|Pinmakita ha iya in usa nga anghel tikang ha langit, nga nagpakusog ha iya. 
 Lucas|22|44|Ha dako gud nga kasakit nag-ampo hiya hin huruhugot pa nga pangamuyo, an iya balhas sugad na hin mga turo hin dugo nga natabigis ha tuna.] 
 Lucas|22|45|Han pagbangon niya tikang ha pag-ampo, binmalik hiya ngadto han iya mga tinun-an, ngan iya hira hin-agian nga nangangaturog na, nga rutay na tungod han ira kabidoon. 
 Lucas|22|46|Ngan nagsiring hiya ha ira, "Kay ano nga nangangaturog kamo? Pagmata kamo ngan pag-ampo nga diri kamo masulay." 
@@ -2793,7 +2793,7 @@ Lucas|23|13|Gintirok ni Pilato an mga puno han kapadian, an mga pangulo, ngan an
 Lucas|23|14|ngan ginsiring hira, "Gindara niyo ini nga tawo nganhi ha akon, ngan nagsiring kamo nga ginlilipatlipat niya an mga tawo. Yana, gin-usisa ka na hiya ha iyo atubangan, ngan waray ko hin-agian nga sala bisan usa han mga sumbong nga iyo iginpasaka kontra ha iya. 
 Lucas|23|15|Waray gihapon makaagi hin sala ha iya bisan ngani hi Herodes, kay iginbalik man hiya ha aton. Waray ginbuhat hini nga tawo nga angay sirotan han kamatayon. 
 Lucas|23|16|Sanglit ipalalatob ko nala hiya ngan pabubuhian." [
-Lucas|23|17 Ha kada Pyesta han Paglabay nababatasan ni Pilato in pagbuhi hin usa nga priso nga karuyag han mga tawo.] 
+Lucas|23|17|Ha kada Pyesta han Paglabay nababatasan ni Pilato in pagbuhi hin usa nga priso nga karuyag han mga tawo.] 
 Lucas|23|18|Naggoliat an bug-os nga hugpo, "Pataya hiya! Buhii hi Barabas para ha amon!" (
 Lucas|23|19 Napriso hi Barabas tungod hin karibok nga nahinabo ha syudad, ngan tungod hin pagpatay.) 
 Lucas|23|20|Karuyag ni Pilato nga buhian hi Jesus, sanglit gintawag liwat niya an mga tawo. 
@@ -2837,7 +2837,7 @@ Lucas|24|2|Hinkit-an nira nga nakadto na ha ligid an bato nga igintaklob han por
 Lucas|24|3|sanglit sinmulod hira; kundi waray nira hiagii an lawas han Ginoo nga Jesus. 
 Lucas|24|4|Samtang natindog hira didto nga nagugupong mahitungod hini, tinmindog dayon tupad ha ira in duha nga kalalaken-an nga magsilaw an mga panapton. 
 Lucas|24|5|Tugob hin kahadlok yinmukbo ha tuna an kababayen-an, samtang ginsiring hira han kalalaken-an, "Kay ano nga ginbibiling niyo an buhi dinhe han mga minatay? 
-Lucas|24|6|Waray na hiya dinhe, nabanhaw na hiya. Panumdoma an iginsiring niya ha iyo han nakadto pa hiya ha Galilea: 7|'Kinahanglan itubyan an Anak han Tawo ngadto han mga makasasala, igraysang ha kros, ngan mabanhaw ha ikatulo ka adlaw.'" 
+Lucas|24|6|Waray na hiya dinhe, nabanhaw na hiya. Panumdoma an iginsiring niya ha iyo han nakadto pa hiya ha Galilea: 7'Kinahanglan itubyan an Anak han Tawo ngadto han mga makasasala, igraysang ha kros, ngan mabanhaw ha ikatulo ka adlaw.'" 
 Lucas|24|8|Niyan nahinumdom an kababayen-an han iya mga pulong, 
 Lucas|24|9|inmoli hira tikang han lubnganan, ngan iginsumat ini ngatanan nga mga butang ngadto han onse nga mga tinun-an ngan han iba pa. 
 Lucas|24|10|An kababayen-an amo hira Maria Magdalena, Juana, ug Maria nga iroy ni Santiago. Hira ngan an iba pa nga kababayen-an nga kaupod nira nagsumat han mga apostoles hini nga mga butang. 
@@ -3219,7 +3219,7 @@ Juan|7|49|Diri nasabot ini nga mga tawo han Balaod ni Moises, sanglit ginpanhima
 Juan|7|50|Usa han mga Parisiyo amo hi Nicodemo nga nakigkita hadto kan Jesus. Nagsiring hiya ha ira, 
 Juan|7|51|"Sumala han aton Balaod, diri kita makakaghukom hin tawo kon diri anay naton hibatian hiya ngan hikit-an kon ano an iya nabuhat." 
 Juan|7|52|Binmaton hira, "Aw ngay-an! Taga-Galilea ka ba liwat? Usisaha an Kasuratan ngan hibabaroan mo nga waray manaragna nga natikang ha Galilea."
-Juan|8|1|[Ngan nanguli an ngatanan, kundi napakadto hi Jesus ha Bukid han mga Olibo. 
+Juan|8|1|Ngan nanguli an ngatanan, kundi napakadto hi Jesus ha Bukid han mga Olibo. 
 Juan|8|2|Han pagkabuwas han temprano pa, binmalik hiya ha templo. Ginalirongan hiya han mga tawo, ngan linmingkod hiya ngan nagtikang hin pagtutdo ha ira. 
 Juan|8|3|Gindara han mga magturutdo han Balaod ngan mga Parisiyo in usa nga babaye nga hindakpan nga nanlibog, ngan ginpatindog hiya ha atubangan nira ngatanan. 
 Juan|8|4|Nagsiring hira kan Jesus, "Magturutdo, hindakpan ini nga babaye nga nanlibog. 

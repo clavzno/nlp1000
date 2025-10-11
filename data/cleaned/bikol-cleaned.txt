@@ -28,7 +28,7 @@ Mateo|2|1|Namundag si Jesus sa Betlehem nin Judea, kan si Herodes an hade. Dai n
 Mateo|2|2|Naghapot sinda, "Haen an omboy na namundag na magigin hade kan mga Judio? Nahiling mi an saiyang bitoon sa sirangan kaya nagdigdi kami nganing sambahon siya." 
 Mateo|2|3|Napurisaw na gayo si Hadeng Herodes kan maaraman niya ini, siring man an mga taga Jerusalem. 
 Mateo|2|4|Tinipon niya an gabos na poon na padi asin mga paratukdo kan katogonan dangan hinapot sinda kun saen mamumundag an Cristo. 
-Mateo|2|5|"Sa Betlehem nin Judea," an simbag ninda, "siring sa sinurat kan propeta: 6|'Ika, Betlehem, sa daga nin Juda,bakong ika an pinakasadit sa mga nangengenot na syudad nin Juda;huli ta saimo magikan an sarong liderna iyo an masakop kan sakong banwaan na Israel.'" 
+Mateo|2|5|"Sa Betlehem nin Judea," an simbag ninda, "siring sa sinurat kan propeta: 6'Ika, Betlehem, sa daga nin Juda,bakong ika an pinakasadit sa mga nangengenot na syudad nin Juda;huli ta saimo magikan an sarong liderna iyo an masakop kan sakong banwaan na Israel.'" 
 Mateo|2|7|Hilom na ipinaapod ni Herodes an mga mago nganing aramon sainda kun kasuarin nagtunga an bitoon. 
 Mateo|2|8|Pakatapos, pinaduman niya sinda sa Betlehem saka tinugon, "Lakaw na kamo asin hanapon nindo an omboy; kun makua nindo siya, paaramon nindo ako tanganing magduman man ako asin magsamba saiya." 
 Mateo|2|9-10| Kaya naghale sinda. Mantang naglalakaw sinda, nahiling ninda giraray an bitoon na nahiling ninda sa sirangan. Dai masabi an saindang kaogmahan kan mahiling ninda an bitoon! Pinangenotan sinda kaini sagkod na nag-ontok sa tangod kan lugar na namumugtakan kan omboy. 
@@ -492,7 +492,7 @@ Mateo|15|3|Nagsimbag si Jesus, "Tadaw ta linalapas man nindo an togon nin Dios m
 Mateo|15|4|Huli ta nagboot an Dios, 'Galangan mo an saimong ama asin ina,' saka 'An magtaram nin maraot tumang sa saiyang ama o ina dapat gadanon.'
 Mateo|15|5|Alagad itinutukdo nindo na kun an sarong tawo igwang ikakatao sa saiyang ama o ina magsabi, 'An bagay na ini para sa Dios,'
 Mateo|15|6|nahahale na saiya an katongdan na galangan an saiyang ama asin ina. Sa paaging iyan dai nindo tinatawan nin halaga an togon nin Dios tanganing masunod sana an sadiri nindong katukdoan. 
-Mateo|15|7|Mga parasagin-sagin! Tama nanggad si Isaias kan siya magpropesiya dapit saindo: 8|'Inoomaw ako kan mga tawong ini kan saindang ngoso,alagad harayo sako an saindang mga puso. 
+Mateo|15|7|Mga parasagin-sagin! Tama nanggad si Isaias kan siya magpropesiya dapit saindo: 8'Inoomaw ako kan mga tawong ini kan saindang ngoso,alagad harayo sako an saindang mga puso. 
 Mateo|15|9|An pagsamba ninda sako mayo nin halaga,huli ta an itinutukdo ninda bilang doktrina, mga pagboot nin tawo sana!'" 
 Mateo|15|10|Dangan pinarani ni Jesus saiya an mga tawo asin sinabihan, "Dangoga asin sabota nindo: 
 Mateo|15|11|bakong an minalaog sa ngoso nin tawo an nakakapaati saiya kundi an minaluwas diyan." 
@@ -589,7 +589,7 @@ Mateo|18|7|Herak man sa kinaban huli sa mga nakakapakasala sa mga tawo! Kaipuhan
 Mateo|18|8|"Kun an saro mong kamot o bitis magin dahelan kan pagkakasala mo, putola iyan dangan aponan! Mas marahay pa saimong lumaog ka sa langit na saro sana an kamot o bitis ki kan duwa an kamot o bitis alagad ihulog sa kalayong daing kataposan. 
 Mateo|18|9|Kun an saro mong mata magin dahelan kan pagkakasala mo, hulwata iyan dangan aponan! Mas marahay pang lumaog ka sa langit na saro sana an mata ki kan may duwang mata alagad ihulog sa kalayo nin impyerno. 
 Mateo|18|10|"Dai nanggad nindo pagbasang-basangon an arin man sa mga saradit na ini. Sinasabihan ko kamo, an saindang mga anghel sa langit danay na nasa atubang kan sakong Ama sa langit. 
-Mateo|18|11|(Huli ta an Aki nin Tawo nagdigdi sa pagligtas kan nawawara.) 
+Mateo|18|11|Huli ta an Aki nin Tawo nagdigdi sa pagligtas kan nawawara.) 
 Mateo|18|12|"Sa paghona nindo, ano an gigibohon nin sarong tawong igwa nin sanggatos na karnero alagad may saro na nalagalag? Bako daw na babayaan niya an nobenta y nwebe na nasa pasabsaban nganing hanapon niya an nalagalag na karnero? 
 Mateo|18|13|Sa katotoohan sinasabihan ko kamo, kun makua na niya iyan, orog an kaogmahan niya dahel kaiyan ki sa nobenta y nwebe na dai nalagalag. 
 Mateo|18|14|Huli ta habo kan saindong Ama sa langit na mawara an arin man sa mga saradit na ini. 
@@ -1221,8 +1221,8 @@ Markos|5|3|Nag-eerok siya sa mga lulubngan. Mayo nin nakakagapos saiya maski gum
 Markos|5|4|Dakul na beses na kinakadenahan siya sa bitis saka sa kamot, alagad saiyang binubugto asin pinuputol iyan; mayong nakakapugol saiya. 
 Markos|5|5|Aldaw-banggi sige sana an lakaw niya, nagkukurahaw siya sa mga lulubngan asin kabubuldan, saka linulugadan niya kan gapo an sadiri niyang hawak. 
 Markos|5|6|Alagad pagkahiling niya ki Jesus sa harayo, nagdalagan siya asin nagsamba saiya, 
-Markos|5|7|saka nagkurahaw, "Ano an boot mo sako, Jesus aki nin Kahorohalangkaweng Dios? Sa ngaran nin Dios, nakikimaherak ako saimo, dai mo ako pagpasakitan!" 
-Markos|5|8|(Sinabi niya ini huli ta si Jesus nagtaram, "Maraot na espiritu, lumuwas ka sa tawong iyan!") 
+Markos|5|7|saka nagkurahaw, "Ano an boot mo sako, Jesus aki nin Kahorohalangkaweng Dios? Sa ngaran nin Dios, nakikimaherak ako saimo, dai mo ako pagpasakitan!"
+Markos|5|8|Sinabi niya ini huli ta si Jesus nagtaram, "Maraot na espiritu, lumuwas ka sa tawong iyan!") 
 Markos|5|9|Hinapot siya ni Jesus, "Ano an ngaran mo?"Nagsimbag siya, "An ngaran ko 'Lehiyon' huli ta dakul kami!" 
 Markos|5|10|Padagos an pakimaherak niya ki Jesus na dai sinda pagpahaleon sa teritoryong idto. 
 Markos|5|11|Igwa duman nin dakul na orig na nagsusurungkal sa gilid nin bulod. 
@@ -1731,7 +1731,7 @@ Markos|16|5|Paglaog ninda sa lulubngan, nahiling ninda an sarong lalaking hoben 
 Markos|16|6|"Dai kamo matakot," an sabi kan lalaki. "Hinahanap nindo si Jesus na taga Nazaret na ipinako sa krus. Mayo na siya digdi—nabuhay siya liwat! Hilinga nindo an lugar na hinutadan ninda saiya. 
 Markos|16|7|Lakaw na kamo, sabihan nindo an saiyang mga disipulo, orog na si Pedro, na maeenot si Jesus sainda sa Galilea; duman ninda siya mahihiling siring sa sinabi niya sainda." 
 Markos|16|8|Kayanagruluwas an mga babae sa lulubngan saka nagdurulag, huli ta inabot sinda nin makuring takot. Mayo sindang inosipan huli ta natakot sinda.[
-Markos|16|9 Pagkabuhay liwat ni Jesus, amay pa kan enot na aldaw kan semana, nagpahiling siyang enot ki Maria Magdalena, na pinaluwasan niya nin pitong demonyo. 
+Markos|16|9|Pagkabuhay liwat ni Jesus, amay pa kan enot na aldaw kan semana, nagpahiling siyang enot ki Maria Magdalena, na pinaluwasan niya nin pitong demonyo. 
 Markos|16|10|Nagduman si Maria Magdalena sa mga disipulo ni Jesus na nagmomondo saka nagtatangis. 
 Markos|16|11|Alagad dai sinda nagtubod kan sinabi niyang buhay na si Jesus asin nahiling niya. 
 Markos|16|12|Pakatapos kaini, nagpahiling si Jesus sa ibang paagi sa duwa kan saiyang mga disipulo na naglalakaw pasiring sa oma. 
@@ -1743,7 +1743,7 @@ Markos|16|17|An mga nagtutubod magkakaigwa kan mga tandang ini: sa ngaran ko mag
 Markos|16|18|kun magkapot sinda nin halas, o kun mag-inom nin hilo, dai sinda maaano; an mga naghehelang na kapotan ninda, maoomayan." 
 Markos|16|19|Pakatapos na kaolayon kan Kagurangnan na Jesus an mga disipulo, isinakat siya sa langit asin nagtukaw sa too nin Dios. 
 Markos|16|20|Nagralakaw an mga disipulo asin naghulit saen man na lugar. Tinabangan sinda kan Kagurangnan asin pinatunayan na an saindang ipinaghuhulit totoo huli sa mga milagro na saindang ginibo.][
-Markos|16|9 Nagduruman an mga babae ki Pedro saka sa saiyang mga katood dangan inosip ninda sa halipot na osipon an gabos na isinabi sainda. 
+Markos|16|9|Nagduruman an mga babae ki Pedro saka sa saiyang mga katood dangan inosip ninda sa halipot na osipon an gabos na isinabi sainda. 
 Markos|16|10|Pakatapos kaini, sinugo ni Jesus an saiyang mga disipulo sa bilog na kinaban. Ipinaghulit ninda an banal asin danay na buhay na bareta nin kaligtasan na daing kataposan.]
 Lukas|1|1|Ginagalangan kong Teofilo:Dakul na an nagsurat nin maigot dapit sa mga bagay na nangyari sa tahaw nyato. 
 Lukas|1|2|Isinurat ninda an mga bagay na inosip sato kan mga nakahiling kaiyan poon sa kapinonan, asin nagtukdo kan Marahay na Bareta. 
@@ -3007,7 +3007,7 @@ Juan|3|34|Huli ta an sinugo nin Dios nagtataram kan mga tataramon nin Dios; dai 
 Juan|3|35|Namomotan kan Ama an Aki, asin an gabos na bagay itinatao niya sa kamot kan Aki. 
 Juan|3|36|An nagtutubod sa Aki may buhay na daing kataposan; alagad an dai nagtutubod sa Aki dai magkakamit nin buhay, kundi mapapasaiya an padusa nin Dios.
 Juan|4|1|Nabaretaan kan mga Fariseo na mas dakul an nagigin disipulo ni Jesus asin nagpapabunyag saiya ki sa ki Juan. 
-Juan|4|2|(Sa katunayan, bako man si Jesus an nagbubunyag kundi an saiyang mga disipulo.) 
+Juan|4|2|Sa katunayan, bako man si Jesus an nagbubunyag kundi an saiyang mga disipulo.) 
 Juan|4|3|Kan maaraman ini ni Jesus, naghale siya sa Judea asin nagbalik sa Galilea. 
 Juan|4|4|Pagbalik niya, kaipuhan sa Samaria siya mag-agi. 
 Juan|4|5|Nag-abot siya sa Sicar, sarong banwaan nin Samaria. Harani ini sa dagang ipinamana ni Jacob sa aki niyang si Jose. 
@@ -3181,8 +3181,8 @@ Juan|6|71|An pinapanongdan niya kaini iyo si Judas na aki ni Simon Iscariote. Hu
 Juan|7|1|Pakatapos kaini, linibot ni Jesus an Galilea; habo siyang maglibot sa Judea, huli ta pinaghuhumotan siyang gadanon kan mga Judio duman. 
 Juan|7|2|Harani na an Pyesta kan mga Harong-harong. 
 Juan|7|3|Kaya sinabihan si Jesus kan mga tugang niya, "Bayae na an lugar na ini asin dumuman ka sa Judea, tanganing mahiling man kan mga disipulo mo duman an mga ginigibo mo. 
-Juan|7|4|Dai tinatago kan tawo an mga ginigibo niya kun boot niyang mabantog. Ginigibo mo man sana an mga bagay na ini, magpamidbid ka na logod sa bilog na kinaban!" 
-Juan|7|5|(Huli ta maski an mga tugang niya dai nagtutubod saiya.) 
+Juan|7|4|Dai tinatago kan tawo an mga ginigibo niya kun boot niyang mabantog. Ginigibo mo man sana an mga bagay na ini, magpamidbid ka na logod sa bilog na kinaban!"
+Juan|7|5|Huli ta maski an mga tugang niya dai nagtutubod saiya.) 
 Juan|7|6|Nagsimbag si Jesus, "Bako pa ini an oras ko, alagad para saindo, maski anong oras tama. 
 Juan|7|7|Dai kamo ikakaongis kan kinaban, alagad ikinakaongis ako, huli ta pinapatotoohan ko an mga maraot na gibo kan kinaban. 
 Juan|7|8|Kamo na sana an magduman sa pyesta. Dai ako maduman, huli ta bako pa ini an oras ko." 
@@ -3230,8 +3230,7 @@ Juan|7|49|Mayo, kundi an mga tawo sanang dai tatao kan Katogonan. Kaya minamaldi
 Juan|7|50|An saro kan mga Fariseo iyo si Nicodemo; siya an nagdalaw ki Jesus kaidto. Nagsabi siya sainda, 
 Juan|7|51|"Sosog sa satong Katogonan, dai pwedeng hukoman an sarong tawo kun dai ngona siya dangogon o aramon kun ano an saiyang naginibo." 
 Juan|7|52|Nagsimbag sinda, "Taga Galilea ka man? Adalan mo an mga kasuratan ta mahihiling mo na mayong propetang magikan sa Galilea."
-Juan|8|8|[
-Juan|8|1 Nagpuli an lambang saro, alagad si Jesus nagduman sa Bukid nin mga Oliba. 
+Juan|8|1|Nagpuli an lambang saro, alagad si Jesus nagduman sa Bukid nin mga Oliba. 
 Juan|8|2|Pagkaagang amay, nagbalik si Jesus sa Templo. Pinagtiriponan siya kan mga tawo; nagtukaw siya saka tinukdoan sinda. 
 Juan|8|3|Dangan may dinara saiya an mga paratukdo kan Katogonan asin an mga Fariseo na sarong babae na nadakop na nakikidorog sa bakong agom. Pinatindog ninda an babae sa tahaw, 
 Juan|8|4|dangan sinabihan si Jesus, "Maestro, an babaeng ini nadakop na nakikidorog sa bakong agom. 
@@ -3373,7 +3372,7 @@ Juan|10|40|Nagbalik giraray si Jesus duman sa ibong kan Salog nin Jordan, sa lug
 Juan|10|41|Dakul an nagdolok saiya asin nagsabi, "Mayo si Juan nin ginibong mga ngangalasan, alagad totoo an gabos na sinabi niya dapit sa tawong ini." 
 Juan|10|42|Dakul na tawo duman an nagtubod ki Jesus.
 Juan|11|1|May sarong lalaking naghelang, si Lazaro na taga Betania, lugar na pinag-eerokan ni Maria asin kan saiyang tugang na si Marta. 
-Juan|11|2|(Ini an Maria na nagbubo nin pahamot sa mga bitis kan Kagurangnan dangan pinahidan niya kan saiyang buhok; tugang niya si Lazaro na naghelang.) 
+Juan|11|2|Ini an Maria na nagbubo nin pahamot sa mga bitis kan Kagurangnan dangan pinahidan niya kan saiyang buhok; tugang niya si Lazaro na naghelang.) 
 Juan|11|3|Kaya pinatogonan si Jesus kan magtugang na babae, "Kagurangnan, an padangat mong katood naghehelang." 
 Juan|11|4|Kan maaraman ini ni Jesus, nagsabi siya, "An helang na ini dai ikakagadan kundi para sa kamurawayan nin Dios, tanganing an Aki nin Dios magmuraway huli kaiyan." 
 Juan|11|5|Padangat ni Jesus an magturugang na Marta, Maria, saka Lazaro. 

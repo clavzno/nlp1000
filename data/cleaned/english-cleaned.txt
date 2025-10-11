@@ -194,7 +194,7 @@ Matthew|7|20|Thus you will know them by their fruits.
 Matthew|7|21|"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but only the one who does the will of my Father in heaven. 
 Matthew|7|22|On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?'
 Matthew|7|23|Then I will declare to them, 'I never knew you; go away from me, you who behave lawlessly.'
-Matthew|7|24|"Everyone, then, who hears these words of mine and acts on them will be like a wise man who built his house on rock. 
+Matthew|7|24 "Everyone, then, who hears these words of mine and acts on them will be like a wise man who built his house on rock. 
 Matthew|7|25|The rain fell, the floods came, and the winds blew and beat on that house, but it did not fall because it had been founded on rock. 
 Matthew|7|26|And everyone who hears these words of mine and does not act on them will be like a foolish man who built his house on sand. 
 Matthew|7|27|The rain fell, and the floods came, and the winds blew and beat against that house, and it fell—and great was its fall!"
@@ -409,7 +409,7 @@ Matthew|13|12|For to those who have, more will be given, and they will have an a
 Matthew|13|13|The reason I speak to them in parables is that 'seeing they do not perceive, and hearing they do not listen, nor do they understand.'
 Matthew|13|14|With them indeed is fulfilled the prophecy of Isaiah that says:'You will indeed listen but never understand,and you will indeed look but never perceive. 
 Matthew|13|15|For this people's heart has grown dull,and their ears are hard of hearing,and they have shut their eyes,so that they might not look with their eyes,and hear with their earsand understand with their heart and turn—and I would heal them.'
-Matthew|13|16|"But blessed are your eyes, for they see, and your ears, for they hear. 
+Matthew|13|16 "But blessed are your eyes, for they see, and your ears, for they hear. 
 Matthew|13|17|Truly I tell you, many prophets and righteous people longed to see what you see but did not see it and to hear what you hear but did not hear it. 
 Matthew|13|18|"Hear, then, the parable of the sower. 
 Matthew|13|19|When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what is sown in the heart; this is what was sown on the path. 
@@ -890,7 +890,7 @@ Matthew|25|27|Then you ought to have invested my money with the bankers, and on 
 Matthew|25|28|So take the talent from him, and give it to the one with the ten talents. 
 Matthew|25|29|For to all those who have, more will be given, and they will have an abundance, but from those who have nothing, even what they have will be taken away. 
 Matthew|25|30|As for this worthless slave, throw him into the outer darkness, where there will be weeping and gnashing of teeth.'
-Matthew|25|31|"When the Son of Man comes in his glory and all the angels with him, then he will sit on the throne of his glory. 
+Matthew|25|31 "When the Son of Man comes in his glory and all the angels with him, then he will sit on the throne of his glory. 
 Matthew|25|32|All the nations will be gathered before him, and he will separate people one from another as a shepherd separates the sheep from the goats, 
 Matthew|25|33|and he will put the sheep at his right hand and the goats at the left. 
 Matthew|25|34|Then the king will say to those at his right hand, 'Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world, 
@@ -937,7 +937,7 @@ Matthew|26|28|for this is my blood of the covenant, which is poured out for many
 Matthew|26|29|I tell you, I will never again drink of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
 Matthew|26|30|When they had sung the hymn, they went out to the Mount of Olives. 
 Matthew|26|31|Then Jesus said to them, "You will all fall away because of me this night, for it is written,'I will strike the shepherd,and the sheep of the flock will be scattered.'
-Matthew|26|32|"But after I am raised up, I will go ahead of you to Galilee." 
+Matthew|26|32 "But after I am raised up, I will go ahead of you to Galilee." 
 Matthew|26|33|Peter said to him, "Even if all fall away because of you, I will never fall away." 
 Matthew|26|34|Jesus said to him, "Truly I tell you, this very night, before the cock crows, you will deny me three times." 
 Matthew|26|35|Peter said to him, "Even though I must die with you, I will not deny you." And so said all the disciples. 
@@ -1317,12 +1317,12 @@ Mark|6|55|and rushed about that whole region and began to bring the sick on mats
 Mark|6|56|And wherever he went, into villages or cities or farms, they laid the sick in the marketplaces and begged him that they might touch even the fringe of his cloak, and all who touched it were healed.
 Mark|7|1|Now when the Pharisees and some of the scribes who had come from Jerusalem gathered around him, 
 Mark|7|2|they noticed that some of his disciples were eating with defiled hands, that is, without washing them. 
-Mark|7|3|(For the Pharisees, and all the Jews, do not eat unless they wash their hands, thus observing the tradition of the elders, 
+Mark|7|3|For the Pharisees, and all the Jews, do not eat unless they wash their hands, thus observing the tradition of the elders, 
 Mark|7|4|and they do not eat anything from the market unless they wash, and there are also many other traditions that they observe: the washing of cups and pots and bronze kettles and beds.) 
 Mark|7|5|So the Pharisees and the scribes asked him, "Why do your disciples not walk according to the tradition of the elders but eat with defiled hands?" 
 Mark|7|6|He said to them, "Isaiah prophesied rightly about you hypocrites, as it is written,'This people honors me with their lips,but their hearts are far from me; 
 Mark|7|7|in vain do they worship me,teaching human precepts as doctrines.'
-Mark|7|8|"You abandon the commandment of God and hold to human tradition."
+Mark|7|8 "You abandon the commandment of God and hold to human tradition."
 Mark|7|9|Then he said to them, "You have a fine way of rejecting the commandment of God in order to keep your tradition! 
 Mark|7|10|For Moses said, 'Honor your father and your mother,' and, 'Whoever speaks evil of father or mother must surely die.'
 Mark|7|11|But you say that if anyone tells father or mother, 'Whatever support you might have had from me is Corban' (that is, an offering to God), 
@@ -1557,7 +1557,7 @@ Mark|12|33|and 'to love him with all the heart and with all the understanding an
 Mark|12|34|When Jesus saw that he answered wisely, he said to him, "You are not far from the kingdom of God." After that no one dared to ask him any question. 
 Mark|12|35|While Jesus was teaching in the temple, he said, "How can the scribes say that the Messiah is the son of David? 
 Mark|12|36|David himself, by the Holy Spirit, declared,'The Lord said to my Lord,"Sit at my right hand,until I put your enemies under your feet." '
-Mark|12|37|"David himself calls him Lord, so how can he be his son?" And the large crowd was listening to him with delight. 
+Mark|12|37 "David himself calls him Lord, so how can he be his son?" And the large crowd was listening to him with delight. 
 Mark|12|38|As he taught, he said, "Beware of the scribes, who like to walk around in long robes and to be greeted with respect in the marketplaces 
 Mark|12|39|and to have the best seats in the synagogues and places of honor at banquets! 
 Mark|12|40|They devour widows' houses and for the sake of appearance say long prayers. They will receive the greater condemnation."
@@ -1629,7 +1629,7 @@ Mark|14|24|He said to them, "This is my blood of the covenant, which is poured o
 Mark|14|25|Truly I tell you, I will never again drink of the fruit of the vine until that day when I drink it new in the kingdom of God."
 Mark|14|26|When they had sung the hymn, they went out to the Mount of Olives. 
 Mark|14|27|And Jesus said to them, "You will all fall away, for it is written,'I will strike the shepherd,and the sheep will be scattered.'
-Mark|14|28|"But after I am raised up, I will go before you to Galilee." 
+Mark|14|28 "But after I am raised up, I will go before you to Galilee." 
 Mark|14|29|Peter said to him, "Even though all fall away, I will not." 
 Mark|14|30|Jesus said to him, "Truly I tell you, this day, this very night, before the cock crows twice, you will deny me three times." 
 Mark|14|31|But he said vehemently, "Even though I must die with you, I will not deny you." And all of them said the same. 
@@ -1841,8 +1841,8 @@ Luke|2|18|and all who heard it were amazed at what the shepherds told them,
 Luke|2|19|and Mary treasured all these words and pondered them in her heart. 
 Luke|2|20|The shepherds returned, glorifying and praising God for all they had heard and seen, just as it had been told them. 
 Luke|2|21|When the eighth day came, it was time to circumcise the child, and he was called Jesus, the name given by the angel before he was conceived in the womb. 
-Luke|2|22|When the time came for their purification according to the law of Moses, they brought him up to Jerusalem to present him to the Lord 
-Luke|2|23|(as it is written in the law of the Lord, "Every firstborn male shall be designated as holy to the Lord"), 
+Luke|2|22|When the time came for their purification according to the law of Moses, they brought him up to Jerusalem to present him to the Lord
+Luke|2|23|as it is written in the law of the Lord, "Every firstborn male shall be designated as holy to the Lord"), 
 Luke|2|24|and they offered a sacrifice according to what is stated in the law of the Lord, "a pair of turtledoves or two young pigeons."
 Luke|2|25|Now there was a man in Jerusalem whose name was Simeon; this man was righteous and devout, looking forward to the consolation of Israel, and the Holy Spirit rested on him. 
 Luke|2|26|It had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord's Messiah. 
@@ -2069,12 +2069,12 @@ Luke|7|24|When John's messengers had gone, Jesus began to speak to the crowds ab
 Luke|7|25|What, then, did you go out to see? Someone dressed in soft robes? Look, those who put on fine clothing and live in luxury are in royal palaces. 
 Luke|7|26|What, then, did you go out to see? A prophet? Yes, I tell you, and more than a prophet. 
 Luke|7|27|This is the one about whom it is written,'See, I am sending my messenger ahead of you,who will prepare your way before you.'
-Luke|7|28|"I tell you, among those born of women no one is greater than John, yet the least in the kingdom of God is greater than he." 
-Luke|7|29|(And all the people who heard this, including the tax collectors, acknowledged the justice of God, having been baptized with John's baptism. 
+Luke|7|28|"I tell you, among those born of women no one is greater than John, yet the least in the kingdom of God is greater than he."
+Luke|7|29|And all the people who heard this, including the tax collectors, acknowledged the justice of God, having been baptized with John's baptism. 
 Luke|7|30|But the Pharisees and the experts in the law, not having been baptized by him, rejected God's purpose for themselves.) 
 Luke|7|31|"To what, then, will I compare the people of this generation, and what are they like? 
 Luke|7|32|They are like children sitting in the marketplace and calling to one another,'We played the flute for you, and you did not dance;we wailed, and you did not weep.'
-Luke|7|33|"For John the Baptist has come eating no bread and drinking no wine, and you say, 'He has a demon'; 
+Luke|7|33 "For John the Baptist has come eating no bread and drinking no wine, and you say, 'He has a demon'; 
 Luke|7|34|the Son of Man has come eating and drinking, and you say, 'Look, a glutton and a drunkard, a friend of tax collectors and sinners!'
 Luke|7|35|Nevertheless, wisdom is vindicated by all her children."
 Luke|7|36|One of the Pharisees asked Jesus to eat with him, and when he went into the Pharisee's house he reclined to dine. 
@@ -2102,7 +2102,7 @@ Luke|8|7|Some fell among thorns, and the thorns grew with it and choked it.
 Luke|8|8|Some fell into good soil, and when it grew it produced a hundredfold." As he said this, he called out, "If you have ears to hear, then hear!"
 Luke|8|9|Then his disciples asked him what this parable meant. 
 Luke|8|10|He said, "To you it has been given to know the secrets of the kingdom of God, but to others I speak in parables, so that'looking they may not perceiveand hearing they may not understand.'
-Luke|8|11|"Now the parable is this: The seed is the word of God. 
+Luke|8|11 "Now the parable is this: The seed is the word of God. 
 Luke|8|12|The ones on the path are those who have heard; then the devil comes and takes away the word from their hearts, so that they may not believe and be saved. 
 Luke|8|13|The ones on the rock are those who, when they hear the word, receive it with joy. But these have no root; they believe only for a while and in a time of testing fall away. 
 Luke|8|14|As for what fell among the thorns, these are the ones who hear, but as they go on their way they are choked by the cares and riches and pleasures of life, and their fruit does not mature. 
@@ -2601,7 +2601,7 @@ Luke|19|21|for I was afraid of you, because you are a harsh man; you take what y
 Luke|19|22|He said to him, 'I will judge you by your own words, you wicked slave! You knew, did you, that I was a harsh man, taking what I did not deposit and reaping what I did not sow? 
 Luke|19|23|Why, then, did you not put my money into the bank? Then when I returned, I could have collected it with interest.'
 Luke|19|24|He said to the bystanders, 'Take the pound from him and give it to the one who has ten pounds.'
-Luke|19|25|(And they said to him, 'Lord, he has ten pounds!')
+Luke|19|25|And they said to him, 'Lord, he has ten pounds!')
 Luke|19|26|'I tell you, to all those who have, more will be given, but from those who have nothing, even what they have will be taken away. 
 Luke|19|27|But as for these enemies of mine who did not want me to rule over them—bring them here and slaughter them in my presence.' "
 Luke|19|28|After he had said this, he went on ahead, going up to Jerusalem. 
@@ -2797,8 +2797,8 @@ Luke|23|13|Pilate then called together the chief priests, the leaders, and the p
 Luke|23|14|and said to them, "You brought me this man as one who was inciting the people, and here I have examined him in your presence and have not found this man guilty of any of your charges against him. 
 Luke|23|15|Neither has Herod, for he sent him back to us. Indeed, he has done nothing to deserve death. 
 Luke|23|16|I will therefore have him flogged and release him."
-Luke|23|18|Then they all shouted out together, "Away with this fellow! Release Barabbas for us!" 
-Luke|23|19|(This was a man who had been put in prison for an insurrection that had taken place in the city and for murder.) 
+Luke|23|18|Then they all shouted out together, "Away with this fellow! Release Barabbas for us!"
+Luke|23|19|This was a man who had been put in prison for an insurrection that had taken place in the city and for murder.) 
 Luke|23|20|Pilate, wanting to release Jesus, addressed them again, 
 Luke|23|21|but they kept shouting, "Crucify, crucify him!" 
 Luke|23|22|A third time he said to them, "Why, what evil has he done? I have found in him no ground for the sentence of death; I will therefore have him flogged and then release him." 
@@ -2903,7 +2903,7 @@ John|1|11|He came to what was his own, and his own people did not accept him.
 John|1|12|But to all who received him, who believed in his name, he gave power to become children of God, 
 John|1|13|who were born, not of blood or of the will of the flesh or of the will of man, but of God. 
 John|1|14|And the Word became flesh and lived among us, and we have seen his glory, the glory as of a father's only son, full of grace and truth. 
-John|1|15|(John testified to him and cried out, "This was he of whom I said, 'He who comes after me ranks ahead of me because he was before me.' ") 
+John|1|15|John testified to him and cried out, "This was he of whom I said, 'He who comes after me ranks ahead of me because he was before me.' ") 
 John|1|16|From his fullness we have all received, grace upon grace. 
 John|1|17|The law indeed was given through Moses; grace and truth came through Jesus Christ. 
 John|1|18|No one has ever seen God. It is the only Son, himself God, who is close to the Father's heart, who has made him known. 
@@ -2988,7 +2988,7 @@ John|3|20|For all who do evil hate the light and do not come to the light, so th
 John|3|21|But those who do what is true come to the light, so that it may be clearly seen that their deeds have been done in God." 
 John|3|22|After this Jesus and his disciples went into the region of Judea, and he spent some time there with them and baptized. 
 John|3|23|John also was baptizing at Aenon near Salim because water was abundant there, and people kept coming and were being baptized. 
-John|3|24|(John, of course, had not yet been thrown into prison.) 
+John|3|24|John, of course, had not yet been thrown into prison.) 
 John|3|25|Now a discussion about purification arose between John's disciples and a Jew. 
 John|3|26|They came to John and said to him, "Rabbi, the one who was with you across the Jordan, to whom you testified, here he is baptizing, and all are going to him." 
 John|3|27|John answered, "No one can receive anything except what has been given from heaven. 
@@ -3001,14 +3001,14 @@ John|3|33|Whoever has accepted his testimony has certified this, that God is tru
 John|3|34|He whom God has sent speaks the words of God, for he gives the Spirit without measure. 
 John|3|35|The Father loves the Son and has placed all things in his hands. 
 John|3|36|Whoever believes in the Son has eternal life; whoever disobeys the Son will not see life but must endure God's wrath.
-John|4|1|Now when Jesus learned that the Pharisees had heard, "Jesus is making and baptizing more disciples than John" 
-John|4|2|(although it was not Jesus himself but his disciples who baptized), 
+John|4|1|Now when Jesus learned that the Pharisees had heard, "Jesus is making and baptizing more disciples than John"
+John|4|2|although it was not Jesus himself but his disciples who baptized), 
 John|4|3|he left Judea and started back to Galilee. 
 John|4|4|But he had to go through Samaria. 
 John|4|5|So he came to a Samaritan city called Sychar, near the plot of ground that Jacob had given to his son Joseph. 
 John|4|6|Jacob's well was there, and Jesus, tired out by his journey, was sitting by the well. It was about noon. 
-John|4|7|A Samaritan woman came to draw water, and Jesus said to her, "Give me a drink." 
-John|4|8|(His disciples had gone to the city to buy food.) 
+John|4|7|A Samaritan woman came to draw water, and Jesus said to her, "Give me a drink."
+John|4|8|His disciples had gone to the city to buy food.) 
 John|4|9|The Samaritan woman said to him, "How is it that you, a Jew, ask a drink of me, a woman of Samaria?" (Jews do not share things in common with Samaritans.) 
 John|4|10|Jesus answered her, "If you knew the gift of God and who it is that is saying to you, 'Give me a drink,' you would have asked him, and he would have given you living water." 
 John|4|11|The woman said to him, "Sir, you have no bucket, and the well is deep. Where do you get that living water? 
@@ -3043,8 +3043,8 @@ John|4|39|Many Samaritans from that city believed in him because of the woman's 
 John|4|40|So when the Samaritans came to him, they asked him to stay with them, and he stayed there two days. 
 John|4|41|And many more believed because of his word. 
 John|4|42|They said to the woman, "It is no longer because of what you said that we believe, for we have heard for ourselves, and we know that this is truly the Savior of the world."
-John|4|43|When the two days were over, he went from that place to Galilee 
-John|4|44|(for Jesus himself had testified that a prophet has no honor in the prophet's own country). 
+John|4|43|When the two days were over, he went from that place to Galilee
+John|4|44|for Jesus himself had testified that a prophet has no honor in the prophet's own country). 
 John|4|45|When he came to Galilee, the Galileans welcomed him, since they had seen all that he had done in Jerusalem at the festival, for they, too, had gone to the festival. 
 John|4|46|Then he came again to Cana in Galilee, where he had changed the water into wine. Now there was a royal official whose son lay ill in Capernaum. 
 John|4|47|When he heard that Jesus had come from Judea to Galilee, he went and begged him to come down and heal his son, for he was at the point of death. 
@@ -3175,8 +3175,8 @@ John|6|71|He was speaking of Judas son of Simon Iscariot, for he, though one of 
 John|7|1|After this Jesus went about in Galilee. He did not wish to go about in Judea because the Jews were looking for an opportunity to kill him. 
 John|7|2|Now the Jewish Festival of Booths was near. 
 John|7|3|So his brothers said to him, "Leave here and go to Judea so that your disciples also may see the works you are doing, 
-John|7|4|for no one who wants to be widely known acts in secret. If you do these things, show yourself to the world." 
-John|7|5|(For not even his brothers believed in him.) 
+John|7|4|for no one who wants to be widely known acts in secret. If you do these things, show yourself to the world."
+John|7|5|For not even his brothers believed in him.) 
 John|7|6|Jesus said to them, "My time has not yet come, but your time is always here. 
 John|7|7|The world cannot hate you, but it hates me because I testify against it that its works are evil. 
 John|7|8|Go to the festival yourselves. I am not going to this festival, for my time has not yet fully come." 
@@ -3428,8 +3428,8 @@ John|12|1|Six days before the Passover Jesus came to Bethany, the home of Lazaru
 John|12|2|There they gave a dinner for him. Martha served, and Lazarus was one of those reclining with him. 
 John|12|3|Mary took a pound of costly perfume made of pure nard, anointed Jesus's feet, and wiped them with her hair. The house was filled with the fragrance of the perfume. 
 John|12|4|But Judas Iscariot, one of his disciples (the one who was about to betray him), said, 
-John|12|5|"Why was this perfume not sold for three hundred denarii and the money given to the poor?" 
-John|12|6|(He said this not because he cared about the poor but because he was a thief; he kept the common purse and used to steal what was put into it.) 
+John|12|5|"Why was this perfume not sold for three hundred denarii and the money given to the poor?"
+John|12|6|He said this not because he cared about the poor but because he was a thief; he kept the common purse and used to steal what was put into it.) 
 John|12|7|Jesus said, "Leave her alone. She bought it so that she might keep it for the day of my burial. 
 John|12|8|You always have the poor with you, but you do not always have me." 
 John|12|9|When the great crowd of the Jews learned that he was there, they came not only because of Jesus but also to see Lazarus, whom he had raised from the dead. 
@@ -3568,7 +3568,7 @@ John|15|22|If I had not come and spoken to them, they would not have sin, but no
 John|15|23|Whoever hates me hates my Father also. 
 John|15|24|If I had not done among them the works that no one else did, they would not have sin. But now they have seen and hated both me and my Father. 
 John|15|25|It was to fulfill the word that is written in their law, 'They hated me without a cause.'
-John|15|26|"When the Advocate comes, whom I will send to you from the Father, the Spirit of truth who comes from the Father, he will testify on my behalf. 
+John|15|26 "When the Advocate comes, whom I will send to you from the Father, the Spirit of truth who comes from the Father, he will testify on my behalf. 
 John|15|27|You also are to testify, because you have been with me from the beginning.
 John|16|1|"I have said these things to you to keep you from falling away. 
 John|16|2|They will put you out of the synagogues. Indeed, an hour is coming when those who kill you will think that by doing so they are offering worship to God. 
@@ -3659,8 +3659,8 @@ John|18|27|Again Peter denied it, and at that moment the cock crowed.
 John|18|28|Then they took Jesus from Caiaphas to Pilate's headquarters. It was early in the morning. They themselves did not enter the headquarters, so as to avoid ritual defilement and to be able to eat the Passover. 
 John|18|29|So Pilate went out to them and said, "What accusation do you bring against this man?" 
 John|18|30|They answered, "If this man were not a criminal, we would not have handed him over to you." 
-John|18|31|Pilate said to them, "Take him yourselves and judge him according to your law." The Jews replied, "We are not permitted to put anyone to death." 
-John|18|32|(This was to fulfill what Jesus had said when he indicated the kind of death he was to die.)
+John|18|31|Pilate said to them, "Take him yourselves and judge him according to your law." The Jews replied, "We are not permitted to put anyone to death."
+John|18|32|This was to fulfill what Jesus had said when he indicated the kind of death he was to die.)
 John|18|33|Then Pilate entered the headquarters again, summoned Jesus, and asked him, "Are you the King of the Jews?" 
 John|18|34|Jesus answered, "Do you ask this on your own, or did others tell you about me?" 
 John|18|35|Pilate replied, "I am not a Jew, am I? Your own nation and the chief priests have handed you over to me. What have you done?" 
@@ -3703,7 +3703,7 @@ John|19|31|Since it was the day of Preparation, the Jews did not want the bodies
 John|19|32|Then the soldiers came and broke the legs of the first and of the other who had been crucified with him. 
 John|19|33|But when they came to Jesus and saw that he was already dead, they did not break his legs. 
 John|19|34|Instead, one of the soldiers pierced his side with a spear, and at once blood and water came out. 
-John|19|35|(He who saw this has testified so that you also may believe. His testimony is true, and he knows that he tells the truth, so that you also may continue to believe.) 
+John|19|35|He who saw this has testified so that you also may believe. His testimony is true, and he knows that he tells the truth, so that you also may continue to believe.) 
 John|19|36|These things occurred so that the scripture might be fulfilled, "None of his bones shall be broken." 
 John|19|37|And again another passage of scripture says, "They will look on the one whom they have pierced." 
 John|19|38|After these things, Joseph of Arimathea, who was a disciple of Jesus, though a secret one because of his fear of the Jews, asked Pilate to let him take away the body of Jesus. Pilate gave him permission, so he came and removed his body. 
@@ -3759,8 +3759,8 @@ John|21|14|This was now the third time that Jesus appeared to the disciples afte
 John|21|15|When they had finished breakfast, Jesus said to Simon Peter, "Simon son of John, do you love me more than these?" He said to him, "Yes, Lord; you know that I love you." Jesus said to him, "Feed my lambs." 
 John|21|16|A second time he said to him, "Simon son of John, do you love me?" He said to him, "Yes, Lord; you know that I love you." Jesus said to him, "Tend my sheep." 
 John|21|17|He said to him the third time, "Simon son of John, do you love me?" Peter felt hurt because he said to him the third time, "Do you love me?" And he said to him, "Lord, you know everything; you know that I love you." Jesus said to him, "Feed my sheep. 
-John|21|18|Very truly, I tell you, when you were younger, you used to fasten your own belt and to go wherever you wished. But when you grow old, you will stretch out your hands, and someone else will fasten a belt around you and take you where you do not wish to go." 
-John|21|19|(He said this to indicate the kind of death by which he would glorify God.) After this he said to him, "Follow me."
+John|21|18|Very truly, I tell you, when you were younger, you used to fasten your own belt and to go wherever you wished. But when you grow old, you will stretch out your hands, and someone else will fasten a belt around you and take you where you do not wish to go."
+John|21|19|He said this to indicate the kind of death by which he would glorify God.) After this he said to him, "Follow me."
 John|21|20|Peter turned and saw the disciple whom Jesus loved following them; he was the one who had reclined next to Jesus at the supper and had said, "Lord, who is it that is going to betray you?" 
 John|21|21|When Peter saw him, he said to Jesus, "Lord, what about him?" 
 John|21|22|Jesus said to him, "If it is my will that he remain until I come, what is that to you? Follow me!" 

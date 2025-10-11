@@ -28,7 +28,7 @@ Mateo|2|1|Hay nitungawan Jesus ya ad Betlehem an bobled Judea ya hay patul kediy
 Mateo|2|2|Kanan da nadah tataguy "Daan nan nitungon golang an ahi pumpatul di Judyu? Tinibo mi nan bittuwon nah appit di timilan di algo an hidiyey nangimatunan mih nitungowana ta hidiyey gapunan immali kamin mundayaw ke hiya." 
 Mateo|2|3|Dingngol Herod ya nadan tatagud Jerusalem hidiyen kinali da ya mabulubulun da. 
 Mateo|2|4|Inamung Herod nadan aap-apun di padi ya nadan muntuttuduh Tugun Moses ot kananan diday "Daanay kitungowan nan Kristo an pinilin Apu Dios an ahi pun-ap-apun di Judyu?" 
-Mateo|2|5|Kanan day "Ad Betlehem an bobled Judea, te hidiyey kanan nan intudok di profetas Apu Dios an kananay 6|'Nan boblen Betlehem ya maid di bilang na nadah bobled Judea, mu importanteh diyen boble te hidiy kalpuwan di ap-apun mangipaptok hi tataguk an holag Israel.'" 
+Mateo|2|5|Kanan day "Ad Betlehem an bobled Judea, te hidiyey kanan nan intudok di profetas Apu Dios an kananay 6'Nan boblen Betlehem ya maid di bilang na nadah bobled Judea, mu importanteh diyen boble te hidiy kalpuwan di ap-apun mangipaptok hi tataguk an holag Israel.'" 
 Mateo|2|7|Impaayag Herod nadan tatagun nalpuh nangappit hi timilan di algo ot handih ab-abbu da ya hinanhananan dida hin kakon-anay numpatib-an nan bittuwon. 
 Mateo|2|8|Ot tugunona didan kananay "Ume kayud Betlehem ta eyu hamakon nan golang ta deket hinamak yu ya ipainila yun ha-on ta ek damdama dayawon." 
 Mateo|2|9|Hituwey kinalin Herod ke dida ot ahida umed Betlehem. Wadadah dalan ya inang-ang da bo nan bittuwon an hidiye din tinibo dah nangappit hi timilan di algo. Impangulun nan bittuwon dida inggana nah pottok di kawad-an nan golang ot muntikod hidi 
@@ -237,7 +237,7 @@ Mateo|9|7|Ya timmaddog nan tagu ot ume.
 Mateo|9|8|Namodwong nadan tatagun nanibon diye ot dayawon dah Apu Dios te indat nah tuwen kabaelan hi tagu. 
 Mateo|9|9|Tinaynan Jesus nadan tatagu ot mangmangnge ya tinibona nan mun-amung hi buwis an hay ngadana ya hi Mateo an um-umbun nah upisinana ot kanan Jesus ke hiyay "Maka, miunud kan ha-on." Ot miunud ke hiya. 
 Mateo|9|10|Waday ohan algon nangan da Jesus ya nadan disipulos nah balen da Mateo ya immali day dakol an mun-amung hi buwis ya nadan naliwat ot makikan dan dida. 
-Mateo|9|11|Tinibon nadan Pharisee ya kanan da nadah disipulos nay "Tipet makikan nan Apu yu ke dadiyen tatagu?" 
+Mateo|9|11|Tinibon nadan Pharisee ya kanan da nadah disipulos nay "Tipet makikan nan Apu yu ke dadiyen tatagu?"
 Mateo|9|12,13| Dingngol Jesus hidiyen kinali da ot kananay "Hay agahan di doktor ya hay mundogo, bokon hay maid di dogona. Paddungnan ha-oy an immaliyak ta paphodok nadan naliwat, bokon nadan kanan day maid di liwat da. Dakayu ya mahapul an nomnomon yu nan impitudok Apu Dios an kananay 'Kudukdul di homkon yuy ibbayu mu nan eyak iappitan.'" 
 Mateo|9|14|Immali da nan disipulos Juan an mumbonyag hi kad-an Jesus ot kanan day "Tipet dakami ke ya nadan udum an Pharisee ya muntopol kamin adi kami mangan ya nada ken disipulos mu ya adida?" 
 Mateo|9|15|Ya hinumang Jesus an kananay "An hay kanan yu ya adi mangan nadan gagayyum nan mungkasal? Mangan da te nan mungkasal an nikuyugan da ya ipaptok na dida. Athidi damdama nadah disipulos ku an mangan da te wadaak. Mu indanit maidak mo ya adida mangan gapuh punnomnom dan ha-on. 
@@ -318,7 +318,7 @@ Mateo|11|12|Ya nipalpu handih nuntuttuduwana ingganad uwani ya ihik di tatagun m
 Mateo|11|13|Hidiyen pun-ap-apuwana ya intuttudun am-in handidan profetas ya nan Tugun Moses inggana handih kawadan Juan. 
 Mateo|11|14|Kinali da bon ahi mumbangngad hi Elijah ya deket kulugon yu ya hi Juan di nipaannungana. 
 Mateo|11|15|Pakannomnomon yuh naen kinalik. 
-Mateo|11|16|Dakayun tatagud uwani ya umat kayu nadah u-ungan maamuamung an umanay-ayyam nah malkadu. Kanan di udum hanadah ibbaday 17|'Nuntobtobbab kami ya nungganggangha kami ta kanan mi ot on manayo kayu, mu ugge kayu. Ya impatna mi bon mun-iyo, mu ugge kayu kinumga.' Umat kayu ke datuwen u-unga te ugge inilay pinhod yu. 
+Mateo|11|16|Dakayun tatagud uwani ya umat kayu nadah u-ungan maamuamung an umanay-ayyam nah malkadu. Kanan di udum hanadah ibbaday 17'Nuntobtobbab kami ya nungganggangha kami ta kanan mi ot on manayo kayu, mu ugge kayu. Ya impatna mi bon mun-iyo, mu ugge kayu kinumga.' Umat kayu ke datuwen u-unga te ugge inilay pinhod yu. 
 Mateo|11|18|Ya immalih Juan an mumbonyag ya hinnatkon di kanona ya adi manginum ya kanan yuy nahikpan. 
 Mateo|11|19|Yaden ha-oy ken Panguluwan di tagu ya gapu te manganak ya uminumak ya kanan yu boy 'Ag-agam! Nakahhalman di pangana ya panginum na ya makihayhayyup nadah mapihul an tatagun mun-amung hi buwis ya nadan naliwat.' Mu hituwey nomnomon yu, hay kaphod ya kinalaing Apu Dios ya mipatibo nadah tatagun mangabulut hi pangi-e min duwa ke Juan." 
 Mateo|11|20|Wadaday boblen nangipatib-an Jesus hi dakol an milagro, mu ugge nuntutuyu nadan tataguh liwat da ot bumoh-ol an 
@@ -355,7 +355,7 @@ Mateo|12|20|Adina iwalong, mu baddangana nadan mahmok takon nadan ugge nihamad d
 Mateo|12|21|Hiyay pangidinolan am-in di tagun mangipaptok ke dida." 
 Mateo|12|22|Indani ya in-ali dah kad-an Jesus on tagun nakulap ya nanganga te nahikpan hi dimonyo. Kinaan Jesus di kulap na ya ngangana ot pakatibo ya pakakali mo. 
 Mateo|12|23|Namodwong am-in nadan tatagu ot kanan day "Kon hiya nin nan holag David an pinilin Apu Dios an ahi mun-ap-apu?" 
-Mateo|12|24|Dingngol nadan Phariseeh diyen kinalin nadan tatagu ya kanan day "Bokon, man hay nalpuwan di kabaelanan mangaan hi nihkop ya hi Satanas an ap-apun di dimonyo." 
+Mateo|12|24|Dingngol nadan Phariseeh diyen kinalin nadan tatagu ya kanan day "Bokon, man hay nalpuwan di kabaelanan mangaan hi nihkop ya hi Satanas an ap-apun di dimonyo."
 Mateo|12|25,26| Inilan Jesus hidiyen nomnomnomon da ot kananan diday "Kon kaanon ken Satanas nadan ibbana ya kon adida maganodwa ta matikod moy pun-ap-apuwana? Umat hanah boble an deket dida pe nan bimmoble on numbubuhhulan da ya madadag da. Umat bo nah hin-am-an deket umanaawwit da ya loktat ta munhihi-an da. 
 Mateo|12|27|Kanan yuy hi Satanas di kalpuwan di kabaelak an mangaan hi nihkop. Mu deket makulug hidiyen kanan yu, dahdi moy kanan yuh kalpuwan di kabaelan nadan ibbayun mangaan hi nihkop? Kon hi Satanas? Hituwey kitib-anan nakaihhalla kayu. 
 Mateo|12|28|Ha-oy ke ya hay kabaelak an mangaan hi nihkop ya nalpuh Espiritun Apu Dios, hituwey kitib-anan dehtuh kad-an yu nan intud-ak Apu Dios an mun-ap-apu." 
@@ -437,12 +437,12 @@ Mateo|13|56|Kon bokon hituy kiha-adan nadan tutulang nan binabai? Daana ni-boy n
 Mateo|13|57|Hidiyey pangali da, kinali kahing dan hiya.Mu kanan Jesus ke diday "Hay profetas ya kulugon ya tobalon di tataguh kabobboble, mu nadan kaboblayana ya pamilyana ya adida." 
 Mateo|13|58|Gapu te adi mangulug nadan tatagu ke Jesus ya o-oha ya abuy milagron inat nah di.
 Mateo|14|1|Kediyen tiempo ya hi Herod di ap-apu nah probinsia an Galilee. Dingngol nay mipanggep ke Jesus 
-Mateo|14|2|ot kanana nadah ibba nay "Hiya din hi Juan an mumbonyag an namahuwan, kinali waday kabaelanan mangat hi milagro." 
+Mateo|14|2|ot kanana nadah ibba nay "Hiya din hi Juan an mumbonyag an namahuwan, kinali waday kabaelanan mangat hi milagro."
 Mateo|14|3,4| Handi ya impadpap Herod hi Juan ot pikalabut na te nadutih Juan an kanalyonan Herod di "Gaga-iho ka te pinlom di ahawan tulang mu." Kinalinah tuwe te makulug an pinlon Herod hi Herodias an ahawan tulang nan hi Felipe. 
 Mateo|14|5|Mu gapun diyen kinalin Juan ya pinhod Herod an pipate, mu tumakut nadah Judyu te ibilang dan profetas hi Juan. 
 Mateo|14|6|Nadatngan di algon panginomnoman dah nitungawan Herod ya nanayo nan babain imbabalen Herodias hi hinangngab nadan tatagun naamung ya maka-an-anlah Herod 
 Mateo|14|7|ot isapatanan kananay idat nay nganneh diyen ibagan diyen babai. 
-Mateo|14|8|Tinuttuduwan inana ot hay ibaganan Herod ya kananay "Pinhod kun idat mun ha-on ad uwaniy ulun Juan an mumbonyag an mihaad hi duyu." 
+Mateo|14|8|Tinuttuduwan inana ot hay ibaganan Herod ya kananay "Pinhod kun idat mun ha-on ad uwaniy ulun Juan an mumbonyag an mihaad hi duyu."
 Mateo|14|9,10| Makatuttuyuh Herod, mu nil-un insapatanay nay kalina ya dingngol nadan tatagu ot ena mo paputul di ulun Juan nah kalabut. 
 Mateo|14|11|In-ali dan niha-ad hi duyu ot idat da nah babai ot idat nan inana. 
 Mateo|14|12|Immali da nan disipulos Juan ot alan day adol na ot eda ilubuk ot ahida umen nangidatdatong ke Jesus. 
@@ -476,7 +476,7 @@ Mateo|15|3|Hinumang Jesus an kananay "Ya tipet dakayu ke ya ngohayon yuy tugun A
 Mateo|15|4|Hay tugun Apu Dios ya kananay 'Un-unudon yu ya ipaptok yu da amayu ke inayu' ya hay oha bon tuguna ya kananay 'Hay tagun waday gaga-ihon kalyonan amana weno hi inana ya mahapul an mate.'
 Mateo|15|5|Mu hay ituttudu yu ya kanan yuy 'Am-in nan ibaddang hi ammod ya takon di adi idat hin hi Apu Dios di pangidatan kediye.'
 Mateo|15|6|Ta hidiye nan kanan yu moy takon di adi baddangan di ammod ten nidat ke Apu Dios nan ibaddang ot ke dida. Hidiyey kitib-anan paka-un-unudon yuy pangi-en di tagu mu nan tugun Apu Dios. 
-Mateo|15|7|Makallangkak kayu! Mipanggep ke dakayuy kinalin din profetas an hi Isaiah an kananay 8|'Datuwen tatagu ya kanan day un-unudonak, mu hay kakulugana ya adi te kalida ya abuh diye. 
+Mateo|15|7|Makallangkak kayu! Mipanggep ke dakayuy kinalin din profetas an hi Isaiah an kananay 8'Datuwen tatagu ya kanan day un-unudonak, mu hay kakulugana ya adi te kalida ya abuh diye. 
 Mateo|15|9|Maid hilbin di pundayawan dan ha-on te hay tugun di taguy itanuttudu dan maunud on kanan day ha-on di kon tugun ke dadiye, mu bokon.'" 
 Mateo|15|10|Inayagan Jesus nadan tataguh kad-ana ot kananan diday "Donglon yu tun kalyok ta maawatan yu. 
 Mateo|15|11|Bokon hay kanon di mangipagaga-ihoh tagu, mu hay kalyon an malpuh nomnom." 
@@ -573,7 +573,7 @@ Mateo|18|7|Mahmok day tatagu tuh luta te wadaday humauhaul ke didat munliwat da.
 Mateo|18|8|Deket hay hukiyu weno hay takleyuy humlun hi punliwatan yu ya kudukdulnay putulon yu ta iwele yu. Kudukdulnay maid di ohan takleyu weno hukiyu mu ta waday mikadwah biyag yu mu nan e wadan duway takleyu ya hukiyu, yaden ekayu umen nah apuy an adi mad-op. 
 Mateo|18|9|Deket hay matayuy humlun hi punliwatan yu ya kudukdulnay duk-iton yu ta iwele yu. Kudukdulnay maid di ohan matayu mu ta waday mikadwan biyag yu mu nan e wadan duway matayu, yaden ekayu umen nah apuy hi impierno. 
 Mateo|18|10|Tibon yu ta adiyu pihulon takon di oha hantudah u-unga te kalyok ke dakayu an nadan anghel dan mangipappaptok ke dida ya wadadat nangamung hi kad-an Apu Dios hi langit. 
-Mateo|18|11|[Ha-oy an Panguluwan di tagu ya immaliyak hituh lutan mangihwang hi naliwat.] 
+Mateo|18|11|Ha-oy an Panguluwan di tagu ya immaliyak hituh lutan mangihwang hi naliwat.] 
 Mateo|18|12|Nganney aton di ohan tagun waday hinggatut hi kalneronan natalak di oha? Hay atona ya tayanana nan nahiyam ta hiyam an kalnerona nah ena nangipattolan ta ena hamakon hidiyen natalak. 
 Mateo|18|13|Ya deket hinamak nah diyen ohan natalak ya ong-ongal di amlong na ketuwen ohan kalneron natalak mu hay amlong na nadah nahiyam ta hiyam an ugge natalak. 
 Mateo|18|14|Athidi damdama ke Aman hi Apu Dios hi langit an adina pinhod an waday matalak, takon di ohan taguna. 
@@ -638,7 +638,7 @@ Mateo|20|7|Ya kanan dan hiyay 'Maid di mangayag ke dakamih emi pungngunuwan.' Ot
 Mateo|20|8|Nahilong mon diye ya impaayag nan kon lagunta nan mumpaptok hi laguntana ot kananay 'Ayagam nadan mungngunut idat muy tangdan da. Pamanguluwom an idat di tangdan nadan nanguddidin nungngunu ta ahim idat di tangdan nadan namangulu.'
 Mateo|20|9|Immali da nan nanguddidin nungngunu ot idat nay himpipihun hidiyey tangdan dah hin-algo. 
 Mateo|20|10|Immali da nan namangulun nungngunu ya kanan da pe on ong-ongal di tangdan da, mu adi te hin-oh-an pihu damdama. 
-Mateo|20|11|Indani ya mundiklamu dan kanan day 12|'Hanadan nanguddidi ya hin-oras ya abuy nungngunuwan da ya dakami ke ya inlappu mih biggatna ot mapopotangan kami ya antipet nun-iingngoy tangdan mi?'
+Mateo|20|11|Indani ya mundiklamu dan kanan day 12'Hanadan nanguddidi ya hin-oras ya abuy nungngunuwan da ya dakami ke ya inlappu mih biggatna ot mapopotangan kami ya antipet nun-iingngoy tangdan mi?'
 Mateo|20|13|Mu kanan nan kon lagunta nah oha ke diday 'Ibak, ugge dakayu dinalogat te hidiyey inhuhummangan takun tangdan yuh hin-algo. 
 Mateo|20|14|Alan yu ot ya abut umanamut kayu. Nangamungak hin kanak di iingngok di tangdan nadan nanguddidi nah tangdan yun namangulu. 
 Mateo|20|15|Nangamungak hi pangiatak hi pihhuk. Kon umamo kayu te himmok ku dida?'" 
@@ -737,7 +737,7 @@ Mateo|22|27|Indani ya nate mo nan babai.
 Mateo|22|28|Hantuh kamahuwan di nate, dahdiy moy ahi kon inayan nah babai an deyan am-in da ya in-ine da?" 
 Mateo|22|29|Mu kanan Jesus di "Hinaey nihallaan yu. Hinaey kitib-anan uggeyu naawatan di impitudok Apu Dios ya nan ongal an kabaelana. 
 Mateo|22|30|Hantuh kamahuwan di nate ya ahida umat nadah anghel hi langit an maid di mun-iine. 
-Mateo|22|31|Wada boy ohah kalyok mipanggep ketuwe. Kon uggeyu naawatan nan impitudok Apu Dios an kananay 32|'Ha-oy di Dios da Abraham, hi Isaac ya hi Jacob.' Hay kibalinan diye ya hiyay Dios di matagu, bokon hay nate." 
+Mateo|22|31|Wada boy ohah kalyok mipanggep ketuwe. Kon uggeyu naawatan nan impitudok Apu Dios an kananay 32'Ha-oy di Dios da Abraham, hi Isaac ya hi Jacob.' Hay kibalinan diye ya hiyay Dios di matagu, bokon hay nate." 
 Mateo|22|33|Dingngol nadan tataguh diyen intuttuduna ya namodwong da. 
 Mateo|22|34|Hanadan Pharisee ya dingngol dan adi pakahumang nadan Saducee nah kinalin Jesus ot maamung dah kad-ana. 
 Mateo|22|35|Waday oha nadah Pharisee an abugadu an pinhod nan patnaan hi Jesus 
@@ -748,7 +748,7 @@ Mateo|22|39|Hay mikadwa ya 'Pinhodon yuy ibba yun tagu umat hi pamhod yuh adol y
 Mateo|22|40|Am-in nan Tugun Moses ya nadan intuttudun handidan profetas ya nipuun ke datuwen duwan tugun Apu Dios." 
 Mateo|22|41|Hanadan Pharisee ya nanongnan naamung dah kad-an Jesus ot kananan diday 
 Mateo|22|42|"Nganney pangali yuh mipanggep ke Kristo? Dahdiy nahlagana?" Ya kanan dan hiyay "Hi David." 
-Mateo|22|43|Kanan Jesus ke diday "Deket hi David, tipet kanan David di hiyay Apu na? Hanan Espiritun Apu Dios di nangipanomnom ke David ketuwen kinali nan kananay 44|'Kanan Apu Dios nah Apuk di: Umbun kah winawwan ku inggana paka-apputok am-in nadan buhul mu.'
+Mateo|22|43|Kanan Jesus ke diday "Deket hi David, tipet kanan David di hiyay Apu na? Hanan Espiritun Apu Dios di nangipanomnom ke David ketuwen kinali nan kananay 44'Kanan Apu Dios nah Apuk di: Umbun kah winawwan ku inggana paka-apputok am-in nadan buhul mu.'
 Mateo|22|45|Nomnomon yu ke, deket kanan David di hi Apunah Kristo, nganney innunan hi Kristo ya etaku kanan di holag David?" 
 Mateo|22|46|Ya maid di pakahumang ke Jesus ot adida mo ipidpidwan bagbaga-an te bumain dah oggana panumang.
 Mateo|23|1|Kanan Jesus nadah tatagu ya nadah disipulos nay 
@@ -1160,7 +1160,7 @@ Marcos|4|7|Hay udum ya nag-a dah magulun ot mailung da ot adida mo bumunga.
 Marcos|4|8|Mu nadan buwan nag-ah maphod an luta ya tinuttummolan da ot bumunga da. Wadaday o-ohay bungana, wadaday mabungbunga ya wadaday makabbunga." 
 Marcos|4|9|Kanan Jesus di "Pakannomnomon yuh tuwen kinalik." 
 Marcos|4|10|Handih nabukal da moy tatagu ya wadada nadan udum an nangngol hi kinalina ya nadan himpulut duwan disipulos nan eda hinanhanan ke hiyay kibalinan nan inab-abig na. 
-Marcos|4|11|Kanan Jesus ke diday "Dakayu ke ya inna-ud kun ituttuduy ine-en di pun-ap-apuwan Apu Dios an ugge nipainila ingganad uwani, mu deket nadah udum an tatagu ya painnab-abig kuy puntuttuduk ke dida 12|'te takon di tibotibon day atoatok ya donglodonglon day ituttuduk ya adida maawatan. Gulat na ot ta maawatan da ya abuluton dah Apu Dios ya muntutuyu dah liwat dat pakawanana dida.'" 
+Marcos|4|11|Kanan Jesus ke diday "Dakayu ke ya inna-ud kun ituttuduy ine-en di pun-ap-apuwan Apu Dios an ugge nipainila ingganad uwani, mu deket nadah udum an tatagu ya painnab-abig kuy puntuttuduk ke dida 12'te takon di tibotibon day atoatok ya donglodonglon day ituttuduk ya adida maawatan. Gulat na ot ta maawatan da ya abuluton dah Apu Dios ya muntutuyu dah liwat dat pakawanana dida.'" 
 Marcos|4|13|Kanan Jesus nadah disipulos nay "Deyan adiyu maawatan hituwen ab-abig, nganne moy innun yun mun-awat hi udum an ab-abigok? 
 Marcos|4|14|Hay kialigan nan tagun e nunhabuwag nah buwa ya hidiye nan e mangipain-inilah kalin Apu Dios. 
 Marcos|4|15|Hanadan buwan nag-ah dalan ya mialig nadah tatagun nangngol hi kalin Apu Dios, mu immalih Satanas ot haulona dida ot kal-iwan da nadan kinalina. 
@@ -1247,7 +1247,7 @@ Marcos|6|12|Ot ume nadan disipulos na hi kabobboble ot ituttudu dah tatagu an mu
 Marcos|6|13|Kinaan day dakol an dimonyon nihkop ya inapuapan dah lana nadan dakol an mundogo ot makaan di dogoda. 
 Marcos|6|14|Indani ya dingngol Herod am-in datuwe te nundingngol nadan inat Jesus. Kanan di udum an tataguy "Hiya din hi Juan an mumbonyag an namahuwan, kinali waday kabaelanan mangat hi milagro." 
 Marcos|6|15|Mu kanan di udum di "Hiyah Elijah." Hanadan udum ya kanan day "Hiya ya profetas an umat handidan profetas handih done." 
-Marcos|6|16|Hi Herod ke damdama ya kananay "Hiya din hi Juan an impaputul kuy uluna, mu namahuwan." 
+Marcos|6|16|Hi Herod ke damdama ya kananay "Hiya din hi Juan an impaputul kuy uluna, mu namahuwan."
 Marcos|6|17,18| Te handi ya impadpap Herod hi Juan ot pikalabut na. Hituwey inat Herod te idutin Juan an hiya ya gaga-iho te pinlonah Herodias an inayan nan tulang nan hi Felipe. 
 Marcos|6|19,20| Kinali hihingngitan mon Herodias hi Juan ta pinhod nan ipipaten Herod, mu umagol hi Herod te inila nan maphod an taguh Juan ya maid di bahul na. Hidiyey gapunah nangipanaptokanan hiyah kalabut. Pinhod nan dongdonglon nadan itanuttudun Juan takon di hin-uddum on humlun hi kabulubulunana. 
 Marcos|6|21|Indani ya nadatngan nan algon panginomnoman dah nitungawan Herod. Naamung nadan ap-apu, nadan ap-apun di tindalu ya nadan kakadangyan kediyen boble an Galilee. Ya ketuwen tiempoy nangipipatayan Herodias ke Juan. 
@@ -1369,7 +1369,7 @@ Marcos|9|7|Indani ya waday kulabut an nipottok ke dida ot haniyana dida. Ya wada
 Marcos|9|8|Mun-ang-aang-ang da ya abunah Jesus an wada. 
 Marcos|9|9|Indanit manayyu da ya tinugun Jesus didan kananay "Adiyu e kalkalyon hidiyen tinibo yu inggana mamahuwanak an Panguluwan di tagu." 
 Marcos|9|10|Inun-unud da, mu dida pe ya munhimbabaggaan dan kanan day "Nganne nin di pinhod nan kalyon nah kananay ahi mamahuwan?" 
-Marcos|9|11|Ot ibaga dan Jesus di "Tipet kanan nadan muntuttuduh Tugun Moses di kah-in di umalih Elijah ta ahi umaliy itud-ak Apu Dios?" 
+Marcos|9|11|Ot ibaga dan Jesus di "Tipet kanan nadan muntuttuduh Tugun Moses di kah-in di umalih Elijah ta ahi umaliy itud-ak Apu Dios?"
 Marcos|9|12,13| Kananay "Makulug an kah-in di umalih Elijah ta idadaanay tataguh aliyan diyen itud-ak Apu Dios. Ya wada boy impitudok Apu Dios an kananay hay Panguluwan di tagu ya ahi munholholtap ya adi abuluton di tatagu. Mu kalyok ke dakayun immali mo tuwalih Elijah ot punholholtapon di tatagu. Hidiyey immannungan din impitudok Apu Dios." 
 Marcos|9|14|Dimmatong da Jesus hi kad-an nadan udum an disipulosna ya tinibo day dakol an tatagun naamung. Wadada nadan muntuttuduh Tugun Moses an munhahannu da nadah disipulosna. 
 Marcos|9|15|Handih inang-ang nadan tataguh Jesus ya namodwong da ot eda pundamu. 
@@ -1401,9 +1401,9 @@ Marcos|9|40|te hay tagun adi kumahing ke ditaku ya ibba taku.
 Marcos|9|41|Kalyok ke dakayun hay tagun umidat hi danum an inumon yu te inilanan dakayu ya kulugonak an Kristo ya midatan hi kiphodana." 
 Marcos|9|42|"Hanan tagun hiyay humlun hi punliwatan ya pangiwalongan di ka-kulug na hi pangulug nan ha-on ya kudukdul nay tayunan di bagang nah ongal an batu ya inggah baybay. 
 Marcos|9|43|Deket hay takle yuy humlun hi punliwatan yu ya kudukdul nay putulon yu. Te kudukdul nay maid di ohan takleyu mu ta waday mikadwan biyag yu mu nan e wadan duway takleyu, yaden e kayu ume nah apuy hi impiernon adi mad-op. 
-Marcos|9|44|[Hidi ya mabigibiggihan di adol di tagu ya adi madmad-op nan apuy.] 
+Marcos|9|44|Hidi ya mabigibiggihan di adol di tagu ya adi madmad-op nan apuy.] 
 Marcos|9|45|Deket hay huki yuy humlun hi punliwatan yu ya kudukdul nay putulon yu. Kudukdul nay maid di ohan hukiyu mu ta waday mikadwan biyag yu mu nan e wadan duway hukiyu yaden ekayu ume nah apuy hi impiernon adi mad-op. 
-Marcos|9|46|[Hidi ya mabigibiggihan di adol di tagu ya adi madmad-op nan apuy.] 
+Marcos|9|46|Hidi ya mabigibiggihan di adol di tagu ya adi madmad-op nan apuy.] 
 Marcos|9|47|Ya deket hay mata yuy humlun hi punliwatan yu ya kudukdul nay duk-iton yu. Kudukdul nay maid di ohan matayu mu ta migappat kayu hi pun-ap-apuwan Apu Dios mu nan e duway matayu yaden ekayu umen nah apuy hi impiernon adi mad-op. 
 Marcos|9|48|Hidi ya mabigibiggihan di adol di tagu ya adi madmad-op nan apuy. 
 Marcos|9|49|Am-in di tagu ya hiktaman day ligat, mu hay ligat ya damanan ihamad nay pangulug. Umat hi ahin an waday kiatana an hidiye nan kialigan di pangulug. 
@@ -1485,7 +1485,7 @@ Marcos|11|22|Ya kanan Jesus ke diday "Nomnomon yuh tuwe, deket waday pangulug yu
 Marcos|11|23|ya damanan deket kanan yu nah bilid di 'Mit-an ka nah baybay' ya mit-an. Am-in di nomnomnomon yun aton ya maat hin adi kayu munhalinduwa, mu kulugon yun maat. 
 Marcos|11|24|Takon di nganney ibaga yuh dasal yun Apu Dios ya atona hin kulugon yu. 
 Marcos|11|25|Ya deket mundasal kayu ya pakawanan yuy nganneh diyen ad-adin inat di ibbayun dakayu ta pakawanan damdaman Ama takun hi Apu Dios di liwat yu. 
-Marcos|11|26|[Mu deket adiyu pakawanan di ibbayu ya adina damdama pakawanan di liwat yu."] 
+Marcos|11|26|Mu deket adiyu pakawanan di ibbayu ya adina damdama pakawanan di liwat yu."] 
 Marcos|11|27|Nibangngad bo da Jesus ad Jerusalem ot handih mundaldallanan da nah dolan di Templo ya immalih kad-ana nadan ap-apun di padi, nadan muntuttuduh Tugun Moses ya nadan mangipangpanguluh Judyu. 
 Marcos|11|28|Ot kanan dan hiyay "Nganney lebbeng mun mangat am-in hanadah at-atom? Deket waday lebbeng mu, dahdiy nangidat?" 
 Marcos|11|29|Hinumang na didan kananay "Wada ni-an di hanhanak ke dakayu ta deket humangon yu ya humangok damdama nan ibaga yu mipanggep hi lebbeng ku. 
@@ -1501,7 +1501,7 @@ Marcos|12|5|Intud-ak bon nan kon lutay ohan muttatyuna ot patayon nadan mun-aban
 Marcos|12|6|Maid moy udum hi ena itud-ak ot itud-ak na mo nan impakappinhod nan imbabalena. Kanan nan kon lutay 'Agat tun imbabalek di itud-ak ku. Inilak ot lispituwon da.'
 Marcos|12|7|Mu imme nan imbabalen nan kon luta ya kanan nadan mun-abang di 'Tuwe nan imbabalenan mamoltan tuh lutana. Agat patayon takut ditakuy mangibagi tuh boltanona.'
 Marcos|12|8|Dimpap da tut-uwa ot patayon da ot eda iwele." 
-Marcos|12|9|Ot kanan Jesus nadah tataguy "Nganne nin moy aton nan kon luta nadah mun-abang? Kon adina e pumpate didat ipaabang nah udum nan laguntana?" 
+Marcos|12|9|Ot kanan Jesus nadah tataguy "Nganne nin moy aton nan kon luta nadah mun-abang? Kon adina e pumpate didat ipaabang nah udum nan laguntana?"
 Marcos|12|10,11| Kanana boy "Wadan binidbid yu nan nitudok an kananay'Hanan batun pinilin Apu Dios an binalon nadan mangapyah bale ya hidiye ot ahan di nahamad an ikapyah bale. Ya maphod peman hidiyen inat Apu Dios!'" 
 Marcos|12|12|Hanadan ap-apun di Judyu ya ihik dan dopapon hi Jesus te inila dan diday nangipadngolanan diyen ab-abig na, mu tumakut da nadah tatagu ot tumayan da. 
 Marcos|12|13|Indani ya immali da nan Pharisee ya nadan tatagun Herod an intud-ak nadan ap-apun di Judyu ta eda patnaan hi Jesus. Kanan day 
@@ -1594,7 +1594,7 @@ Marcos|14|18|Handih mangan da ya kananay "Hituwey kalyok, waday ohan dakayun ahi
 Marcos|14|19|Dingngol dah diye ya mahakit di nomnom da ya waday oha on kananay "Kon ha-on?" 
 Marcos|14|20|Himmumang hi Jesus an kananay "Hay ohan dakayun himpulut duwan makikan ke ha-on an pakitam-ol nay tinapay na tuh malukung. 
 Marcos|14|21|Ha-oy an Panguluwan di tagu ya ahiyak patayon ta umannung nan impitudok Apu Dios, mu mahmok an abu nan tagun mangihdul ke ha-on. Kudukdulnay ugge nitungo." 
-Marcos|14|22|Kediyen mangan da ya inalan Jesus nan tinapay ot mumpasalamat ke Apu Dios. Pinani-ang na ot ikap-ong nan dida ot kananay "Alan yu ta kanon yu, hituwey adol ku." 
+Marcos|14|22|Kediyen mangan da ya inalan Jesus nan tinapay ot mumpasalamat ke Apu Dios. Pinani-ang na ot ikap-ong nan dida ot kananay "Alan yu ta kanon yu, hituwey adol ku."
 Marcos|14|23,24| Nagibbuh diye ya inalana nan basun natalwan hi mainum ot mumpasalamat bon Apu Dios. Indat nan dida ot kananay "Hituwey dalak an tumodtod ta kipaannungan nan balun nakitobbalan Apu Dios an kiphodan di tagu." Ot uminum dan am-in. 
 Marcos|14|25|Ya kanana boy "Kalyok ke dakayu, adiyak mo uminum ketuwen mainum inggana hantuh ahik panginuman nah hinnatkon an mainum hidih pun-ap-apuwan Apu Dios." 
 Marcos|14|26|Nagibbuh diye ot mungkanta dah pundayaw dan Apu Dios ot ahida umen nah Bilid an Oliba. 
@@ -1667,7 +1667,7 @@ Marcos|15|22|In-e dah Jesus nah kanan dan Golgota an hay kibalinana ya gunit di 
 Marcos|15|23|Handih dimmatong dah di ya e ot painuman nadan tindaluh Jesus hi mainum an nad-uman hi mira an aga, mu adina pinhod. 
 Marcos|15|24-26| Ot handih nunggaway algo ya impatak da nah krus an nitudkan tuwen impabahul dan hiya: "Hituwey Patul di Judyu." Nagibbun impatak da ot ibubunut da hin nganney alan di hin-oh-an dida nah bulwatina. 
 Marcos|15|27|Wadaday duwan mangakon nipatak da damdamah krus, ohah winawwana ya nan ohah iniggid na. 
-Marcos|15|28|(Hituwey immannungan din kinalin Apu Dios an nitudok an kananay "Imbilang dan nabahulan.") 
+Marcos|15|28|Hituwey immannungan din kinalin Apu Dios an nitudok an kananay "Imbilang dan nabahulan.") 
 Marcos|15|29|Am-in nadan munla-u ya munwigwigiwig dah panaltalangga dan Jesus an kanan day "Daan bo nan kanam an pa-iyom nan Templo ya bohwatom hi tulun algo? 
 Marcos|15|30|Deya ot an adim baddangan di adol mut makaan ka nah krus." 
 Marcos|15|31|Takon nadan ap-apun di padi ya nadan muntuttuduh Tugun Moses ya taltalanggaan da damdamah Jesus an kanan day "Tipe nin ta binaddanganay udum ot tumagu da yaden adina kabaelan an baddangan di adol na? 
@@ -1927,7 +1927,7 @@ Lucas|5|29|Ohan algo ya immayag hi Libay hi tatagun makihamul hi baleda te impar
 Lucas|5|30|Hanadan Pharisee ya nadan udum ke didan muntuttuduh Tugun Moses ya imbaag da nadan disipulos nan kanan day "Antipet makikan kayu nadah mun-amung hi buwis ya nadan naliwat an tatagu?" 
 Lucas|5|31|Mu hi Jesus di himmumang ot kananan diday "Hay agahan di doktor ya hay mundogo, bokon hay maid di dogona. 
 Lucas|5|32|Paddungnan ha-oy an immaliyak ta paphodok nadan naliwat, bokon nadan kanan day maid di liwat da." 
-Lucas|5|33|Ohan algo ya wadada nadan tatagun kanan dan Jesus di "Hanada ke ot an disipulos Juan ya muntopol dan adida mangan nah pundasalan da, athidi bo nadah disipulos nadan Pharisee. Mu hanada ken disipulos mu ya mangamangan da ya uminum da." 
+Lucas|5|33|Ohan algo ya wadada nadan tatagun kanan dan Jesus di "Hanada ke ot an disipulos Juan ya muntopol dan adida mangan nah pundasalan da, athidi bo nadah disipulos nadan Pharisee. Mu hanada ken disipulos mu ya mangamangan da ya uminum da."
 Lucas|5|34,35| Hinumang Jesus an kananay "An hay kanan yu ya adi mangan nadan gagayyum nan mungkasal? Mangan da te hanan mungkasal an nikuyugan da ya ipaptok na dida. Athidi damdama nadah disipulos kun mangan da te wadaak. Mu indanit maidak mo ya adida mangan gapuh punnomnom dan ha-on. 
 Lucas|5|36|Kon waday tagun e bumik-ih balun luput ta ilkob na nah daan an bulwati? Deket iathidi na ya ayyo nan balun luput, oha bo ya ad-adiy balun luput an milkob hi daan." 
 Lucas|5|37|Hay oha boh inab-abig na ya kananay "Maid di tagun ena iha-ad di ka-apyan mainum nah daan an kimmulhin lalat an pangihuduwan hi mainum te adi mainat. Te deket umina nan ka-apyan mainum ya mabughi nan lalat. Ayyo nan mainum ya nan lalat an punhuduwan. 
@@ -2152,7 +2152,7 @@ Lucas|10|6|Deket waday mangabulut hi kalyon yu ya umannung hidiye, mu deket wada
 Lucas|10|7|Hanah balen dinuttuk yuy kiha-adan yu ya pakikanan yu. Hidiyey kay yu tangdan te hay mungngunu ya mahapul an matangdanan. Adi kayu e mun-ottaottan hi udum an babale. 
 Lucas|10|8|Deket nah boblen pangayan yu ya maapnga dah dinatngan yu ya takon di nganney idadaan da ya kanon yu. 
 Lucas|10|9|Kaanon yuy dogon nadan mumpundogon diyen boble ya kalyon yu nadah tataguh diy 'Immali mo nan intud-ak Apu Dios an mun-ap-apu.'
-Lucas|10|10|Mu wada key bobleh pangayan yun adida maapngan dakayu ya ume kayun nah kalatat kanan yuy 11|'Pukpukon miy inhulut di huki mih hupuk tuh bobleyu ta panginilaan yun naliwat kayu. Nomnomon yuh tuwen gulat na ya migappat kayu nah pun-ap-apuwan Apu Dios, mu adiyu pinhod.'" 
+Lucas|10|10|Mu wada key bobleh pangayan yun adida maapngan dakayu ya ume kayun nah kalatat kanan yuy 11'Pukpukon miy inhulut di huki mih hupuk tuh bobleyu ta panginilaan yun naliwat kayu. Nomnomon yuh tuwen gulat na ya migappat kayu nah pun-ap-apuwan Apu Dios, mu adiyu pinhod.'" 
 Lucas|10|12|Ya kanan bon Jesus di "Hantuh punhumalyaan Apu Dios ya nahalhalman di kastigun dadiyen tatagu mu handidan tatagud Sodom dih done." 
 Lucas|10|13|Indani bo ya kanan Jesus di "Mahmok kayun iKorasin ya iBetsaida te tinibotibo yuy milagro, mu ugge kayu nuntutuyuh liwat yu. Gulat nat nadan gaga-ihon tatagud Tyre ya ad Sidon di nanibon dadiyen milagro ya wadan numbulwati dah nabikbik-i ya dinap-ulan day adol dat pangipatib-an dah nuntutuyuwan dah liwat da. 
 Lucas|10|14|Kinali nahalman di kastigu yu hantuh punhumalyaan Apu Dios mu nadan tatagud Tyre ya ad Sidon. 
@@ -2361,7 +2361,7 @@ Lucas|14|29|Te deket adina iathidi ta na-ala ya hinammang na on bale, kal-ina ya
 Lucas|14|30|Pangali day 'Deya on tagun hinammang nay balena, mu adi gumlan mangibbu.'" 
 Lucas|14|31|Kanan bon Jesus di "Umat bon nah patul an e makigubat, mahapul an pakannomnomona hin damanan apputon nan himpulun libun tindaluna nadan duwan pulun libun tindalun nan buhul na. 
 Lucas|14|32|Mu deket nomnomnomona ya adi mabalin ya umitud-ak hi e makihummangan ta adida ot ya abu munggubat. 
-Lucas|14|33|Athidi boy aton di tagun pinhod nan mangun-unud ke ha-on an mahapul an iohha nay nomnom na te deket waday udum hi gagamgamana ya adinadaman e pakaun-unud ke ha-on." 
+Lucas|14|33|Athidi boy aton di tagun pinhod nan mangun-unud ke ha-on an mahapul an iohha nay nomnom na te deket waday udum hi gagamgamana ya adinadaman e pakaun-unud ke ha-on."
 Lucas|14|34,35| Kanan bon Jesus di "Dakayun naminhod an mangun-unud ke ha-on, pakannomnomon yu te deket adi kayu pakaun-unud hi pangi-ek te waday udum hi pinhod yun un-unudon ya adinadaman e kayu pakaun-unud ke ha-on te maid di hilbinah eyu pangipatnaan an mangun-unud ke ha-on. Umat nah ahin an man-ut maphod di kiusalana, mu deket nakaan di kinaahina ya maid moy hilbina ya adinadaman pabangngadon di kinaahina. Ta hidiye nan iwele ot kattog."
 Lucas|15|1|Ohan algo ya immali day dakol an mun-amung hi buwis ya nadan tatagun kanan di Judyun naliwat an e mundongol hi ituttudun Jesus. 
 Lucas|15|2|Ya nada ken Pharisee ya nadan muntuttuduh Tugun Moses ya mungngungudu dan kanan day "Teya on tagun pakahangngudona hantudan nungkaliwat an tatagu ya makikan pay ahan ke dida." 
@@ -2623,13 +2623,13 @@ Lucas|21|24|Hanadan udum an tataguh di ya ahi patayon nadan bokon Judyu ya nadan
 Lucas|21|25|Wadaday ahiyu tibon hi kabunyan. Ahi malumman di algo, bulan, ya nadan bittuwon. Am-in di tataguh kabobboble tuh luta ya tumattakut da ya kumanol-o dah pangngolan da nah bungug di nakal-ot an dalluyun hi baybay. 
 Lucas|21|26|Ahida mungkahalangob di tataguh takut da gapuh ma-ma-at tuh luta ya ad kabunyan te maid di potok na. 
 Lucas|21|27|Deket magibbuh tuwe ya hantuh ahik aliyan an Panguluwan di tagu ya ahiyak tibon nah kulabut an matiboy ongal an kabaelak ya kidayawak. 
-Lucas|21|28|Hantuh ahi kaatan datuwe ya adi kayu tumakut, mu mun-am-amlong kayu te nih-up moy kapoppogan di ligat yu." 
+Lucas|21|28|Hantuh ahi kaatan datuwe ya adi kayu tumakut, mu mun-am-amlong kayu te nih-up moy kapoppogan di ligat yu."
 Lucas|21|29,30| Impainnab-abig Jesus an nuntuddu mipanggep hi ahina kibangngadan an kananay "Nomnomon yu ke nan kaiw an fig ya nadan udum an kaiw an deket mamuddal di tubuda ya nih-up di tialgo. 
 Lucas|21|31|Ahi athidih pun-ap-apuwan Apu Dios an deket ma-ma-at am-in tun kinalik ya inila yu mon nih-up di pun-ap-apuwan Apu Dios. 
 Lucas|21|32|Nomnomon yuh tuwe! Am-in datuwen kinalik an ahi maat ya ahi akhupan di udum ke dakayu te adida ni-an mate yaden maat datuwe. 
-Lucas|21|33|Ahi mama-id di kabunyan ya luta, mu hay kalik ya munnananong ta nangamung." 
+Lucas|21|33|Ahi mama-id di kabunyan ya luta, mu hay kalik ya munnananong ta nangamung."
 Lucas|21|34,35| Ya kanan bon Jesus di "Halipat-an yu ta bokon hay hamul ya butobutong di nonomnomon yu ya bokon ya abu hay kahapulan yud uwanin katagu yuy ikakagu yu te hingkakattang ya umaliyak an munhumalyah tatagu tuh luta ya maakhupan kayu. 
-Lucas|21|36|Hay maphod ya mundadaan kayu ta nangamung. Mundasal kayun Apu Dios ta baddangan dakayun mangippol ke dadiyen holholtapon yu ta madinol kayun ahi tumaddog hi hinangngab kun Panguluwan di tagu." 
+Lucas|21|36|Hay maphod ya mundadaan kayu ta nangamung. Mundasal kayun Apu Dios ta baddangan dakayun mangippol ke dadiyen holholtapon yu ta madinol kayun ahi tumaddog hi hinangngab kun Panguluwan di tagu."
 Lucas|21|37,38| Kabigabigat on nuntuttuduh Jesus nah Templo ta dakol nadan tatagun humalaman an e mundongol hi ituttuduna. Mu deket nahilong on immen nah Bilid an Oliba ta e mun-iyan hidi.
 Lucas|22|1|Mungkadatngan nan Piyestan di Tinapay an ugge naha-adan hi yeast an hidiye boy Piyestan di Nala-uwan di Anghel Apu Dios. 
 Lucas|22|2|Hanadan ap-apun di padi ya nadan muntuttuduh Tugun Moses ya ihuhummangan da hin nganney innun dan mangidalunun mampap ke Jesus ta pipate da. Man-u ket idalunu da ya tumakut da nadah tatagu. 
@@ -2717,7 +2717,7 @@ Lucas|23|13|Impaayag Pilatu nadan ap-apun di padi, ya nadan ap-apun di Judyu ya 
 Lucas|23|14|kananan diday "Kanan yuy ituttudun tuwen taguy pangahingan yuh linteg, mu dingngol kuy kalinah nunhumalyaak ke hiya ya maid di ena numbahulan ke danaen eyu ipabahul ke hiya. 
 Lucas|23|15|Takon hi Herod an nunhumalyan hiya ya kananay maid peman di bahul tuwen tagu ot pabangngadonah tu. Ta nganne moy gapunah e pamatayan ke hiya? 
 Lucas|23|16|Hay ke ot pe kanak ya ipahoplat ku ya ahik impae." 
-Lucas|23|17|[Katootoon on mahapul an waday ohan ipaen Pilatuh balud hin nadatngan nan Piyestan di Nala-uwan di Anghel Apu Dios.] 
+Lucas|23|17|Katootoon on mahapul an waday ohan ipaen Pilatuh balud hin nadatngan nan Piyestan di Nala-uwan di Anghel Apu Dios.] 
 Lucas|23|18|Mu am-in nadan tatagu ya muntukuk da an kanan day "Patayon yuh naen tagu ta hi Barabbas di ipae yu." 
 Lucas|23|19|Hi Barabbas an nibalud ya hiyay oha nadah nakigulu ad Jerusalem ya pimmate. 
 Lucas|23|20|Impatnan bon Pilatu an kumali nadah tatagut hi Jesus ot di mipae, 
@@ -2795,7 +2795,7 @@ Lucas|24|37|Ya kimmaynit da ya timmattakut da te kanan da pe on bokon hiya.
 Lucas|24|38|Kananan diday "Antipet tumattakut kayu? Kon adi kayu mangulug an ha-on? 
 Lucas|24|39|Tibon yu tun liput hi taklek ya hukik handih nipatakak. Makulug an ha-on. Makayu ta dapaonak ta pangulugan yun bokonak banig te deket bokon tagu ya maid di adol na, mu tibon yun ha-on ke ya waday adol ku." 
 Lucas|24|40|Pungkali nah tuwe ya pun-ipatibo nay taklena ya hukinan dida. 
-Lucas|24|41|Man-ut imma-anla da, mu munhalinduwa da te nanongnan adida kulugon. Ta hidiye mo nan kanana bon diday "An waday makan?" 
+Lucas|24|41|Man-ut imma-anla da, mu munhalinduwa da te nanongnan adida kulugon. Ta hidiye mo nan kanana bon diday "An waday makan?"
 Lucas|24|42,43| Ya wada udot on dolog ot idat da ot mangan. 
 Lucas|24|44|Ot kanan bon Jesus di "Immannung din kinalik handih kawada takun am-in an kanak di 'Mahapul an maat am-in nan nitudok mipanggep ke ha-on nah Tugun Moses ya nah Psalms an intudok handidan profetas Apu Dios.'" 
 Lucas|24|45|Kinali nah tuwe ot ahina pat-alan di nomnom dan manginilah kibalinan nan nitudok an kalin Apu Dios. 
@@ -2828,7 +2828,7 @@ Juan|1|19|Hanadan ap-apun di Judyu an Pharisee ad Jerusalem ya intud-ak da nadan
 Juan|1|20|Ya makulug di inhumang Juan an kananay "Bokon ha-oy hi Kristo an tinuddun Apu Dios an mangipaptok hi tatagu." 
 Juan|1|21|Kanan dan hiyay "Kon he-a moh Elijah?" Kanan Juan di "Bokon." Ot kanan da boy "Kon he-a mo nan kanan Apu Dios an ahi umalin profetas?" Kanan bon Juan di "Bokon." 
 Juan|1|22|Indani ya kanan dan hiyay "Ot dahdi ka mo? Mahapul an humangom ta waday kalyon mi nadah nangitud-ak ke dakami mipanggep ke he-a. Nganney kalyom mipanggep hi adol mu?" 
-Juan|1|23|Kanan Juan di "Ha-oy nan inabig din hi Isaiah an profetas handih done an kananay'Wada nan tagun ahi muntuttudu nah adi maboblayan an kananay "Iphod yuy dalanon nan Ap-apu taku." '" 
+Juan|1|23|Kanan Juan di "Ha-oy nan inabig din hi Isaiah an profetas handih done an kananay'Wada nan tagun ahi muntuttudu nah adi maboblayan an kananay "Iphod yuy dalanon nan Ap-apu taku." '"
 Juan|1|24,25| Indani ya kanan bon nadan intud-ak di Phariseey "Deket bokon he-ah Kristo weno hi Elijah ya bokon he-a nan profetas Apu Dios an umali, antipet bonyagam di tatagu?" 
 Juan|1|26|Ya hinumang Juan an kananay "Om, mumbonyagak hi tatagu, mu danum ya abuy pamonyag ku. Mu waday oha tuh kad-an takud uwani an uggeyu inila. 
 Juan|1|27|Hiya nan kanak an ahi umalin mihannot ke ha-on. Hiya ya natagtag-e mu ha-on, ta takon di hay mangubad hi gakod di apatut na ya nakababbaak an mangat kediye." 
@@ -2838,7 +2838,7 @@ Juan|1|30|Hituwe nan kanak an umalin natagtag-e mu ha-on te wada tuwali ot ahiya
 Juan|1|31|Ha-oy ya uggek ni-an inila, yaden hiyay gapunan pumbonyagak di tataguh tud Israel ta inilaon da hiya." 
 Juan|1|32|Hituwey kanan Juan hi nanginilaanan Jesus: "Tinibok nan Espiritun Apu Dios an kay paloman nalpuh langit ot umpan hiya ya inilak mon hiyah Kristo. 
 Juan|1|33|Te handih nangitud-akan Apu Dios ke ha-on an e mamonyag hi tataguh danum ya kananay 'Hanan umaliyan di Espirituk an kay palomay ang-ang na ya hidiyeh Kristo. Hiyay mangibonyag hi Espirituk hi tatagu.'
-Juan|1|34|Tinibok am-in datuwen naat, kinali ihadak kun hiya ya Imbabalen Apu Dios." 
+Juan|1|34|Tinibok am-in datuwen naat, kinali ihadak kun hiya ya Imbabalen Apu Dios."
 Juan|1|35,36| Nabigat bon diyen muntattaddog da Juan ya nadan duwan ibbana ya mungkala-uh Jesus ot kanan Juan ke diday "Hiyah tuwe nan mialig an Kalneron miappit ke Apu Dios." 
 Juan|1|37|Dingngol dah diyen kinalin Juan ya pinghanadi ya niunud dan Jesus. 
 Juan|1|38|Nunwingih Jesus ya tinibo nan mituntun-ud dan hiya ot kananan diday "Nganney pinhod yu?" Ya kanan dan hiyay "Apu, daanay kiha-ha-adam?" 
@@ -2891,7 +2891,7 @@ Juan|3|9|Kanan Nikodemus di "Kon mabalin an maat di athidi?"
 Juan|3|10|Kanan Jesus di "Antipet he-a nan madayaw an mittulun di pangi-e takun Judyu yaden uggem inilah tuwe? 
 Juan|3|11|Donglom te makulug an hituwen kalkalyon mi ya inila mi. Hituwen ituttudu mi ya makulug te tinibo mi, mu adiyu kulugon. 
 Juan|3|12|Kinalik ke dakayun am-in di mipanggep hi ma-ma-at hituh luta, yaden adiyu kulugon, ot namam-a mon adiyu kulugon hin nan ma-ma-at hi langit an kad-an Apu Dios di kalyok. 
-Juan|3|13|Maid di taguh immen e naniboh langit. Ohaak an Panguluwan di tagun nanibo te hidiy nalpuwak." 
+Juan|3|13|Maid di taguh immen e naniboh langit. Ohaak an Panguluwan di tagun nanibo te hidiy nalpuwak."
 Juan|3|14,15| Ya kanan bon Jesus di "Handih kawadan da Moses nah adi maboblayan ya inalana nan gombang ot pandayonan kay ulog ot ipalat na ot itag-e nat hidiyey tangadon nadan kinalat di ulog ta adida mate. Athina damdamay maat ke ha-on an Panguluwan di tagun ahiyak mipatag-e ta hay tagun mangulug ke ha-on ya midatan hi biyag an maid di poppog na." 
 Juan|3|16|Hi Apu Dios ya ongal di naminhod nan ditakun tatagu tuh luta, kinali uggena kinawwanan nan binugtung an Imbabalena, ot itud-ak na tuh luta ta am-in day mangulug ke hiya ya adida makastigun adida mihi-an ke Apu Dios, mu midatan dah biyag an maid di poppog na. 
 Juan|3|17|Ugge intud-ak Apu Dios nan Imbabalena tuh luta an e mangastiguh tatagu, mu intud-ak nan mangihwang ke dida. 
@@ -2965,7 +2965,7 @@ Juan|4|54|Hidiyey mikadwah nangipatib-an Jesus hi kabaelan Apu Dios dih nibangng
 Juan|5|1|Gagala ya nadatngan di piyestan di Judyu ad Jerusalem ot ume da Jesus. 
 Juan|5|2|Wada nan lobong ad Jerusalem an kanan dah kalin di Judyuy Betesda an nih-up nah hoob an hogpan di kalnero. Hanah pingngit diyen lobong ya waday liman ab-abbung an punhiduman. 
 Juan|5|3|Dadiyen liman ab-abbung ya napnuh tatagun mundogo. Wadaday nakulap, napilay ya naparalyze. 
-Juan|5|4|[Miha-ha-ad dah di te halipat-an day kumibyayyongan nan danum nah lobong te waday anghel an oggan umalin mangihal nah danum. Ta nan mamangulun gumawa hin kimmibyayyong nan danum ya makaan di dogona, takon di nganneh diyen dogo.] 
+Juan|5|4|Miha-ha-ad dah di te halipat-an day kumibyayyongan nan danum nah lobong te waday anghel an oggan umalin mangihal nah danum. Ta nan mamangulun gumawa hin kimmibyayyong nan danum ya makaan di dogona, takon di nganneh diyen dogo.] 
 Juan|5|5|Wadah di on tagun nundogoh tuluy pulut walun toon. 
 Juan|5|6|Tinibon Jesus ya inilanan nabayag an nundogo ot kananan hiyay "Kon pinhod mun makaan di dogom?" 
 Juan|5|7|Ya kanan diyen mundogoy "Om, mu deket kimmibyayyong nan danum ta kanak ot di mamanguluwak an gumawa on waday namangulu. Maunnaanak ta nangamung te maid di bumaddang ke ha-on." 
@@ -3047,7 +3047,7 @@ Juan|6|38|te ha-oy ya intud-akak ke Ama tuh lutat atok di pinhod na, bokon hay p
 Juan|6|39|Hay pinhod nan atok ya ipaptok kun am-in nadan tatagun indinol nan ha-on ta mahuwak didan am-in tuh udidin di algot maid di ohan mihi-an ke hiya. 
 Juan|6|40|Man-uke ya pinhod Aman am-in nadan tatagun mangulug ya mangabulut an ha-oy di Imbabalena ya mahuwak didah udidin di algot mawadan diday biyag an maid di poppog na." 
 Juan|6|41|Hanadan Judyu ya mungngudu da te hay kinalin Jesus an kananay hiya nan makan an nalpuh langit. 
-Juan|6|42|Ot kanan day "Tipe udot ta ena kanan di hiya ya nalpuh langit? Kon bokon hiya nan imbabalen din hi Joseph? Kon ugge taku inilah amana ya hi inana?" 
+Juan|6|42|Ot kanan day "Tipe udot ta ena kanan di hiya ya nalpuh langit? Kon bokon hiya nan imbabalen din hi Joseph? Kon ugge taku inilah amana ya hi inana?"
 Juan|6|43,44| Kimmalih Jesus ot kananay "Itikod yun ngumudungudu te adi mabalin an na-ala on nangulug di ohan tagu ke ha-on, te kah-in di baddangan Aman nangitud-ak ke ha-on. Dadiyen mangulug ke ha-on ya ahik mahuwan dida hantuh udidin di algo. 
 Juan|6|45|Intudok handidan profetas Apu Dios an kanan day 'Tuttuduwan Apu Dios didan am-in.' Ta nan tagun mangngol ta un-unudonay ituttudun Apu Dios ya kulugonak ke hiya. 
 Juan|6|46|Maid di nanibon Apu Dios mu ha-oy ya abu. Tinibok hi Aman hi Apu Dios te nalpuwak ke hiya. 
@@ -3123,7 +3123,7 @@ Juan|7|45|Nibangngad nadan intud-ak da ot kanan nadan ap-apun di padi ya nadan P
 Juan|7|46|Kanan day "Uggemi te handih dingngol miy panuttudu na ya inila min maid di miingngon hiya." 
 Juan|7|47|Kanan nadan Phariseey "Kon nihapitan kayu damdamah langkak na? 
 Juan|7|48|Maid di ohan dakamin Pharisee ya nadan ap-apu takuy nangulug ke hiya. 
-Juan|7|49|Hanada ken nangulug ke hiya ya uggeda naawatan di Tugun Moses, ya nunna-ud an ahi kastiguwon Apu Dios dida." 
+Juan|7|49|Hanada ken nangulug ke hiya ya uggeda naawatan di Tugun Moses, ya nunna-ud an ahi kastiguwon Apu Dios dida."
 Juan|7|50,51| Kimmalih Nikodemus an oha nadah ap-apuh din kananay "Hay linteg takun Judyu ya adinadaman kastiguwon di ohan tagu hin ugge ni-an nahumalya te ugge ni-an nainila hin nganney bahul na." Hituwen hi Nikodemus ya hiya nan e nakihumhummangan ke Jesus handi. 
 Juan|7|52|Kanan dan hiyay "Antipet pakaihakkit muh Jesus, kon iGalilee ka damdama? Pakabbidbidom ke nan impitudok Apu Dios, maid di kananah malpud Galileen profetas." 
 Juan|7|53|Nagibbuh diyen inhanumhummangan da ot mumpanganamut da.
@@ -3176,7 +3176,7 @@ Juan|8|47|Hay makulug an tagun Apu Dios ya un-unudonay tuguna. Mu dakayu ya boko
 Juan|8|48|Kanan nadan Judyu ke Jesus di "Tibom! Makulug nan kanan min iSamaria ka an gaga-ihon tagu ya makulug bo an nahikpan kah diyablu." 
 Juan|8|49|Hinumang Jesus an kananay "Uggeyak nahikpan. Ha-oy ya daydayawok hi Ama yaden pihulonak ke dakayu. 
 Juan|8|50|Mu takon di pihulonak ot bokon hay kidayawak di gamgamak te waday ohan naminhod an midayawak ya hiyay nanginila hin maphod di tagu weno adi. 
-Juan|8|51|Nomnomon yu tun kalyok, hay tagun un-unudonay ituttuduk ya adi mate." 
+Juan|8|51|Nomnomon yu tun kalyok, hay tagun un-unudonay ituttuduk ya adi mate."
 Juan|8|52,53| Kanan bon nadan Judyu ke Jesus di "Ya- kon makulug an nahikpan ka! Kon uggem inilan hi apu Abraham ya handidan profetas ya man-u te natag-e saad da, mu nate da damdama? Kon pangalim on natagtag-e ka mu dida? Antipet kanam di adi mate nan tagun mangun-unud hi ituttudum, dahdi ka ni-bo?" 
 Juan|8|54|Hinumang Jesus an kananay "Deket ha-oy di mangipadayaw hi adol ku ya maid di hilbina, mu nan mangipadayaw ke ha-on ya hi Ama an hi Apu Dios an kanan yuy Dios yu. 
 Juan|8|55|Hay kakulugana ya uggeyu inilah Apu Dios, mu ha-oy ke ya inilak. Deket kanak di uggek inila ya umatak mon dakayun makallangkak. Mu ha-oy ke nimpe ya inilak, kinali paka-un-unudok di kalyona. 
@@ -3359,7 +3359,7 @@ Juan|12|34|Ya kanan nadan naamung di "Hanah Tugun Moses ya kananay adi mateh Kri
 Juan|12|35|Kanan Jesus ke diday "Ha-oy di mamat-al hi nomnom yu ta maawatan yuy makulug, mu adi mabayag di pakiha-adak ke dakayu. Kinali ad uwanin wadaak ni-an ya un-unudon yuy ituttuduk ta adi kayu kay wadah tapol. Hanan tagun mundallanan hi tapol ya uggena inilay pangayana. 
 Juan|12|36|Ta hidiye nan kanak di ad uwanin wadaak ni-an an mamat-al ke dakayu ya mangulug kayun ha-on ta mapat-alan kayu."Kinalin Jesus hituwe ot tumayan ot ugge numpatibon dida. 
 Juan|12|37|Takon di tinibotibon nadan Judyu datuwen dakol an milagron inat Jesus ya hiya damdaman adida mangulug ke hiya. 
-Juan|12|38|Hituwey immannungan din kinalin Isaiah an profetas an kananay"Apu Dios, an dahdiy mangulug nadah ipainila mi? Ya dahdi da moy nangipatib-am hi ongal an kabaelam?" 
+Juan|12|38|Hituwey immannungan din kinalin Isaiah an profetas an kananay"Apu Dios, an dahdiy mangulug nadah ipainila mi? Ya dahdi da moy nangipatib-am hi ongal an kabaelam?"
 Juan|12|39,40| Hituwe boy kinalin Isaiah mipanggep hi adida pangulugan, kananay"Hi Apu Dios ya kinulap na dida ya impakulhi na boy nomnom da, ta hidiye nan adida pakatibo, adida pakaawat hi pangi-ena ya adida muntutuyuh liwat da. Gulat nat adida athidi ya maawatan day mituttudun didat muntutuyu dah liwat dat paphodona dida." 
 Juan|12|41|Datuwey kinalin din hi Isaiah mipanggep ke Jesus te tinibo nah in-inop nay dayaw Jesus. 
 Juan|12|42|Takon di athidin dakol day adi mangulug ke Jesus ya dakol da damdama nadah ap-apun di Judyuy nangulug ke hiya, mu adida ipainila te tumakut dah pangaanan nadan Pharisee ke dida nah simbaan da. 
@@ -3430,7 +3430,7 @@ Juan|14|18|Takon di tayanan dakayu ya adi dakayu iwalong te ahiyak bo mibangngad
 Juan|14|19|Gagala mo ya adiyak tibon hanadah adi mangulug ke ha-on, mu dakayu ke ya ahiyak bo tibon. Ahi waday biyag yun maid di poppog na te mataguwak ya mitagu kayun ha-on ta nangamung. 
 Juan|14|20|Ahiyu inilaon kediyen ha-oy ya wadaak ke Ama ya wadaak ke dakayu ya athidi bon wada kayun ha-on. 
 Juan|14|21|Hay tagun un-unudonay tugun ku ya hidiyey kitib-anan pinhodak ke hiya. Hanan tagun naminhod ke ha-on ya hiyay pinhod min Ama ya hiyay pangipaawatak hi mipanggep ke ha-on." 
-Juan|14|22|Hi Judas an bokon nan hi Judas Iskariote, ya kananan Jesus di "Apu, tipet dakami ya abuy pangipainilaam hi mipanggep ke he-an bokon am-in hi tatagu?" 
+Juan|14|22|Hi Judas an bokon nan hi Judas Iskariote, ya kananan Jesus di "Apu, tipet dakami ya abuy pangipainilaam hi mipanggep ke he-an bokon am-in hi tatagu?"
 Juan|14|23,24| Himmumang hi Jesus an kananay "Om, te hay tagun maid di pamhod nan ha-oy ya adina un-unudon di tugun ku, mu hay tagun waday pamhod nan ha-oy ya un-unudonay tugun ku. Ya hi Ama ya pohdona hiya ya mawada kamin duwa ke hiya. Ya hituwen kalyok ya ugge nalpuh nomnom ku ya abu, mu nalpu damdaman Aman nangitud-ak ke ha-on. 
 Juan|14|25|Kinalik datuwed uwanin wadaak ni-an an makiha-ha-ad ke dakayu, 
 Juan|14|26|mu ahi umali nan itud-ak Apu Dios an mihannot ke ha-on an bumaddang ke dakayun hidiye nan Espiritunat ituluy na tun ngunuk ta pakaawwatan yuy mipanggep ke ha-on. Ya hiya boy mangipanomnom hanadah intuttuduk ke dakayu. 

@@ -3120,7 +3120,7 @@ Juan|6|6|Vinata na ya sia ni Jesus do kakey na omhawahaway si Felipe, ta tori na
 Juan|6|7|No tinbay ni Felipe am, "Aran yatoyatosen pa o ipanadiw ta am manawob ava ori a ipanadiw so makaday dira aran taydedekey sa." 
 Juan|6|8|Vatan sia no asa do disipolos na a mayngaran so Andres a kakteh ni Simon Pedro, 
 Juan|6|9|"Tayto o metdeh dia a mian so dadima ka tinapay kano dadwa ka among, amna manawob ava ya do karoaro taya." 
-Juan|6|10|Vatan sia ni Jesus o kapaydisna da sira do kadibobotan ori. Aro sa ya ta dadima sa livo (5,000|) a mahahakay. 
+Juan|6|10|Vatan sia ni Jesus o kapaydisna da sira do kadibobotan ori. Aro sa ya ta dadima sa livo (5,000) a mahahakay. 
 Juan|6|11|Ahapan sia ni Jesus o dadima aya ka tinapay as kapamahemahes na do Dios as kapayatay da sia do tori saw a maydisna do kadibobotan. Akma sia o pinarin na pa do dadwaw a ka among. As sira o tawotawo ori am komnan sa manda do kabsoy da. 
 Juan|6|12|Tayoka sa koman am vatahen ni Jesus dira do disipolos na saw, "Akpehen nio o panda, ta mangbayo." 
 Juan|6|13|Nakpeh da o panda dawri am napno pa o dose so ka alat no tinapay. 
@@ -3438,7 +3438,7 @@ Juan|12|1|Anem a karaw a manam kano Paskwa aya am nangay si Jesus do Betania. Di
 Juan|12|2|Pinayhanda da si Jesus. Nayserbi dira si Marta as nachipaydisna si Lazaro di Jesus a koman. 
 Juan|12|3|As nanghap si Maria so pabango a oyod a maynyen as kapaphot na sia do kokod ori ni Jesus as kanyisnyis na dia ya no book na. As napno o vahay awri no angot na. 
 Juan|12|4|Amna si Judas Iscariote a asa do disipolos saya ni Jesus a niaya anti so omtraydor si Jesus am vinata na, 
-Juan|12|5|"Ango di mindakawan nia o pabango aya as katoroh so sadiw na dira do makasiasi. Makatatdo yatos (300) o sadiw na naw." 
+Juan|12|5|"Ango di mindakawan nia o pabango aya as katoroh so sadiw na dira do makasiasi. Makatatdo yatos 300 o sadiw na naw." 
 Juan|12|6|Vinata na ya makayamot ava do kaoyod no kasi na nira no makasiasi asna takwan malakam sia no kartos. As do kaiya no omonong do kartos daw no disipolos sawri am mangotangotap dawri so gastohen na. 
 Juan|12|7|Do nakavata aya sia ni Judas am vinata ni Jesus, "Nolay nio sia do parinyen naya, ta niaya o itoroh na do kavovon anti niaken. 
 Juan|12|8|Mavidin pa sa anti o makasiasi do yanan nio as ito o kabo ko na do panghovokan nio." 

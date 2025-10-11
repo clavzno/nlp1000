@@ -15,7 +15,7 @@ Matay|1|13|O anak na ni Solopapey am si Apio. O anak na ni Apio am si Idiacing. 
 Matay|1|14|O anak na ni Aso am si Sato. O anak na ni Sato am si Asin. O anak na ni Asin am si Idio. 
 Matay|1|15|O anak na ni Idio am si Idiasa. O anak na ni Idiasa am si Matan. O anak na ni Matan am si Yakebo. 
 Matay|1|16|O anak na ni Yakebo am si Yoseyvo a kahanghangan ni Madiya. O meyngaran si Yeso am anak na ni Madiya. Si Yeso am Misayya. 
-Matay|1|17|No ko vilangan am no yapwen ji Apolahan a kangay na ji Tawey am apat o ikarwa na (14) no katatapilan da rana. No yapwen ji Tawey a kangay na do nirakpan da so Isedi a yangay do Papilon am akman sang a apat so ikarwa (14) so katatapilan sira. No vilangan o niyan da no Isedi a tao do Papilon a kangay na do cinatazak na no Misayya am akman sang, ta apat so ikarwa (14) o katatapilan da. 
+Matay|1|17|No ko vilangan am no yapwen ji Apolahan a kangay na ji Tawey am apat o ikarwa na 14 no katatapilan da rana. No yapwen ji Tawey a kangay na do nirakpan da so Isedi a yangay do Papilon am akman sang a apat so ikarwa 14 so katatapilan sira. No vilangan o niyan da no Isedi a tao do Papilon a kangay na do cinatazak na no Misayya am akman sang, ta apat so ikarwa 14 o katatapilan da. 
 Matay|1|18|Kasasaodan ni Yeso Kizisto no katazak na. Si Madiya a ina na a nitamtamkan ni Yoseyvo am ji pa nizomagpit do vahay da am katenngan na rana ni Madiya o kapangalavat na so metdeh, do kowyat na jya no Seyzi na ni Ama ta do to. 
 Matay|1|19|O mangay na seksekan a tao a meyngaran so Yoseyvo am tey yapya o ahahapan na so vazay na do icyatatao na. Am ori o naknakman na sya do onowned na so kato na rana ngaolyan so tamtamek da. Ta ji nakzan o kapeyrengerengay da jya no tao a katenngan. 
 Matay|1|20|Naknakmen na o akman sang a vazay am mangay na patateynepan no tinsi ni Ama ta do to. Maniring am, "Mo Yoseyvo a sivovoong ni Tawey, ji ka nyahey. Ta ahapen mo si Madiya kataned mo do vahay. Ta o na alavaten am yapo do Seyzi na ni Ama ta do to. 
@@ -65,7 +65,7 @@ Matay|3|15|Maniring si Yeso jya am, "To ta macyozai o akman sya vazay an. Ta o i
 Matay|3|16|Meypapowpow si Yeso apo do ranom am todacyangi o hanit. So nipakacita na so Seyzi na ni Ama ta do to a akmey hato a meyhekas a someyked do kataotao na. 
 Matay|3|17|Meyratateng am amyan so ciring a apo do teyngato. Maniring am, "Iya rana ya am Anak ko a ko tey kaglaw. So yako sarayan nya."
 Matay|4|1|Makarahan am ipeypalanginan no Seyzi si Yeso a yangay do kabwan no nihakawan no tao a littan ni Satan. 
-Matay|4|2|Makasikapat (40) so araraw si Yeso a jya nikoman am maliliw na o kakcin na. 
+Matay|4|2|Makasikapat 40 so araraw si Yeso a jya nikoman am maliliw na o kakcin na. 
 Matay|4|3|Ori o nyangay ni Satan ji Yeso. Maniring jya am, "No ka manoyong a Anak no Tao do to am pancyan pala o aro a vato a kapeyvaliw na a myanpaw." 
 Matay|4|4|Tovisan ni Yeso am, "O ciring do Seysyo am,'Beken a kanehen o ikavyay no tao, ta makdekdeng pa o Ciriciring na ni Ama ta do to a ikavyay no tao.' " 
 Matay|4|5|Makarahan am yangay na pa ni Satan si Yeso do Yelosaleng a kangay na nya do toktok na no rako a panaralayan da. 
@@ -203,7 +203,7 @@ Matay|8|1|Omosok si Yeso a apo do tokon am onotan da no aro a tao.
 Matay|8|2|O asa ka omlabyab so kataotao am nimangay ji Yeso a meylilitod. Maniring am, "Mo Panirsirngen, no si apyahen mo am jyabo kaji na apyan no kataotao ko a." 
 Matay|8|3|So niparapongan na so lima na jya ni Yeso a kapanci na no, "Ko apyahen. Apya rana o kataotao mo." So ji na meyyahahai a nimapya no kolit na. 
 Matay|8|4|O nipakoyokoy na pa jya ni Yeso am, "Ji mo meycicicyan an. Ta yangay mo a ipacita do mapatanatanang so nakem ta si Ama ta do to a tao a kavalivaliw na so kataotao mo a kapangozay mo do iwawalam na ni Moyse a mapatanang so nakem mo ji Ama ta do to. So anoyngan da jimo no tao a nimapya rana so kataotao." 
-Matay|8|5|Makaranes do Cyapaynong si Yeso am mangay na rapongen no asa ka mimong no asa poo (100) a itaysang no Loma a kapasyasi na jya. 
+Matay|8|5|Makaranes do Cyapaynong si Yeso am mangay na rapongen no asa ka mimong no asa poo 100 a itaysang no Loma a kapasyasi na jya. 
 Matay|8|6|Maniring am, "Mo Panirsirngen, o lamlamsoy ko am yaji makapeygonagonay. So na itkeh do vahay ko a yamakaliliw so kataotao na." 
 Matay|8|7|Maniring si Yeso am, "Mangay ko iwakwakan." 
 Matay|8|8|Maniring o mimong no itaysang no Loma am, "Mo Panirsirngen, yako tey kanig imo a yamai do vahay ko. Tana asa o ciring mo am jyabo o kaji na apyan no lamlamsoy ko a. 
@@ -252,7 +252,7 @@ Matay|9|16|"Abo tao a mapatapang so vayo a milakayob do adan a ayob. Ta ji macim
 Matay|9|17|Abo tao a mangap so vayo a potaw cyo a paglowen do adan a kolit no baka, ta zombak. Am ori o paglowan so vayo a potaw cyo do vayo a kolit no baka an. Ta ori o ikapya na." 
 Matay|9|18|Macisirsiring pa jira si Yeso am mai o asa ka meymatmatngeh no peyneynozyan a tao a meylilitod do tangain na ni Yeso. Maniring am, "Na kawakwak pa no anak ko a mavakes. Kapakamo mo am mangay mo pa parapongen o lima mo do anak ko a kavyay na rana." 
 Matay|9|19|Makarahan am meytatanek si Yeso a omonot jya mangay. O macinanao jya am nimacilolo sira. 
-Matay|9|20|Amyan so asa ka mavakes a makadwa so icyarwa (12) so awawan a to makaliliw so kataotao na gomcin no rala. Iya rana am nimangay a manlikod ji Yeso a kapinan na do seysayan no talili na. 
+Matay|9|20|Amyan so asa ka mavakes a makadwa so icyarwa 12 so awawan a to makaliliw so kataotao na gomcin no rala. Iya rana am nimangay a manlikod ji Yeso a kapinan na do seysayan no talili na. 
 Matay|9|21|Manakenakem o mavakes am, "Tana kabnek ko a minan do ayob na am jya todapya rana o kataotao ko a." 
 Matay|9|22|Meyvazingowngaw si Yeso am macita na o mavakes ang. Maniring jya am, "Manganako, ka manoyong a meyhanhan nyaken. Am ori o to na rana apyai no ingingnen mo." Makarahan am mina todapya rana o ingingnen no mavakes ang. 
 Matay|9|23|Mangay si Yeso do vahay no meymatmatngeh no peyneynozyan a tao am macita na omonong do inawan a tao a kano aro a meykalalavi a tao. 
@@ -271,7 +271,7 @@ Matay|9|35|Nilivolivon ni Yeso o peyneynozyan do peycyeylilyan na a kapangnanao 
 Matay|9|36|Macita ni Yeso o aro a tao am ikarilaw na sira. Ta akmey minaminasbang sira abo so marilaw nira. Akman so kagling a abo so omonong jira a tao. 
 Matay|9|37|Am maniring do macinanao jya am, "Aro tao a makza no Mapasaray a Ciriciring. Akman so nihakawan a mazako rana. Aro o langin am apeleh o tao a manlangi. 
 Matay|9|38|Am ori o ipeynozi nyo ji Ama ta do to a kapanovoy na so tao a meylimwang no ciriciring na."
-Matay|10|1|Lovoten na ni Yeso o rarwa so ikakarwan (12) a macinanao jya a kapanta na nira so oyowyat da ipamozwaw da so kalamsoyan ni Satan a kapangiwakwak da so meykeyngeyngen a tao. 
+Matay|10|1|Lovoten na ni Yeso o rarwa so ikakarwan 12 a macinanao jya a kapanta na nira so oyowyat da ipamozwaw da so kalamsoyan ni Satan a kapangiwakwak da so meykeyngeyngen a tao. 
 Matay|10|2|O ngarangaran da no macinanao jya am yadomket do jya. Ney manma na am si Simong, kasaing no ngaran na am si Pite, a kani wari na a meyngaran si Antele a kano anak ni Sipitay a meyngaran si Yake a kani wari na a meyngaran si Yowani, 
 Matay|10|3|a kani Veydipo a kani Patolomaw a kani Tomase kano mapeyvazay so deyking a tao a meyngaran si Matay a kani Yake a anak ni Alevey a kani Tatay, 
 Matay|10|4|a kani Simong a macikagom do macioya do Loma a tao a kano nimanazang ni Yeso a tao do Isecyadi a meyngaran si Yota. 
@@ -400,7 +400,7 @@ Matay|13|4|Manokos ori am amyan so zomsi do rarahan. Am mangay da toktokan no me
 Matay|13|5|Karwan na am zomsi do kavatovatwan. Am amlida, ta amyan so aliket a tana. 
 Matay|13|6|No amdada o araw am mapseng, do kaji na makayamotan, ta alikey o tana. 
 Matay|13|7|O zomsi do katamtamkan na am tana amlida am ji malasi. Ta kaongongan no aro a tamek. 
-Matay|13|8|O zomsi do apya so tanatana am apiya o kalidalida na a kapakapya na rana malasi. So iyan no makapoo (100) a kano sikanem a ngarnan (60) a kano sikatlo a ngarnan (30) so kasahasahang." 
+Matay|13|8|O zomsi do apya so tanatana am apiya o kalidalida na a kapakapya na rana malasi. So iyan no makapoo 100 a kano sikanem a ngarnan 60 a kano sikatlo a ngarnan 30 so kasahasahang." 
 Matay|13|9|Maniring si Yeso am, "Amizngen nyo an, peyyanen nyo do onowned nyo ori an." 
 Matay|13|10|Mai sira o macinanao ji Yeso am maniring sira jya am, "No mo nanawen sira o tao am ikongo o mo pehngehngayan so ciring mo." 
 Matay|13|11|Tovisan ni Yeso am, "O ji na nipatwaw pa a peypeypangayan na do talamozongan na ninyo ni Ama ta do to o nipanci ko jinyo. Am o karwan no tao am da pa jyatenngi ori. 
@@ -415,7 +415,7 @@ Matay|13|19|O tao a makamizing so nanao a omagaz do italamozong na ni Ama ta do 
 Matay|13|20|O nizomsi do kavatovatwan am katonodan no masaray a omamizing so ciring na ni Ama ta do to a tao. 
 Matay|13|21|Am ikongo do ji makayamot do onowned na, am no masazi na o alalaw na kano peyrarehtan da sya do kahap na so nanao ni Ama ta do to am makeykai a mablis o onowned na. 
 Matay|13|22|O nizomsi do katamtamkan am katonodan no tao a omamizing so nanao ni Ama ta do to. Am masanga no vazay na do karawan a kalita jya no peymeymasaodan na. Am ori o ikabengbeng no ciring na ni Ama ta do to do onowned na. 
-Matay|13|23|O nizomsi do apya so tanatana am katonodan no tao a omamizing so ciring na ni Ama ta do to a makateneng rana jya a pangozayan a peyvazain. So icyakma ney malasi so makapoo (100) a kano sikanem a ngarnan (60) a kano sikatlo a ngarnan (30) so kasahasahang." 
+Matay|13|23|O nizomsi do apya so tanatana am katonodan no tao a omamizing so ciring na ni Ama ta do to a makateneng rana jya a pangozayan a peyvazain. So icyakma ney malasi so makapoo 100 a kano sikanem a ngarnan 60 a kano sikatlo a ngarnan 30 so kasahasahang." 
 Matay|13|24|Mangononong pa si Yeso so asa ka pehngehngayan na so ciring na. Maniring am, "O italamozong na ni Ama ta do to am akman so tao a mangay a meymowa do nihakawan da. 
 Matay|13|25|Mitkeh o tao ori am mangay o kavosoyan na a mangay a meymowa so tamek a kangay na rana a moli. 
 Matay|13|26|Amlida o mogi am amrawa rana. Amlida o tamek am to rana singkaji a malas a amrawa. 
@@ -470,7 +470,7 @@ Matay|14|17|Maniring sira o macinanao jya am, "Yalima ka myanpaw a kano yadwa ka
 Matay|14|18|Maniring si Yeso am, "Inney kamo." 
 Matay|14|19|Makarahan am ipanci na sira o tao a amlisna do katamtamkan a kahap na so alima ka myanpaw a kano adwa ka among a katangara na so hanit a somaray nya ji Ama ta do to a kakcikcil na so myanpaw a itoro do macinanao jya a kavonong da rana sya do aro a tao. 
 Matay|14|20|So ikamimin da rana nikoman a mabsoy. Peysinsinmowen da rana o atda da am nipno da o adwa so ikarwa ka yala. 
-Matay|14|21|O vilang no tao a nikoman am kakaliman a ranaw (5000) sira. Am ji pa nipavilang sira o mavakes a kano kanakan. 
+Matay|14|21|O vilang no tao a nikoman am kakaliman a ranaw (5000 sira. Am ji pa nipavilang sira o mavakes a kano kanakan. 
 Matay|14|22|Komavos ori am ipanci na rana ni Yeso o macinanao jya somakay do vazangay a mangay do katovangan na no rako a meybebneng a ranom. 
 Matay|14|23|Teyka na taitaiden o aro a tao am maveyvow a mangay do tokon a meynozi. Mahep rana am amyan pa do dang. 
 Matay|14|24|Am marai rana o vazangay do pamsan na. Ikongo do sangozen da, am ori o ikaligaligan no vazangay do kasangoz da sya. 
@@ -523,7 +523,7 @@ Matay|15|34|Maniring jira si Yeso am, "Yapira o myanpaw a yamyan jinyo." Manirin
 Matay|15|35|Makarahan am ipanci na rana ni Yeso o aro a tao a amlisna, 
 Matay|15|36|kahap na rana so apito a ka myanpaw a kano among a isaray ji Ama ta do to a kakcikcil na rana sya patodahen do macinanao jya a kavonong da rana sya do aro a tao. 
 Matay|15|37|Nimamimin sira nikoman a kabobsoy da rana. Peykakasahen da no macinanao jya o atda da am nipno da o apito a ka yala. 
-Matay|15|38|O nikoman a tao am kakapatan na ranaw (4000) sira. Am ji da nipavilang sira o mavakes a kano kanakan. 
+Matay|15|38|O nikoman a tao am kakapatan na ranaw (4000 sira. Am ji da nipavilang sira o mavakes a kano kanakan. 
 Matay|15|39|Makarahan am tovoin na rana sira o aro a tao a mangay rana, a kazagpit na rana do vazangay a meypangay do Macyatan a ili.
 Matay|16|1|Amyan so tao a macyagom do Vadisay a kano macyagom do Satokay a mangay ji Yeso a omnakenakem so keyleylamdam da sya. Am ori o kakzeban da sya a mapacita no mapeyzokab a vazay na a yongkad na apo ji Ama ta do to. 
 Matay|16|2|Maniring si Yeso am, "Makoyab pa am ipanci nyo na o kapya no kakawan simaraw, do kakma ney vangkoro no asked no awa. 
@@ -533,8 +533,8 @@ Matay|16|5|Makaranes sira do katovangan no rako a meybebneng a ranom am nikahama
 Matay|16|6|Maniring si Yeso jira am, "Azimanen nyo o akmey kosozi no odong a yamyan do tao a macyagom do Vadisay a kano macyagom do Satokay." 
 Matay|16|7|Ikazyak da no macinanao o ciring ni Yeso ang. Maniring sira do kadwan jira am, "Ala ta kajya nimapalolwan so kanen ta o na peycirngan so sang ang!" 
 Matay|16|8|Ikongo do katenngan na rana ni Yeso o ipanci da, am ori o nipancyan na nya jira so, "Ikongo nyo kazyakan no nyo kajya nimapalolwan so kanen. Yatey likey pa o onowned nyo jyaken a manta ninyo so kanen nyo. 
-Matay|16|9|Manngwa, nyo jyazab? Manngwa, nyo na todahamangi o mina kakcikcil ko so alima ka myanpaw a nibsoy ko so kakaliman a ranaw (5000) a tao? Apira ka yala no kano nang o nimapanpan. 
-Matay|16|10|A kano apito a ka myanpaw a nibsoy ko so kakapatan a ranaw (4000) a tao. Apira ka yala o nipeysinsinmo nyo a nimapanpan. 
+Matay|16|9|Manngwa, nyo jyazab? Manngwa, nyo na todahamangi o mina kakcikcil ko so alima ka myanpaw a nibsoy ko so kakaliman a ranaw (5000 a tao? Apira ka yala no kano nang o nimapanpan. 
+Matay|16|10|A kano apito a ka myanpaw a nibsoy ko so kakapatan a ranaw (4000 a tao. Apira ka yala o nipeysinsinmo nyo a nimapanpan. 
 Matay|16|11|Ikongo nyo pa ji makatenngi do nipanci ko na jinyo. Beken a ko pagazen do myanpaw o ciring ko, ta ko pagazen do marahet a onowned da no tao a macyagom do Vadisay a kano macyagom do Satokay." 
 Matay|16|12|Ori o nipakatenngan da rana ji Yeso no macinanao jya do kaji na ngaingan do kosozi no odong. Ta pakacirngen na do marahet a nanao da no tao a macyagom do Vadisay a kano macyagom do Satokay. 
 Matay|16|13|To da ji makaranes si Yeso a kano macinanao jya do Kaysadiya Veydipi a ili am pacicin na o macinanao jya. Maniring am, "Sino kwan da yaken no tao a Nipamnekan na ni Ama ta do to a tao." 
@@ -573,7 +573,7 @@ Matay|17|17|Maniring si Yeso am, "Kamo tey yalikey pa so nakenakem ji Ama ta do 
 Matay|17|18|Karahan am ioya na o kalamsoyan ni Satan a kapakowbot na rana. So nikapiya na rana no anak na. 
 Matay|17|19|Karahan am pacicin da si Yeso no macinanao jya. Maniring sira am, "Ikongo namen ji makavozwawi so kalamsoyan ni Satan ang." 
 Matay|17|20|Maniring si Yeso am, "O nyo ikakman sang am yaji makanet pa o nakenakem nyo si Ama ta do to. To ko na macitangayan jinyo am tana akman kamo so alikey a vettow no nappa so kakdekdeng no nakem am tana to nyo nirsirnga o tokon a meylis do yanan na kangay na do kwang am meylis ori an. So ikabo no ji nyo a peyvazay a vazay. 
-Matay|17|21|[To nyo peykakasa o onowned nyo a meynozi a ji mangakaday. Ta ori o ikavozwaw no akman so sang a kalamsoyan ni Satan."] 
+Matay|17|21|To nyo peykakasa o onowned nyo a meynozi a ji mangakaday. Ta ori o ikavozwaw no akman so sang a kalamsoyan ni Satan."] 
 Matay|17|22|Malovot o macinanao ji Yeso do Cyadidi am maniring si Yeso jira am, "Itoro da o Nipamnekan na ni Ama ta do to a tao do macioya jya tao, 
 Matay|17|23|a kawakwak da sya. Am ikatlo na araw am mirwa pa mavyay." Mamizing da ori no macinanao jya am marahet sira so aktokto. 
 Matay|17|24|Makaranes si Yeso a kano macinanao jya do Cyapaynong am amyan so mangangap so deyking no rako a panaralayan a tao a mangay ji Pite. Maniring sira jya am, "Manngwa, tomoro so deyking do rako a panaralayan o Sinsi nyo an?" 
@@ -590,9 +590,9 @@ Matay|18|7|To sira makasi o tao do karawan a kalittan a meyraraten. O raraten no
 Matay|18|8|No si asa ka lima mo no beken a ai mo o ipeyraraten mo am to ranangteba kawalit nya. Tana abo lima kano ai a kapakahap so to meyyonong a ikavyay no pahad am apyapya pa o akman sang, a kano meynanod so lima kano ai a mangay payongben do jyahesep a lila no apoy. 
 Matay|18|9|No si asa ka mata mo o nipeyraraten mo am to rana ngoswa iwalit. Tana asa rana o mata mo a kapakahap mo so to meyyonong a ikavyay no pahad mo am apyapya o akman sang a kano meynanod so mata mangay do apoy do kararatan. 
 Matay|18|10|"Makapzat kamo. Ji nyo ngolala sira o pakananaken da tao. To ko na macitangayan jinyo am o tinsi a yasomidong sira am yamyan sira do tangain ni Ama ta do to do teyngato. 
-Matay|18|11|[O Nipamnekan na ni Ama ta do to a tao am nimai a mapatazadang so meyraraten a tao.] 
-Matay|18|12|"Naknakmen nyo pala. No amyan so tao a mapalam so yasa poo (100) a kagling a kavozaw no asa am jyabo kaji na to macyozayan do asyam so ipakapoo (99) a kagling a mangay komala so asa ka kagling a nimavozaw a. 
-Matay|18|13|To ko na macitangayan jinyo am no si makala na o nimavozaw a asa ka kagling am jyabo kaji na noyotan a makacita so nimavozaw a kagling a kano asyam so ipakapoo (99) a kagling a. 
+Matay|18|11|O Nipamnekan na ni Ama ta do to a tao am nimai a mapatazadang so meyraraten a tao.] 
+Matay|18|12|"Naknakmen nyo pala. No amyan so tao a mapalam so yasa poo 100 a kagling a kavozaw no asa am jyabo kaji na to macyozayan do asyam so ipakapoo 99 a kagling a mangay komala so asa ka kagling a nimavozaw a. 
+Matay|18|13|To ko na macitangayan jinyo am no si makala na o nimavozaw a asa ka kagling am jyabo kaji na noyotan a makacita so nimavozaw a kagling a kano asyam so ipakapoo 99 a kagling a. 
 Matay|18|14|Akman sang si Ama ta do to, a ji mamyapya no pakananaken da tao a mavozaw so onowned ji Ama ta do to. 
 Matay|18|15|"No amyan so malas a vazay na jimo no akma moy kakteh do cinai am to ka nangay a macitangay jya a manci no kalasan na. Am no maveyvow kamo am ori ikakman mo sang. No amizngen na imo am manoyong kamo na meypyapya so nakem do tangain ni Ama ta do to. 
 Matay|18|16|Am no si ji na ngamiznga imo am to ka na manara so rarwa a mangay jya. O ikakman na sang am akma ney yongkad o rarwa am tatlo a ka tao do kanoyong da kalas da no mina ciring da. 
@@ -784,7 +784,7 @@ Matay|23|10|Malas o kapanci da ninyo a panirsirngen, ta si Kizisto o meyngongyod
 Matay|23|11|No si myan jinyo so ney rakeh na am inarahen na o kakma ney lamlamsoy a omilamnay jinyo. 
 Matay|23|12|Pavevehen na ni Ama ta do to o mapahama so nakem a tao a kakatkat na sira so ji makazyazyak a tao. 
 Matay|23|13|"Inyo rana yatanwasiwasi a yamangnanao no iwawalam ni Ama ta do to a kano tao a macyagom do Vadisay am to kamo makasi. Ta inyo rana am nyo taywen o oyowyat ni Ama ta do to do tangain no tao. Nyo ji mya o kataotao nyo a macikaop do italamozong ni Ama ta do to. Akman sang o tao a nyo ji mya a yamacikaop do italamozong ni Ama ta do to. 
-Matay|23|14|[To kamo makasi an. Nyo littan o vao a mavakes a yahapen so kangangay. Nyo to ngida o inozi nyo a to napyapya so nakem. So ikanoyong nyo a peydednan no rako a peyoyaoyyan na ni Ama ta do to.] 
+Matay|23|14|To kamo makasi an. Nyo littan o vao a mavakes a yahapen so kangangay. Nyo to ngida o inozi nyo a to napyapya so nakem. So ikanoyong nyo a peydednan no rako a peyoyaoyyan na ni Ama ta do to.] 
 Matay|23|15|Inyo rana yamangnanao no iwawalam ni Ama ta do to a kano tao a macyagom do Vadisay am to kamo makasi. Ta inyo rana am kamo amlivolivon do peycyavanovanwan na yamapanod so tao. No sira omanod rana am nyo abwangen sira yaominara jinyo. So da ikaraherahet pa ka ninyo. So ikaraherahet da pa ioya na ni Ama ta do to. 
 Matay|23|16|"Inyo rana yakmey mavota tao a yatomirara so tao am to kamo makasi. No kamo maniring am, 'No amyan so tao a macipeyyeyyan so nakem do rako a panaralayan am jyanoyong o akman sang. Am no si pagazen da do vowawan a yamyan do panaralayan am pangononongan da o ciring da.'
 Matay|23|17|Inyo rana yakmey mavota tao am manngwa, yamakdekdeng o vowawan an? No yamakdekdeng o rako a panaralayan a yanan no vowawan. 
@@ -921,7 +921,7 @@ Matay|26|11|Ta yamasangib sira o makasi a tao a yamacikaop jinyo. So ji na salic
 Matay|26|12|O na paglowan do oo ko no mavakes so mahangno a haneng am yavat na ori do bobwan da jyaken. 
 Matay|26|13|To ko na macitangayan jinyo am no ipeylimwang o Mapasaray a Ciriciring na ni Ama ta do to do karawan eya am abo ji makalavat so mina vazay na jyaken no mavakes eya." 
 Matay|26|14|Amyan do rarwa so ikakarwan a macinanao ji Yeso so asa ka tao a meyngaran so Yota a tao do Isecyadi. Iya rana am nimangay do panipanirsirngen da no mapatanatanang so nakem da si Ama ta do to. 
-Matay|26|15|Maniring am, "No si itoro ko jinyo si Yeso am amyan so nakem nyo jyaken an?" Karahan am mangap sira so atlo a poo (30) a nizpi a itoro da jya. 
+Matay|26|15|Maniring am, "No si itoro ko jinyo si Yeso am amyan so nakem nyo jyaken an?" Karahan am mangap sira so atlo a poo 30 a nizpi a itoro da jya. 
 Matay|26|16|Nimacipinda do dang o ji na rana pehmai ji Yeso a itoro jira. 
 Matay|26|17|Omanam o kasaraw do ipamaring da so kanen a iyakan da so ji nimimway a pang am pacicin da si Yeso no macinanao jya. Maniring sira am, "Do wanjin mo tovoyan jyamen a tomalakanen so pamaringan ta so kanen do Iyeci." 
 Matay|26|18|Maniring si Yeso am, "Angay kamo do ili. Si makasinmo kamo so tao am si maniring kamo jya am, 'Kwan na no yamnanao jyamen am: Yarana marateng o araraw no ikawakwak ko. So yana raran so macinanao jya yamangay do vahay nyo a yamamaring so kanen do Iyeci.' " 
@@ -984,13 +984,13 @@ Matay|26|74|Maniring si Pite am, "Ko jyatenngi o tao ang. No yamalas o ciring ko
 Matay|26|75|Karahan am manakem na rana ni Pite o mina ciring na ni Yeso a manci no, "Do yanam no manok a tomazokokok am ipitlo ka omalalas jyaken." Karahan am makowbot rana si Pite a kapeykaoo na omzezezeng rana amlavi.
 Matay|27|1|Apnezak am malovot sira o panipanirsirngen no mapatanatanang so nakem da si Ama ta do to a kano kamanrarakehan da no tao do Yotay a meykaygi no kawakwak da si Yeso. 
 Matay|27|2|Ahapen da si Yeso am vaoden da yangay a itoro do panirsirngen da no Loma a meyngaran so Pilato. 
-Matay|27|3|Katenngan na rana si Yeso no nimanazang nya a meyngaran so Yota a wakwaken da am maneneseh rana. Karahan am mangay na paolin o atlo a poo (30) a nizpi do panipanirsirngen da no mapatanatanang so nakem da si Ama ta do to a kano kamanrarakehan da no tao do Yotay. 
+Matay|27|3|Katenngan na rana si Yeso no nimanazang nya a meyngaran so Yota a wakwaken da am maneneseh rana. Karahan am mangay na paolin o atlo a poo 30 a nizpi do panipanirsirngen da no mapatanatanang so nakem da si Ama ta do to a kano kamanrarakehan da no tao do Yotay. 
 Matay|27|4|Maniring am, "Ko meyraraten a yatodey manazang no inawan no yabo so raraten a tao." Maniring sira am, "Vazay mo saon am. Namen macivazay jimo." 
 Matay|27|5|Karahan am iwalit na o nizpi do rako a panaralayan a kapakowbot na rana amvitkeh so kataotao na lalavicinen do kayo. 
 Matay|27|6|O panipanirsirngen no mapatanatanang so nakem da si Ama ta do to am peysinsinmowen da rana o nizpi. Maniring sira am, "Ngina no inawan na ya. Am ori o ji palovoci sya do kingking a itoro ji Ama ta do to, ta marahet." 
 Matay|27|7|Meykaygi sira am akmey yasa sira ommya so kasazang da do nihakawan no meyteytanatana tao a mangay da bobwan no ji macikeylyan jira tao. 
 Matay|27|8|So na todangai sicyaikwaya no yada pancyan no nihakawan ori a "Nivoyogan no rala no tao." 
-Matay|27|9|O vazay rana ya am yatodey mangononong do mina ciring no panoyonoywan na so ciring ni Ama ta do to a meyngaran so Yedimi. Ta maniring am, "Nyahap da o atlo a poo (30) a nizpi a nipamnekan da no Isedi a ipalit da so inawan no tao, 
+Matay|27|9|O vazay rana ya am yatodey mangononong do mina ciring no panoyonoywan na so ciring ni Ama ta do to a meyngaran so Yedimi. Ta maniring am, "Nyahap da o atlo a poo 30 a nizpi a nipamnekan da no Isedi a ipalit da so inawan no tao, 
 Matay|27|10|a nipamalit da so nihakawan no meyteytanatana tao. Ori rana am nakenakem na jyaken ori ni Ama ta do to." 
 Matay|27|11|Yangay da si Yeso do tangain ni Pilato. Maniring jya am, "Manngwa, panirsirngen da imo no tao do Yotay?" Maniring si Yeso am, "Noon, manoyong ori." 
 Matay|27|12|O iraherahet da sya no panipanirsirngen no mapatanatanang so nakem da si Ama ta do to a kano kamanrarakehan am abo nipasapa na ni Yeso. 
@@ -1080,7 +1080,7 @@ Make|1|9|Makarahan am mai si Yeso a apo do Nasale a ili a macinapnap do Cyadidi 
 Make|1|10|Meypapowpow si Yeso a apo do ranom am macita na o hanit a kacyangan. Makarahan am mangay maneyked jya o akmey hato rana Seyzi. 
 Make|1|11|Makarahan am maciralay o ciring na ni Ama ta do to apo do teyngato. Maniring am, "Imo rana am Anak ko imo a ko tey kaglaw. So sarayan ko nimo." 
 Make|1|12|So ji na nimeyyahahai ni Yeso a nitovoy no Seyzi do kabwan no nihakawan no tao. 
-Make|1|13|So niyan na dang so kasikapat (40) so araraw a littan ni Satan. So nipacizavoz na do omalalam do dang. Am keyyan no aro a tinsi a somidong sya. 
+Make|1|13|So niyan na dang so kasikapat 40 so araraw a littan ni Satan. So nipacizavoz na do omalalam do dang. Am keyyan no aro a tinsi a somidong sya. 
 Make|1|14|Aneban da si Yowani am mangay si Yeso do Cyadidi a meylimwang no Mapasaray a Ciriciring na ni Ama ta do to. 
 Make|1|15|Maniring am, "Yarana makeykai o yana katalamozong ninyo ni Ama ta do to. Am ori o karwan nyo na do peyraratenan nyo a omanoyong do Mapasaray a Ciriciring na ni Ama ta do to." 
 Make|1|16|Mangonong si Yeso do pasalan no rako a meybebneng a ranom a ngaranan da Cyadidi am macita na o rarwa ka tao a mangahangahahap a meyngaran so Simong a kano kakteh na meyngaran so Antele a amzoyo no tawaz da. 
@@ -1154,7 +1154,7 @@ Make|3|10|Ikongo do tey yaro o tao a niwakwakan na, am ori o ikatey yaro no meyn
 Make|3|11|Macita da si Yeso no kovotan no kalamsoyan ni Satan a tao am meylilitod sira do tangain na kalololos da manci no, "Imo rana am Anak na imo no Tao do to." 
 Make|3|12|Am ioya na sira ni Yeso a mapatwaw so kanoyong na Anak ni Ama ta do to. 
 Make|3|13|Mangay do asa ka tokon si Yeso am lovoten na sira o nipamnekan na tao do tangain na. So nikamimin da amrapong sya. 
-Make|3|14|Pamnekan na sira o rarwa so ikakarwan na (12) am abneken na sira amlivolivon no ciriciring na. Maniring jira si Yeso am, "Ko inyo nipamnekan a macikaop jyaken. So ko tovoyan jinyo a meylimwang no ciriciring ko. 
+Make|3|14|Pamnekan na sira o rarwa so ikakarwan na 12 am abneken na sira amlivolivon no ciriciring na. Maniring jira si Yeso am, "Ko inyo nipamnekan a macikaop jyaken. So ko tovoyan jinyo a meylimwang no ciriciring ko. 
 Make|3|15|So iyan na rana no oyowyat nyo a mamozwaw so kalamsoyan na ni Satan." 
 Make|3|16|Sira rana nipamnekan ni Yeso am si Simong. O nitoro na ni Yeso a ngaran na am si Pite, 
 Make|3|17|a kano anak ni Sipitay a meyngaran so Yake a kani wari na meyngaran si Yowani. O ingaran na jira ni Yeso am Panici. O peypeypangayan na am akman so adey, 
@@ -1183,7 +1183,7 @@ Make|4|4|Manokos am amyan so zomsi do rarahan. Am mangay da toktokan no meyyasas
 Make|4|5|O karwan na am zomsi do kavatovatwan am amlida, ta amyan so alikey a tana do dang. 
 Make|4|6|No amdada o araw am mapseng do kaji na makayamotan, ta alikey o tana do dang. 
 Make|4|7|O zomsi do katamtamkan na am tana amlida am ji malasi, ta kaongongan no aro a tamek. 
-Make|4|8|O zomsi do apya so tanatana am apiya o kalidalida na a kapakapya na rana malasi. So iyan no malasi so sikatlo a ngarnan (30) a kano sikanem a ngarnan (60) a kano makapoo (100) so asi." 
+Make|4|8|O zomsi do apya so tanatana am apiya o kalidalida na a kapakapya na rana malasi. So iyan no malasi so sikatlo a ngarnan 30 a kano sikanem a ngarnan 60 a kano makapoo 100 so asi." 
 Make|4|9|Maniring si Yeso am, "Amizngen nyo an, peyyanen nyo do onowned nyo ori an." 
 Make|4|10|Maveyvow si Yeso am o niomamizing so ciring na tao am macihza sira do rarwa so ikakarwan a macinanao ji Yeso a mangay manahes no peypeypangayan na. 
 Make|4|11|Maniring si Yeso am, "O ji na nipatwaw pa peypeypangayan na no katalamozong na ninyo ni Ama ta do to am ipanci ko jinyo an. O karwan da no tao am nanawen ko sira no pehngehngayan ko so ciring ko. 
@@ -1229,7 +1229,7 @@ Make|5|9|Maniring si Yeso am, "Sino ngaran mo." Maniring am, "O ngaran ko am Si 
 Make|5|10|To mapasyasi ji Yeso a manci no kaji na vozwawan sira do dang. 
 Make|5|11|No kanang am amyan do tokon so aro a kois a meykoskos. 
 Make|5|12|Maniring o aro a kalamsoyan ni Satan a mapasyasi ji Yeso am, "To mo rana novoya yamen do aro a kois ang a kangay namen a komovot jira." 
-Make|5|13|Makarahan am apyahen na sira ni Yeso. Am ori o nipakowbot da na do kataotao na no tao ang a kangay da komovot do aro a kois. Ala adwa zivo (2000) o kois a nikomsoz do alalasyas a kangay da mehmes do rako a meybebneng a ranom a kamimin da mawakwak. 
+Make|5|13|Makarahan am apyahen na sira ni Yeso. Am ori o nipakowbot da na do kataotao na no tao ang a kangay da komovot do aro a kois. Ala adwa zivo (2000 o kois a nikomsoz do alalasyas a kangay da mehmes do rako a meybebneng a ranom a kamimin da mawakwak. 
 Make|5|14|Mina tongsoz rana o tomita so kois a tao kangay da na do ili a meylimwang no akman sang a vazay. Mamizing da no aro a tao am meypakokowbot sira tomita so vazay ang. 
 Make|5|15|Makaranes sira ji Yeso am macita da o nikovotan no aro a kalamsoyan ni Satan a amlisna do dang a apiya rana so ayob a makownong rana do nakenakem na. Am ori o nikarahet da so onowned a to rana nyahey, ta tey arako oyowyat ni Yeso. 
 Make|5|16|O nimakacita so nikovotan a tao a kano nikomsoz a kois am ononongan da rana do aro a tao o panpandan na. 
@@ -1241,7 +1241,7 @@ Make|5|21|Somakay si Yeso do vazangay am mangay do katovangan no rako a meybebne
 Make|5|22|Amyan do dang so asa ka meymatmatngeh no peyneynozyan a meyngaran so Yalo a nimacizavoz do aro a tao. Macita na si Yeso am mangay meylilitod do tangain ni Yeso a mapasyasi jya. 
 Make|5|23|Maniring am, "Yatey makdeng o ingingnen no anak ko a mavakes. Mangay mo pa parapongen o lima mo jya keywakwak mo jya kapya na rana." 
 Make|5|24|Makarahan am macihza si Yeso jya mangay. Aro tao a meysilisilin a macihza jya. 
-Make|5|25|Amyan do dang so asa ka mavakes a makadwa so icyarwa (12) so awawan a to makaliliw so kataotao na gomcin no rala. 
+Make|5|25|Amyan do dang so asa ka mavakes a makadwa so icyarwa 12 so awawan a to makaliliw so kataotao na gomcin no rala. 
 Make|5|26|Nipasowsow na o kangangay na do pangavavawan am ji na apyan no ingingnen na, ta ipeypeyparahet na. 
 Make|5|27|Mamizing na o vazay ni Yeso am ori o nipacislin na do aro a tao a kangay na do likod ni Yeso a minan do talili na. 
 Make|5|28|O nakenakem na am, "No si pinanan ko o ayob na am jya todapya rana o kataotao ko a." 
@@ -1298,11 +1298,11 @@ Make|6|36|To ta rana mancyan sira meysyasyay a kangay da do ili a mangay manazan
 Make|6|37|Maniring jira si Yeso am, "Pantan kamo sira so kanen da." Maniring sira o macinanao jya am, "Manngwa, ipanta mo yamen saon so meycyalaklaksa a nizpi a ipangap namen so kanen da myanpaw?" 
 Make|6|38|Maniring si Yeso jira am, "Angay pala cita yapira o yada nipalolo a myanpaw." Citahen da am alima ka myanpaw a kano yadwa ka among. 
 Make|6|39|Makarahan am ipanci na rana ni Yeso o macinanao jya mapeykapyapinpin sira do katamtamkan, 
-Make|6|40|kalisna da rana no aro a tao. So niyan dang no kakapowan (100) a tao do asa ka lipenpenan. Amyan so kakaliman (50) do asa ka lipenpenan. 
+Make|6|40|kalisna da rana no aro a tao. So niyan dang no kakapowan 100 a tao do asa ka lipenpenan. Amyan so kakaliman 50 do asa ka lipenpenan. 
 Make|6|41|Todahen na ni Yeso o alima ka myanpaw a kano adwa ka among am tangarahen na rana o hanit a kasaray na rana nya ji Ama ta do to, a kakcikcil na rana so myanpaw a itoro do macinanao jya. Makarahan am vonongen da rana sya do aro a tao. Akman sang o among a itoro na do macinanao jya. 
 Make|6|42|So nikamimin da rana nikoman a mabsoy. 
 Make|6|43|Peykakasahen da na no macinanao jya o atda da myanpaw a kano among am adwa pa o ikarwa na ka yala no nimapanpan. 
-Make|6|44|Vilangan da o mahakay a nikoman am kakaliman a ranaw (5000) sira. 
+Make|6|44|Vilangan da o mahakay a nikoman am kakaliman a ranaw (5000 sira. 
 Make|6|45|Mavitos o vazay na am to na rana panma ni Yeso o macinanao jya a somakay do vazangay a mangay do Peysayta a ili. Ta tovoin na pa sira o aro a tao a mangay rana. 
 Make|6|46|Teyka na taitaiden o aro a tao ni Yeso am omangaz do tokon a meynozi. 
 Make|6|47|Mahep rana am makanavak o vazangay do rako a meybebneng a ranom am maveyvow pa si Yeso do tokon a meynozi. 
@@ -1359,7 +1359,7 @@ Make|8|4|Maniring o macinanao jya am, "Do wanjin o mangay ta pangapan so kanen d
 Make|8|5|Maniring si Yeso jira am, "Yapira myanpaw o yamyan jinyo." Maniring sira am, "Yapito a ka myanpaw." 
 Make|8|6|Makarahan am ipanci na o aro a tao a amlisna kahap na rana so apito a myanpaw a isaray ji Ama ta do to a kakcikcil na rana sya itoro do macinanao jya a kavonong da rana sya do aro a tao. 
 Make|8|7|Amyan so ji makanateng a lilikta among. Akman sang ta isaray na ji Ama ta do to ni Yeso a kapanci na rana no macinanao jya amvonong sya do aro a tao. 
-Make|8|8|Abo jya nimabsoy a nikoman do aro a tao ang. O vilang da no nikoman a tao am kakapatan sira ranaw (4000). 
+Make|8|8|Abo jya nimabsoy a nikoman do aro a tao ang. O vilang da no nikoman a tao am kakapatan sira ranaw (4000. 
 Make|8|9|Peykakasahen da no macinanao ji Yeso o atda da am nipno da o apito a ka rako a yala. Makarahan am tovoin na rana sira ni Yeso a mangay rana do vahay da, 
 Make|8|10|a kapacyavang na rana do macinanao jya meypangay do meyngaran so Tamanota. 
 Make|8|11|Amyan so tao a macyagom do Vadisay a nimangay ji Yeso a macinekad jya. Naknakmen da o keyleylamdam da sya. Am ori o pasonsonan da sya mapeyvazay so mapeyzokab a vazay. Ta yongkad na no kanoyong na apo ji Ama ta do to. 
@@ -1370,8 +1370,8 @@ Make|8|15|Maniring si Yeso jira am, "Azimanen nyo o akmey kosozi no odong a yamy
 Make|8|16|Makarahan am ikazyak da. Maniring sira do kadwan jira am, "Ala na pakacirngen ori do yata kajya nimapalolwan so kanen eya." 
 Make|8|17|To na rana tenngi ni Yeso o amyan do onowned da. Maniring jira am, "Ikongo nyo kazyakan no nyo kajya nimapalolwan so kanen. Manngwa, nyo jyazab? Nyo jyatenngi o na nikapwan no oyowyat ko? Kamo manoyong a yajyapatapatak a tao. 
 Make|8|18|Manoyong ta yamyan so mata nyo am kamo ji makacita. Yamyan so talinga nyo am kamo ji makamizing. Manngwa, nyo na todahamangi? 
-Make|8|19|No kakcikcil ko so alima ka myanpaw a nibsoy ko so kakaliman a ranaw (5000) a tao am apira ka yala o nikpeh nyo a atda da." Maniring sira am, "Adwa o icyarwa na." 
-Make|8|20|Maniring pa si Yeso am, "No kakcikcil ko so apito a ka myanpaw a ipakan so kakapatan a ranaw (4000) a tao am apira ka yala o nikpeh nyo a atda da." Maniring sira am, "Apito a ka yala." 
+Make|8|19|No kakcikcil ko so alima ka myanpaw a nibsoy ko so kakaliman a ranaw (5000 a tao am apira ka yala o nikpeh nyo a atda da." Maniring sira am, "Adwa o icyarwa na." 
+Make|8|20|Maniring pa si Yeso am, "No kakcikcil ko so apito a ka myanpaw a ipakan so kakapatan a ranaw (4000 a tao am apira ka yala o nikpeh nyo a atda da." Maniring sira am, "Apito a ka yala." 
 Make|8|21|Makarahan am maniring si Yeso jira am, "No manoyong ori am manngwa, nyo pa jyatenngi o na nikapwan no oyowyat ko?" 
 Make|8|22|Makaranes sira do Peysayta ili am amyan so tao a omalak so mavota tao a mangay do tangain ni Yeso a komakzeb sya minan jya no lima na. 
 Make|8|23|Makarahan am kalain na o mavota tao ni Yeso a mangay do siri no ili a kacipa na do mata na a kapaopta na so lima na jya. Maniring si Yeso jya am, "Manngwa, yamyan so mo macita an?" 
@@ -1433,9 +1433,9 @@ Make|9|40|O ji mapasobna jyaten am macikabong jyaten.
 Make|9|41|To ko na macitangayan jinyo am o manta ninyo so ranom a yopen nyo do kanoyong nyo jyaken am tey saray na ori ni Ama ta do to." 
 Make|9|42|Maniring si Yeso am, "No myan so tao a tomirara so pakananaken da a tao a meyraraten a kapeymakaro na rana jyaken am apyapya rana o kapila jya mangay itbong do awa. 
 Make|9|43|No si lima mo o nipeyraraten mo am to ranangteba. Tana abo rana o asa ka lima a kapakasalap ji Ama ta do to am apyapya pa ori a kano meynanod so lima mangay do kararatan a matemtem no jyahesep a lila no apoy. 
-Make|9|44|[Do kararatan rana am amyan dang so aowed a jyawakwak a kano jyahesep a lila no apoy.] 
+Make|9|44|Do kararatan rana am amyan dang so aowed a jyawakwak a kano jyahesep a lila no apoy.] 
 Make|9|45|No si ai mo o nipeyraraten mo am to ranangteba. Tana abo o asa ka ai mo a kapakahap mo so to meyyonong a ikavyay no pahad mo am apyapya pa ori a kano meynanod so ai a mangay do kararatan. 
-Make|9|46|[Do kararatan rana am amyan dang so aowed a jyawakwak a kano jyahesep a lila no apoy.] 
+Make|9|46|Do kararatan rana am amyan dang so aowed a jyawakwak a kano jyahesep a lila no apoy.] 
 Make|9|47|No si asa ka mata mo o nipeyraraten mo am to rana ngoswa. Tana asa mata a kapakasalap do italamozong ni Ama ta do to am apyapya pa ori a kano meynanod so mata mangay do kararatan. 
 Make|9|48|Do kararatan rana am amyan dang so aowed a jyawakwak a kano jyahesep a lila no apoy. 
 Make|9|49|"O tao a makanakenakem so kapacilovot na do italamozong na ni Ama ta do to am amyan so masazi na alalaw a iskad na jya. 
@@ -1517,7 +1517,7 @@ Make|11|22|Maniring jira si Yeso am, "To ko na macitangayan jinyo am no manoyong
 Make|11|23|apya kapanci nyo no tokon a meylis a mangay do awa. No manoyong kamo a ji meykarwa so nakem ji Ama ta do to a omanoyong do ciring na am manoyong keyyan no akman sang a vazay nyo. 
 Make|11|24|Am ori o ko pancyan nya jinyo. No meynozi kamo a keyyan no amin nyo am anoyngan nyo o kapakahap nyo so sang. So ikabo no ji na norwan jinyo a amin nyo. 
 Make|11|25|No meytatanek kamo a meynozi am manmanma o kato nyongbowan so oyaoyyan nyo no maoya ninyo a tao. Ta ori o vonasan na ni Ama ta do to so raraten nyo. 
-Make|11|26|[No ji nyo peykabobwa o oyaoyyan nyo no icyatatao nyo am akman sang si Ama ta do to a ji vonas so raraten nyo.]" 
+Make|11|26|No ji nyo peykabobwa o oyaoyyan nyo no icyatatao nyo am akman sang si Ama ta do to a ji vonas so raraten nyo.]" 
 Make|11|27|Mirwa sira mangay do Yelosaleng. Omalam si Yeso do reryan no rako a panaralayan am mai sira o panipanirsirngen da no mapatanatanang so nakem da si Ama ta do to a kano mangnanao no iwawalam ni Ama ta do to a kano panipanirsirngen da. 
 Make|11|28|Maniring sira ji Yeso am, "Asyo oyowyat mo a yamapeyvazay so aro a vazay ang. Sino o yanitomoro no oyowyat jimo a yamapeyvazay so aro a vazay ang." 
 Make|11|29|Maniring si Yeso am, "Pacicin ko pala inyo no asa ka ciring. No si tovisan nyo yaken am ori o pancyan ko no na nikapwan no oyowyat ko a yamapeyvazay so aro a vazay. 
@@ -1705,7 +1705,7 @@ Make|15|24|Padketen da rana si Yeso do jyojika am macipangoyongoyot sira amvonon
 Make|15|25|Ikasyam no vatvatek do apnezak am padketen da si Yeso do jyojika. 
 Make|15|26|O nivatvatkan da raraten na am, "Iya ya am Panirsirngen da no tao do Yotay," 
 Make|15|27|a kapazanod da so rarwa nimanakaw a tao ji Yeso a padketen do jyojika. Asa am pain da do wanan na. O asa am pain da do ozi na. 
-Make|15|28|[So na nipangononong rana no akman sang a ciring do Seysyo. Ta o domket dang am, "Nipazasing da do meyraraten a tao."] 
+Make|15|28|So na nipangononong rana no akman sang a ciring do Seysyo. Ta o domket dang am, "Nipazasing da do meyraraten a tao."] 
 Make|15|29|O meyhatay do dang a tao am to da ligaligana o oo da mapasnesnek si Yeso. Maniring sira am, "Ka jyapya yamanci no kakavakava mo so rako a panaralayan a kapakatlo na araw no ipatnek mo sya. 
 Make|15|30|Peyhekas do jyojika sicyaikwaya kavyay mo so kataotao mo am." 
 Make|15|31|Akman sang sira o panipanirsirngen da no mapatanatanang so nakem da si Ama ta do to a kano mangnanao no iwawalam ni Ama ta do to a meykeykaming nya. Maniring sira am, "Na mavyay o karwan no tao a na jyatenngi o kataotao na avyain. 
@@ -1732,7 +1732,7 @@ Make|16|5|Somdep sira do heseb na am macita da o mowva tao a omlisna do kawanan 
 Make|16|6|Maniring o mowva tao ori am, "Ji kamo ogto a mavokahaw. Ta ko katenngan inyo a yakomala so yada nipadket do jyojika tao do Nasale a si Yeso. Am yana ji ngyan do jya, ta yarana nimirwa mavyay. To nyo nita o yada nipayan sya ito, 
 Make|16|7|a kangay nyo na manci nya do macinanao jya. Ipanci nyo ji Pite, ta o ciring na ni Yeso am manmanma pa ka nira a mangay do Cyadidi. So ipakacita da sya do dang. So na ipangononong no mina ciring na jira." 
 Make|16|8|No mangay kanyahey da am mangay keyyak da nya a malalayo a komaro rana do heseb na. Am ji da nipanci do tao. Ta manyahey sira. 
-Make|16|9|[Apnezak do niciyo am mirwa mavyay si Yeso. O ney manma na nipacittan na no kataotao na am si Matelyan Madiya. Iya rana am nipamozwawan na ni Yeso so apito a kalamsoyan ni Satan. 
+Make|16|9|Apnezak do niciyo am mirwa mavyay si Yeso. O ney manma na nipacittan na no kataotao na am si Matelyan Madiya. Iya rana am nipamozwawan na ni Yeso so apito a kalamsoyan ni Satan. 
 Make|16|10|Iya am nimangay manci nya do mazabab so onowned a mina kararay ni Yeso. 
 Make|16|11|Mamizing da si Yeso a nimavyay rana a kapakamizing da pa si Madiya nimakacita rana sya am ji da nganoyngi. 
 Make|16|12|Mavitos o vazay ori am macitarek rana o pacittan na no kataotao na ni Yeso do rarwa ka mina kararay na a meypangay do ili da. 
@@ -1858,12 +1858,12 @@ Locya|2|33|Am ori o niogtwan da nya no inyapwan na no kanakan so ciring na ni Si
 Locya|2|34|So nitoyotoyonan na sira ni Simoyang a kapanci na nya ji Madiya so, "Manoyong o kanakan eya na nipamnekan ni Ama ta do to. Aro omanoyong jya tao. Aro ji nganoyong jya. So ikaro da no tao a maoya nya. 
 Locya|2|35|Am ori rana o ipatwaw so aro a marahet a nakenakem no tao. Imo rana am akma dey to patovozey so ipangan o onowned mo." 
 Locya|2|36|Amyan so asa ka mavakes a panoyonoywan na so ciring ni Ama ta do to a meyngaran si Anna, anak ni Vanoar a sivovoong ni Asiar. Am rarakeh rana ori. Ikapito na kawan nizagpit na do kahanghangan na am mawakwak o mahakay na. 
-Locya|2|37|O kakawakawan na rana am apat o ikasyam na ngarnan (84). Iya rana am tey makdeng a omraralay ni Ama ta do to. So ipangday na do maraw a kado mahep a ji na mangakaday a meynozi ji Ama ta do to. So ji na ngaroi do rako a panaralayan da. 
+Locya|2|37|O kakawakawan na rana am apat o ikasyam na ngarnan 84. Iya rana am tey makdeng a omraralay ni Ama ta do to. So ipangday na do maraw a kado mahep a ji na mangakaday a meynozi ji Ama ta do to. So ji na ngaroi do rako a panaralayan da. 
 Locya|2|38|So nipeypasngen na mangay jira a somaray no kanakan ji Ama ta do to a kapeylimwang na rana nya do omnanala sya tao, do kanimalikey na rana no mapatazadang sira do teyngato. 
 Locya|2|39|Mateyka da rana da Yoseyvo a kani Madiya tomoyotoyon sya no iwawalam da am meysinaoli rana sira do Cyadidi do ili da do Nasale. 
 Locya|2|40|Meyparako rana o kanakan am meypakatkat rana o teneng na, ta oyatan na ni Ama ta do to. 
 Locya|2|41|Mangday so awawan o kangay da no inyapwan na ni Yeso a mamaring so kanen do Yelosaleng. O ingaran da do araraw ori am Iyeci. 
-Locya|2|42|Marateng rana o ikadwa na so ikarwa (12) no kakawakawan na ni Yeso am macihza do inyapwan na. 
+Locya|2|42|Marateng rana o ikadwa na so ikarwa 12 no kakawakawan na ni Yeso am macihza do inyapwan na. 
 Locya|2|43|Teyka sira mamaring so kanen am meysinaoli sira mangay do ili da. Am ji da nikatenngan no inyapwan na o kanimavezed na do Yelosaleng. 
 Locya|2|44|"Ala yamacihza si Yeso do karwan no tao," kwan da no inyapwan na. Ori ji da ngezsangi nya. Kasaraw rana sira niomalam. Am ori o nikalan da rana sya do zipozipos da kano masingkad da tao. 
 Locya|2|45|Ji da kala am to sira rana meysinaoli do Yelosaleng a mangay komala sya. 
@@ -1874,7 +1874,7 @@ Locya|2|49|Maniring si Yeso jira am, "Ikongo nyo kalan jyaken. Yanyo jyatenngi y
 Locya|2|50|Am ji da azab o peypeypangayan no mina ciring na sira. 
 Locya|2|51|So nipacihza na rana jira mangay do Nasale a omamizing so ipanci da jya. Am to na peyyana no ina na do onowned na o akman so sang a mina vazay na. 
 Locya|2|52|To macihza o nakem na ni Yeso do kataotao na a meycyakatkat. So sarayan na nya ni Ama ta do to a kano tao.
-Locya|3|1|Ikalima na so icyarwa na (15) no awawan na no kapeypanirsirngen da sya no Loma tao so meyngaran si Tipilyo am panirsirngen da si Pangsyo Pilato do Yotay a kapeypanirsirngen da do Cyadidi si Helote. O kakteh ni Helote a meyngaran si Veydipo am panirsirngen da do Itodiya kado Telakeni. O meyngaran si Disaniya am panirsirngen da do Apidini. 
+Locya|3|1|Ikalima na so icyarwa na 15 no awawan na no kapeypanirsirngen da sya no Loma tao so meyngaran si Tipilyo am panirsirngen da si Pangsyo Pilato do Yotay a kapeypanirsirngen da do Cyadidi si Helote. O kakteh ni Helote a meyngaran si Veydipo am panirsirngen da do Itodiya kado Telakeni. O meyngaran si Disaniya am panirsirngen da do Apidini. 
 Locya|3|2|O meyngaran si Annase a kani Keyava am panipanirsirngen da no mapatanatanang so nakem da si Ama ta do to. No kano nang am nioyatan na o ciring na ni Ama ta do to do meyvahay do kabwan no nihakawan a meyngaran si Yowani a anak na ni Sacyadiya. 
 Locya|3|3|Nilivolivon na rana ni Yowani o macitangked do ayo a meyngaran so Yotan a ili a pancyan na no, "Peymakarwan nyo rana o peyraratenan nyo a kataktak jinyo. Ta ori o vonasan na so raraten nyo ni Ama ta do to." 
 Locya|3|4|Akman so domket do vakong no panoyonoywan na so ciring ni Ama ta do to a meyngaran si Isayya. Maniring am,"Amyan so tao a omlololos do kabwan no nihakawan no tao a manci no, 'Inyo rana am wadwadan nyo o rarahan no Panirsirngen ta. So ikatazineng na rana no pangonongan na. 
@@ -1896,7 +1896,7 @@ Locya|3|19|No kanang rana am nioya na o panirsirngen a meyngaran si Helote. Ta n
 Locya|3|20|So iyan na pa no makdekdeng pa raraten na, ta nyaneban na si Yowani do pamemtengan. 
 Locya|3|21|Teyka manaktak si Yowani so aro a tao am mai si Yeso a kataktak na jya. Meynozi si Yeso am todacyangi o hanit. 
 Locya|3|22|So niyan na no Seyzi akman so hato a someyked do kataotao na. Am ori o niyan no ciriciring a nimapo do teyngato. Maniring am, "Manoyong ka Anak ko an. So sarayan ko nimo an." 
-Locya|3|23|Papwen na ni Yeso Kizisto o kapangnanao na am sikatlo (30) rana o kakawakawan na. O ipanci da no tao am anak na ni Yoseyvo si Yeso. Si Yoseyvo am anak ni Idi. 
+Locya|3|23|Papwen na ni Yeso Kizisto o kapangnanao na am sikatlo 30 rana o kakawakawan na. O ipanci da no tao am anak na ni Yoseyvo si Yeso. Si Yoseyvo am anak ni Idi. 
 Locya|3|24|Si Idi am anak ni Mata. Si Mata am anak ni Diwey. Si Diwey am anak ni Mayci. Si Mayci am anak ni Yanay. Si Yanay am anak ni Yoseyvo. 
 Locya|3|25|Si Yoseyvo rana am anak ni Matatiya. Si Matatiya am anak ni Yamose. Si Yamose am anak ni Nahong. Si Nahong am anak ni Isdi. Si Isdi am anak ni Nakay. 
 Locya|3|26|Si Nakay am anak ni Maat. Si Maat am anak ni Matatiya. Si Matatiya am anak ni Simey. Si Simey am anak ni Yoseke. Si Yoseke am anak ni Yeta. 
@@ -1913,7 +1913,7 @@ Locya|3|36|Si Sela am anak ni Kaynan. Si Kaynan am anak ni Avasa. Si Avasa am an
 Locya|3|37|Si Lamay am anak ni Matosela. Si Matosela am anak ni Inok. Si Inok am anak ni Yacin. Si Yacin am anak ni Maledi. Si Maledi am anak ni Kaynan. 
 Locya|3|38|Si Kaynan am anak ni Inose. Si Inose am anak ni Sete. Si Sete am anak ni Adam. Si Adam am nyamamaog ni Ama ta do to.
 Locya|4|1|Meysinaoli si Yeso a nimapo do Yotan a ayo am oyatan no Seyzi. So nipalolwan na sya no Seyzi a yangay do kabwan no nihakawan no tao, 
-Locya|4|2|a kasikapat na ngarnan (40) so araraw do dang a littan ni Satan. So ji na nikomani do araraw. Am ori o nikakcin na. 
+Locya|4|2|a kasikapat na ngarnan 40 so araraw do dang a littan ni Satan. So ji na nikomani do araraw. Am ori o nikakcin na. 
 Locya|4|3|Maniring jya si Satan am, "No ka manoyong a Anak no Tao do to am pancyan pala o vato eya a kapeyvaliw na myanpaw." 
 Locya|4|4|Tovisan ni Yeso am, "Maniring do Seysyo am, 'Beken a kanehen o ikavyay no tao an.' " 
 Locya|4|5|Am ori o nitanggahan na ni Yeso ni Satan do makarang a tokon a kapacita na nya jya so peykamahamahatawan na, 
@@ -2007,7 +2007,7 @@ Locya|6|9|Maniring jira si Yeso am, "Ko inyo pacicyan am ikongo iwawalam ta do i
 Locya|6|10|Am ori o nicittan na so aro a tao a kapanci na nya do tao ang so, "Zanet pala o lima mo." Zaneten na am todapya rana. 
 Locya|6|11|Ori o nikarakorako na pa no kaoyyan da ni Yeso. Am ori o nipeysirisiring da do ahapan da sya. 
 Locya|6|12|Ipisa mangay meynozi do tokon si Yeso. So mina to na ngyani rana do dang a kasahep. 
-Locya|6|13|Apnezak am lovoten na sira o macinanao jya kapamnek na jira so rarwa so ikakarwan (12) a omlivolivon no ciriciring na. 
+Locya|6|13|Apnezak am lovoten na sira o macinanao jya kapamnek na jira so rarwa so ikakarwan 12 a omlivolivon no ciriciring na. 
 Locya|6|14|Sira rana ori am si Simong a ningaranan na si Pite a kani wari na meyngaran si Antele a kani Yake a kani Yowani a kani Veydipo a kani Patolomaw, 
 Locya|6|15|a kani Matay a kani Tomase a kano anak ni Alevey a meyngaran si Yake a kano ipanci da macyagom do macioya do Loma a meyngaran si Simong, 
 Locya|6|16|a kano anak ni Yake a meyngaran si Yota kano nimanazang ni Yeso a tao do Isecyadi a meyngaran si Yota. 
@@ -2045,7 +2045,7 @@ Locya|6|47|Omamizing so ciring ko kapeyvazay na sya am ipanci ko jinyo o akman s
 Locya|6|48|Ori rana am akman so mamaring so vahay a tao a mapakarahem so patakadan na so soil na. So ikehni no vahay a paringen na. Tana meyyagaganas am ji na gonagonay o vahay ang, ta mehni o nipakapyan na sya. 
 Locya|6|49|Am omamizing so ciring ko a ji mangozay jya am akman so tao a mamaring so vahay a ji mapangay so soil na. No meyyagaganas am makeykai a balinasen na. So ikabwata no angangayan na rana."
 Locya|7|1|Mavitos o ciring na ni Yeso do aro a tao am mangay rana do Cyapaynong. 
-Locya|7|2|Amyan dang so mimong no asa poo (100) a itaysang no Loma. Iya rana am amyan so asa ka ney kaglaw na lamlamsoy na meyngen a toda jyangangay so inawan. 
+Locya|7|2|Amyan dang so mimong no asa poo 100 a itaysang no Loma. Iya rana am amyan so asa ka ney kaglaw na lamlamsoy na meyngen a toda jyangangay so inawan. 
 Locya|7|3|Mamizing no mimong no itaysang no Loma o vazay na ni Yeso am tovoin na o makanateng a kamanrarakehan da no tao do Yotay a mangay manci ni Yeso a omiwakwak do lamlamsoy na. 
 Locya|7|4|Makaranes sira ji Yeso am mapasyasi rana sira jya. Maniring sira am, "Manoyong o mimong no itaysang no Loma a sidongen mo pa an. 
 Locya|7|5|Ta na apzatan yamen a tao do Yotay. Nipamaring na yamen so peyneynozyan namen." 
@@ -2084,7 +2084,7 @@ Locya|7|37|No kanang am amyan do ili da so asa ka mavakes a meyraraten. Mamizing
 Locya|7|38|a meytatanek do likod ni Yeso a omoton do ai na amlavi. So nipeyranap na no kaoo na do ai ni Yeso. Meyratateng am linasan na no avok na kahangno na so ai na kakoris na rana jya no mahangno a ipeykeykoris. 
 Locya|7|39|Macita na no tomaotao si Yeso a tao a macyagom do Vadisay am naknakmen na do onowned na am, "No yamanoyong o tao eya yapo ji Ama ta do to am jyabo na kaji makatenngan do vazay na no yaminan jya mavakes eya." 
 Locya|7|40|Maniring si Yeso am, "Mo Simong, yamyan so ko ipanci jimo." Maniring si Simong ji Yeso am, "Pancyan pala." 
-Locya|7|41|Maniring si Yeso am, "Amyan so rarwa ka tao a nimamood so nizpi do asa ka lawpan. O asa ka tao am mamood so alima ranaw (500). O karwan na am mamood so alima poo (50). 
+Locya|7|41|Maniring si Yeso am, "Amyan so rarwa ka tao a nimamood so nizpi do asa ka lawpan. O asa ka tao am mamood so alima ranaw 500. O karwan na am mamood so alima poo 50. 
 Locya|7|42|Ikongo do abwata o nizpi da paolin da do nivood da, am ikasi na sira no lawpan, kato na rana mapeykabobowan so nivood da. Naknakmen nyo pala. Sino jira ori omaglaglaw pa no lawpan da." 
 Locya|7|43|Maniring si Simong am, "Ko naknakmen am o nimamood so arwaro ang. Ta nipeykabobo na o nivood na." Maniring si Yeso am, "Ka manoyong so ipanci." 
 Locya|7|44|So nicittan na so mavakes a kapanci na nya ji Simong so, "Mo macita o mavakes eya? Am ko somdep do vahay nyo am mo ji nipanta yaken so ranom a pangoyowyasan ko. Am iya am yana nioyasan no kaoo na o ai ko a na kalinas jya no avok na. 
@@ -2135,7 +2135,7 @@ Locya|8|38|O nimapya nikovotan no kalamsoyan ni Satan a tao am ikakza na o kapac
 Locya|8|39|"Mangay ka rana do vahay nyo a kapanci mo no mina vazay na jimo ni Ama ta do to." So nyangay na rana do ili a meylimwang no mina vazay na jya ni Yeso. 
 Locya|8|40|Meysinaoli si Yeso do katovangan na no rako a meybebneng a ranom am mangay da rapongen no nimnanala sya aro a tao. 
 Locya|8|41|Amyan so asa ka tomalamozong no peyneynozyan a meyngaran so Yalo a mai a mapasyasi do tangain ni Yeso karara na si Yeso a mangay do vahay da, 
-Locya|8|42|ta makeykai rana mawakwak o veyvowen na anak a mavakes. O kakawakawan no nang am adwa so ikarwa (12).Mangonong si Yeso do rarahan am meysilisilin o aro a tao a macihza jya. 
+Locya|8|42|ta makeykai rana mawakwak o veyvowen na anak a mavakes. O kakawakawan no nang am adwa so ikarwa 12.Mangonong si Yeso do rarahan am meysilisilin o aro a tao a macihza jya. 
 Locya|8|43|Amyan so asa ka mavakes adwa so ikarwa so awawan a makaliliw so kataotao na gomcin no rala. Nimimin na o kangangay na yangay na do mangavavaw am abo angangayan na. 
 Locya|8|44|So nyangay na do likod na ni Yeso a kapinan na do seysayan no talili na. Am ori o nikapya na rana no ingingnen na. 
 Locya|8|45|Maniring si Yeso am, "Sino ya niminan jyaken ang." Abo o tao a manci nya. Maniring si Pite am, "Mo Mangnanao, mo panangangayan nya. Mo jyacita sira o aro a tao a yameysilisilin a yamangay jimo?" 
@@ -2163,7 +2163,7 @@ Locya|9|10|No kapeysinaoli da no rarwa so ikakarwan a nipamnekan na ni Yeso a am
 Locya|9|11|Katenngan da no aro a tao am macihza sira mangay. So nirapongan na sira ni Yeso kapanci na nya so katalamozong na nyaten ni Ama ta do to a kapangiwakwak na so aro a meykeyngeyngen a tao. 
 Locya|9|12|Somipsip o araw am mangay o rarwa so ikakarwan do tangain ni Yeso. Maniring sira jya am, "To ta na mancyan o aro a tao a mangay an, kangay da meykala do ili so kanen da kano isanan da. Ikongo to ta kamet a ipakan ta sira do takey eya." 
 Locya|9|13|Maniring si Yeso jira am, "Pantan kamo sira so kanen da." Maniring sira ji Yeso am, "Yalima ka myanpaw a kano yadwa ka among o yamyan jyamen. Manngwa, apyapya kangay namen manazang no aro a tao eya so kanen da?" 
-Locya|9|14|O mahakay rana no kano nang am kakaliman sira ranaw (5000). Maniring do macinanao jya am, "Peykalyalipenpenen nyo sira palisnahen. Kakaliman (50) sira o teyhesa ka lipenpenan." 
+Locya|9|14|O mahakay rana no kano nang am kakaliman sira ranaw (5000. Maniring do macinanao jya am, "Peykalyalipenpenen nyo sira palisnahen. Kakaliman 50 sira o teyhesa ka lipenpenan." 
 Locya|9|15|So nionotan da do ciring na no macinanao jya. So nilisna da rana no aro a tao. 
 Locya|9|16|Meyratateng am ahapen na rana o alima ka myanpaw a kano adwa ka among a katangara na so hanit a kasaray na nya ji Ama ta do to a kakcikcil na sya patodahen do macinanao jya kavonong da rana sya do aro a tao. 
 Locya|9|17|Ori o nikamimin da rana nimabsoy. Peysinsinmowen da rana no macinanao jya o nimapanpan am adwa o ikarwa na no ka yalayala na. 
@@ -2212,7 +2212,7 @@ Locya|9|59|Maniring do asa ka tao am, "Macihza ka jyaken an." Maniring o tao ori
 Locya|9|60|Maniring si Yeso am, "To mo macipanadngi sira o omonong do nimapoling so peylingalingayan a tao. Am imo rana am apyapya pa kangay mo meylimwang no Mapasaray a Ciriciring do na katalamozong ninyo ni Ama ta do to." 
 Locya|9|61|Maniring pa o asa ka tao am, "Mo Panirsirngen, ko ikakza o kapacilolo ko jimo. Am mangay ko pa taitaiden sira o inyapwan ko an." 
 Locya|9|62|Maniring si Yeso jya am, "Omhakakaw no baka tao am ji to paolya o mata, ta meycyagilogilo o kowzowzitan na. Akman sang, ta no naknakmen o kapacikaop do italamozong ni Ama ta do to am ji peykarwa o nakenakem jya an."
-Locya|10|1|Meyratateng am mamnek si Yeso so rarwa so ikakawaowan (72) a tao a katovoy na sira teyrararwa mangay do omanam na angayan a peycyeylilyan na. 
+Locya|10|1|Meyratateng am mamnek si Yeso so rarwa so ikakawaowan 72 a tao a katovoy na sira teyrararwa mangay do omanam na angayan a peycyeylilyan na. 
 Locya|10|2|Maniring jira am, "Yaro o mowamowa am yapeleh o tao a meyvazay jya. Am ori o pancyan nyo no mapeymowamowa sya manovoy so arwaro pa mangay amvozas so mowamowa na. 
 Locya|10|3|Angay kamo na do tovoyan ko jinyo. So icyakman nyo so anak no kagling a mangay a patovongen do aro a vozaw a kokoman so kagling a ino. 
 Locya|10|4|Ji kanyo mapalolo so nizpi a kano ayob nyo a kano tokap. Ji kanyo to neyked a meyminaminasi no masinmo nyo a tao. 
@@ -2228,7 +2228,7 @@ Locya|10|13|"Inyo rana tao do Kelasin a kado Peysayta am to kanyo makasi an. Ta 
 Locya|10|14|Am yakanyo ji mamlis. No marateng o araraw no peykapyapinpinan ni Ama ta do to so tao am alikelikey pa o nipasingsingkad na so tao do Tayar a kado Siton a kano oyyan na ninyo an. 
 Locya|10|15|Inyo rana tao do Cyapaynong am manngwa, ipanci nyo o kapakaranes nyo do teyngato? Jyabo kaji nyo akasan do kararatan a." 
 Locya|10|16|Maniring si Yeso do macinanao jya am, "O omamizing jinyo am omamizing jyaken. O mapasobna jinyo am mapasobna jyaken. O mapasobna jyaken am pasobnan da o nitomovoy jyaken an." 
-Locya|10|17|Makanateng so araraw am masasaray sira o rarwa so ikakawaowan (72) a meysinaoli a manci no, "Mo Panirsirngen, yabo yaji ngamizing jyamen a kalamsoyan ni Satan, do namen pangozayan do ngaran mo." 
+Locya|10|17|Makanateng so araraw am masasaray sira o rarwa so ikakawaowan 72 a meysinaoli a manci no, "Mo Panirsirngen, yabo yaji ngamizing jyamen a kalamsoyan ni Satan, do namen pangozayan do ngaran mo." 
 Locya|10|18|Maniring jira si Yeso am, "Ko katenngan, ta ko nimacita rana si Satan a nimakeykai a nimakas do teyrahem a niharag na ni Ama ta do to. 
 Locya|10|19|Amizngen nyo an, ta ko na nitoro jinyo oyowyat ko an. So ikanoyong nyo makazazat do oyowyat ni Satan. So ikabo no matarek a oyowyat a makataha jinyo. Tana to kanyo meyzasag so mavowaw am ji da peyzaza inyo. 
 Locya|10|20|Am ji nyo narayan o kamizing da jinyo no kalamsoyan ni Satan an. Ta isaray nyo o na kapadket rana so ngaran nyo do teyngato ni Ama ta do to." 
@@ -2369,19 +2369,19 @@ Locya|12|59|Ko pa ciring jinyo am no si katorwan mo na o ahapen da jimo a nizpi 
 Locya|13|1|No kano nang am amyan so tao a manci nya ji Yeso so, "Yamapatanang sira o Cyadidi a tao so nakem da si Ama ta do to am na to wakwaka sira ni Pilato." 
 Locya|13|2|Maniring si Yeso am, "Manngwa, nyo ipanci sira o tao do Cyadidi a yarakorako so raraten a kano karwan da? Ori da ikakman sang? 
 Locya|13|3|Beken a akman sang. Ko pa ciring jinyo am no si ji kamo mamlis am akman kamo so sang a mawakwak. 
-Locya|13|4|No kazday na no makarang a nyatoy da no tao do Siloya am wao so ikakarwan (18) sira o nikazdayan a kapacitopos da. Ji nyo akwan o karakorako no raraten da kano meyvahay do Yelosaleng a tao an. 
+Locya|13|4|No kazday na no makarang a nyatoy da no tao do Siloya am wao so ikakarwan 18 sira o nikazdayan a kapacitopos da. Ji nyo akwan o karakorako no raraten da kano meyvahay do Yelosaleng a tao an. 
 Locya|13|5|Ko pa ciring jinyo am no si ji nyo ablisi o kapeyraraten nyo am akman kamo so sang a macitopos." 
 Locya|13|6|Meyratateng am mangononong si Yeso so pehngehngayan na sya. Maniring am, "Amyan so asa ka tao a meymowa so ovako a kayo. Mownay am naknakmen na o kapeykala na so asi na am ji makakala. 
 Locya|13|7|Maniring do lamlamsoy na am, 'Yana katlo a kawan o kayo eya yako nimowa am yapa ji nimeyyasi. So to mo nanbai sya, ta yamanlin.'
 Locya|13|8|Maniring o lamlamsoy na am, 'Ji kakman sang so nakenakem. Aidan ta pala so kasa kawan a peyveyveknen. 
 Locya|13|9|Simakseysawan a kapeyyasi na am ori o vezedan ta sya. No si ji meyyasi am ori o atbahan ta na sya.' " 
 Locya|13|10|Ipisa kapeywalam no tao am mangnanao do peyneynozyan si Yeso. 
-Locya|13|11|Amyan dang so asa ka mavakes a kovotan no kalamsoyan ni Satan. Nimeyngen a mina kawao so ikarwa (18) so awawan. Am ori o ipeyvovokoz na a ji rana meysonong so likod a tomanek. 
+Locya|13|11|Amyan dang so asa ka mavakes a kovotan no kalamsoyan ni Satan. Nimeyngen a mina kawao so ikarwa 18 so awawan. Am ori o ipeyvovokoz na a ji rana meysonong so likod a tomanek. 
 Locya|13|12|Macita na ni Yeso am tawagan na. Maniring jya am, "Mo kavakes, na nikarwan imo rana no ingingnen mo." 
 Locya|13|13|Paoptahen na o lima na ni Yeso am ji nimeyyahahay ori a matazineng rana so kataotao. Ori o nisarayan na nya ji Ama ta do to. 
 Locya|13|14|Macita na no tomalamozong no peyneynozyan si Yeso a mangiwakwak so ingingnen do ipeywalam no tao am meyoyaoya. Maniring do aro a tao am, "Yakanem araw o tamo ipeyvazay. O mangiwakwak so ingingnen rana ya am vazay do kanem araw eya. Am ori o ji pazavozi sya do ipeywalam no tao." 
 Locya|13|15|Maniring si Yeso am, "Inyo rana a mapakapyapya so nakem a tao am manngwa, nyo ji pakana o makakaday a vinyay nyo do ipeywalam no tao? 
-Locya|13|16|Yamyan do jya so sivovoong ni Apolahan a yana wao so ikarwa (18) so awawan a na nivaod ni Satan. Manngwa, marahet o kowvay so sang do ipeywalam no tao?" 
+Locya|13|16|Yamyan do jya so sivovoong ni Apolahan a yana wao so ikarwa 18 so awawan a na nivaod ni Satan. Manngwa, marahet o kowvay so sang do ipeywalam no tao?" 
 Locya|13|17|Mamizing da o ciring ni Yeso no maoya nya tao am meylatlatlat sira. Am nisaray da no aro a tao o mina vazay na jira. 
 Locya|13|18|Maniring si Yeso am, "Akman so wanjin paro o italamozong na ni Ama ta do to. Ikongo payyaingen ko sya. 
 Locya|13|19|Oyowyat na ni Ama ta do to do talamozongan na ninyo am akman so likta vettow no nappa a mowahen no tao do peymowamowan na. No amlida rana am akma raney kayo a peyvahayan no meyyasasalap." 
@@ -2431,7 +2431,7 @@ Locya|14|27|No myan so manyahey no kawakwak no kataotao da a macilolo jyaken am 
 Locya|14|28|Sino jinyo o ji nakenakem so paringen na a rako a vahay, manngwa, makanet o yamaog ko sya an? No ji makanet. 
 Locya|14|29|Ta no teyka na rana o aiyai na a paringen na a kabo rana no yamaog sya am jyabo kapakamaog pa sya. No macita da no tao am jyabo kaji da namwadan sya, 
 Locya|14|30|a manci no, 'Asyo tao eya a to nivang do vazay na a ji pakavosa.'
-Locya|14|31|No myan so asa ka panirsirngen a mapalolo so asa laksa (10,000|) tao a mangay a omarap so mapalolo so adwa laksa (20,000|) tao am jyabo kaji na naknakman so kaji da makasangahan sira. 
+Locya|14|31|No myan so asa ka panirsirngen a mapalolo so asa laksa (10,000) tao a mangay a omarap so mapalolo so adwa laksa (20,000) tao am jyabo kaji na naknakman so kaji da makasangahan sira. 
 Locya|14|32|No naknakmen na o kaji na makasangahan sira am jyabo kaji na manovoyan so asa ka tao a mangay a mapasyahahap so nakenakem da. 
 Locya|14|33|Akman kamo so sang an. Ta no si likodan nyo o makakaday a vazay nyo am ori o ikanoyong nyo a macilolo jyaken. 
 Locya|14|34|"O asin rana ya am abo karatan na an. Am no si tomavang ori am ikongo pavowin a kapait na. 
@@ -2439,10 +2439,10 @@ Locya|14|35|So ikabwata no angangayan na rana. Apyapya rana kato patpehan sya do
 Locya|15|1|O mapeyvazay so deyking a kano aro a meyraraten a tao am mai sira do tangain ni Yeso a omamizing so ciring na. 
 Locya|15|2|Am ori o nipeyyahhahes da no tao a macyagom do Vadisay a kano mangnanao no iwawalam na ni Ama ta do to. Maniring sira am, "Ikongo yana ipacihanghang do aro a meyraraten a tao." 
 Locya|15|3|Meyratateng am ipanci na jira ni Yeso o payyaingen na sya. 
-Locya|15|4|Maniring jira am, "No si myan jinyo so mapalam so asa poo (100) a kagling a kavozaw no asa am makongo so wanjin ori. Jyabo kaji na tongriyan do asyam so ipakapoo (99) a kagling a kangay na komala so nimavozaw a asa ka kagling na. 
+Locya|15|4|Maniring jira am, "No si myan jinyo so mapalam so asa poo 100 a kagling a kavozaw no asa am makongo so wanjin ori. Jyabo kaji na tongriyan do asyam so ipakapoo 99 a kagling a kangay na komala so nimavozaw a asa ka kagling na. 
 Locya|15|5|No makala na am jyabo kaji na narayan a somabway nya ioli a. 
 Locya|15|6|No ioli na rana am rarahen na o kagagan na kano kataib na kapanci na rana no, 'Ko masaray, ta ko rana nimakala o yanimavozaw a kagling ko. Sijya kamo, ta isaray tamo pa.'
-Locya|15|7|Ko pa ciring jinyo am no mamlis o asa ka meyraraten a tao am arakorako pa o sarasaray do teyngato a kano asyam so ipakapoo (99) a tanwasiwasi a tao a jyakza no kapamlis da. 
+Locya|15|7|Ko pa ciring jinyo am no mamlis o asa ka meyraraten a tao am arakorako pa o sarasaray do teyngato a kano asyam so ipakapoo 99 a tanwasiwasi a tao a jyakza no kapamlis da. 
 Locya|15|8|"No si amyan so asa ka mavakes a meynizpi so asa poo a kabo na no asa ngarnan am makongo so wanjin ori. Jyabo kaji na meyzampwan amviyas do vahay na kalan na sya. 
 Locya|15|9|No makala na am rarahen na o kagagan na kano kataib na kapanci na nya jira so, 'Ko masaray, ta ko nimakala o yanimabo a nizpi ko. Sijya kamo, ta isaray tamo pa.'
 Locya|15|10|Ko pa ciring jinyo am o tinsi na ni Ama ta do to am akman so sang a somaray no asa ka mamlis a meyraraten a tao." 
@@ -2473,8 +2473,8 @@ Locya|16|2|Mamizing no lawpan da am tawagan na a mai. Maniring jya am, 'Yamyan s
 Locya|16|3|Mamizing no lamlamsoy na am manakenakem do onowned na. 'Si pagcinen na yaken no lawpan am ikongo pa vazay ko. Si amhakakaw ko am jyabo ko oyowyat a. Si macyakakan ko am ji ko asnek. 
 Locya|16|4|No si abo vazay ko am apyapya rana o kato ko na macivahayan do manci nyaken a kagagan ko.'
 Locya|16|5|Meyratateng am mangay na kakadain sira a ipanci o nimamood do lawpan na so nizpi. Maniring do asa am, 'Yapira o nivood mo do lawpan ko.'
-Locya|16|6|Maniring am, 'Yasa poo (100) ka vakvaklit no haneng.' Maniring o lamlamsoy na am, 'O nivood mo ori am pahephepan ta, kalima na rana ngarnan (50).'
-Locya|16|7|Maniring do asa am, 'Yapira jimo.' Maniring am, 'Yasa poo (100) a kalavalavat no mogis.' Maniring o lamlamsoy na am, 'O nivood mo ori am pahephepan ta, kawao na rana ngarnan (80).'
+Locya|16|6|Maniring am, 'Yasa poo 100 ka vakvaklit no haneng.' Maniring o lamlamsoy na am, 'O nivood mo ori am pahephepan ta, kalima na rana ngarnan 50.'
+Locya|16|7|Maniring do asa am, 'Yapira jimo.' Maniring am, 'Yasa poo 100 a kalavalavat no mogis.' Maniring o lamlamsoy na am, 'O nivood mo ori am pahephepan ta, kawao na rana ngarnan 80.'
 Locya|16|8|Mamizing na no lawpan na am isaray na o lamlamsoy ori, do katey mapatak na a mangamaog so vazay a ipeypapyan na so kataotao na."Maniring pa si Yeso am, "Ko pa ciring jinyo am o ji manaralay a tao sicyakwaya am akman sang o ahahapan da so vazay da. So ikateneteneng da kano manaralay a tao. 
 Locya|16|9|Ko pa ciring jinyo am apyapya o kapanidong nyo do karawan so ipangoyongoyod da tao, ta no marateng o araraw nyo am pasdepen na inyo ni Ama ta do to do vahay na do teyngato. 
 Locya|16|10|"O ji liklik so alikey a vazay a tao am ipeyhanhan o akman sang a mapeyvazay so rako a vazay. O ji ngezkezsang no alikey a vazay a kapangalalas na am ji meyhanhanan o akman sang a mapakavos so rako a vazay. 
@@ -2510,7 +2510,7 @@ Locya|17|8|Jyabo kakman nyo sang a. Ji nyo mancyan jya o, 'Alici rana o ayob mo 
 Locya|17|9|No teyka na rana o vazay na no lamlamsoy am manngwa, isaray na no lawpan na jya? Jyabo a. 
 Locya|17|10|Akman kamo so sang an. No teyka nyo a peyvazain o vazay na jinyo ni Ama ta do to am ji kanyo mapakazwazway an. Ta adan ori a vazay no omraralay ni Ama ta do to a tao." 
 Locya|17|11|Meypangay si Yeso do Yelosaleng am meyhatay do peyyawwan no Samadiya kano Cyadidi. 
-Locya|17|12|So nyangay na do asa ka ili do dang. Amyan so asa ngarnan (10) a omlabyab so kolit a tao a mangay sominmo sya. Am ori o nipeytatanek da do marai pa, 
+Locya|17|12|So nyangay na do asa ka ili do dang. Amyan so asa ngarnan 10 a omlabyab so kolit a tao a mangay sominmo sya. Am ori o nipeytatanek da do marai pa, 
 Locya|17|13|amlololos a manci no, "Mo Yeso, Panirsirngen namen, ikasyasi mo pa yamen eya an." 
 Locya|17|14|Macita na sira ni Yeso am ipanci na jira o, "Angay kamo ipacita o kataotao nyo do mapatanatanang so nakem ji Ama ta do to." Mangay sira am todapya rana sira. 
 Locya|17|15|Maliliw na no asa ka tao jira o kanimapya na rana no kataotao na am meysinaoli pa a somaray nya ji Ama ta do to, 
@@ -2534,7 +2534,7 @@ Locya|17|32|Naknakmen nyo o mavakes na ni Lote a nimapaoli so mata na a kapeyval
 Locya|17|33|Omnakenakem so ipeypapya na tao am ji na meypapyan ori. O mawakwak no vazay ko am dompeh jira o ikavyay no pahad da. 
 Locya|17|34|Ko pa ciring jinyo am do ahep no nang do ipeysinaoli ko am o rarwa ka tao a mitkeh do asa ka ititkehan am o asa jira o ahapen ko. O asa am vezeden ko. 
 Locya|17|35|O rarwa ka mavakes a manworod so kanen da am asa ahapen ko. O asa am vezeden ko. 
-Locya|17|36|[O rarwa ka mahakay do nihakawan da am asa o ahapen ko. O asa am vezeden ko.]" 
+Locya|17|36|O rarwa ka mahakay do nihakawan da am asa o ahapen ko. O asa am vezeden ko.]" 
 Locya|17|37|Pacicin da no macinanao jya. Maniring sira am, "Mo Panirsirngen, do wanjin mangay na kasasnadan no akman sang a vazay ang." Maniring si Yeso jira am, "O yanan no nimawakwak a omalalam am ori o pacilolwan da no meyyasasalap."
 Locya|18|1|Ipanci na jira ni Yeso o payyaingen na sya ipait na sira a meynozi. 
 Locya|18|2|Maniring jira am, "Amyan do asa ka ili so mapacicici a tao. Ji na raralayan si Ama ta do to a ji mapanadnad so icyatatao na. 
@@ -2586,7 +2586,7 @@ Locya|19|4|Ori o nipalalayo na mangay do pamanongan na kangay na komalat do asa 
 Locya|19|5|Makaranes si Yeso do yanan na ori am to na nangara si Sakay. Maniring jya am, "Mo Sakay, agcin rana, ta mangay ko do vahay nyo sicyaraw eya." 
 Locya|19|6|Ori o nipeygegcin na rana ni Sakay a masaray a tomaotao si Yeso. 
 Locya|19|7|Macita da no aro a tao am marahet sira so aktokto a manci no, "Na todangai no nya do vahay no meyraraten a tao." 
-Locya|19|8|Am makaranes sira do vahay ni Sakay am taotawwen na si Yeso a kapacisirsiring na rana jya. Maniring am, "Mo Panirsirngen, to ko peyhataya o kangangay ko a itoro do ipangoyongoyod da tao. No si myan so tao a nipangamkaman ko so asa ranaw (100) am paolyan ko so apat a ranaw (400)." 
+Locya|19|8|Am makaranes sira do vahay ni Sakay am taotawwen na si Yeso a kapacisirsiring na rana jya. Maniring am, "Mo Panirsirngen, to ko peyhataya o kangangay ko a itoro do ipangoyongoyod da tao. No si myan so tao a nipangamkaman ko so asa ranaw 100 am paolyan ko so apat a ranaw 400." 
 Locya|19|9|Maniring si Yeso jya am, "Yana nipanta inyo ni Ama ta do to so vayo a onowned nyo a asa ka vahay. Ta meyyangay kanyo a kano ineynapo nyo a si Apolahan a meyhanhan ni Ama ta do to. 
 Locya|19|10|O ko nyai rana ya am yako meykala so meyraraten a tao a kapatastas ko sira do teyngato." 
 Locya|19|11|Makapya sira omamizing so ciring na ni Yeso am mangamaog so payyaingen na ciring na. Am no kanang am makeykai rana si Yeso a makaranes do Yelosaleng. Naknakmen da am, "Ala oya rana o papwen na so katalamozong na nyaten ni Ama ta do to." 
@@ -2799,7 +2799,7 @@ Locya|23|13|Nilovot na sira ni Pilato o panipanirsirngen no mapatanatanang so na
 Locya|23|14|Maniring jira am, "O nyo nyai jyaken a tao eya am yakmey yamapasozisozi so aro a tao. Am ko pacicin do nyo tangain am ko ji makakala so yasa ka raraten na. 
 Locya|23|15|Si Helote rana am akman sang, ta abo makala na raraten na. Am ori o nyayyan na nya do jya. So na ikabwata no raraten na a iwakwak ta sya. 
 Locya|23|16|Kapanci ko no tao a somipsipzot jya kapasaway ko rana sya." 
-Locya|23|17|[Mangday no akman sang kapamaring da so kanen o kato na mangozayan do pamnekan da no tao a mapasaway so asa ka nipteng da tao.] 
+Locya|23|17|Mangday no akman sang kapamaring da so kanen o kato na mangozayan do pamnekan da no tao a mapasaway so asa ka nipteng da tao.] 
 Locya|23|18|Mamizing da no aro a tao o ciriciring na am ikavevek da amlololos a manci no, "Zakaten nyo a kapasaway mo si Palapa a itoro mo jyamen." 
 Locya|23|19|Si Palapa rana am mapasobsobna do seyvo a kapanwakwak na so tao. Am ori o niptengan da sya. 
 Locya|23|20|Naknakmen na ni Pilato o kapasaway na si Yeso. Am ori o nipakekan na so aro a tao. 
@@ -2961,7 +2961,7 @@ Yowani|2|16|Maniring do manazang no hato a tao am, "Powbot kamo na o nyo ipanaza
 Yowani|2|17|Karahan am manakem da no macinanao jya o ciring do Seysyo. O ciring rana am, "Mo Ama do to. Yakmey apoy o onowned ko so kakwakwat a yamnakenakem so yararalayan nimo." 
 Yowani|2|18|Pacicin da no panipanirsirngen no tao do Yotay. Maniring sira am, "Pacittan pala o yongkad mo a vazay a apo ji Ama ta do to, do mo kato mapeyvwakan so tao do rako a panaralayan." 
 Yowani|2|19|Maniring si Yeso am, "Tana kavakavahen nyo o panaralayan eya am cyaha, ta si katlo na araw am patanken ko." 
-Yowani|2|20|Maniring sira am, "Yanem o ikasikalima na (46) kawan no nipatnek so rako a panaralayan am ikongo mo pancyan no kapakatlo mo a araw a mapatanek sya." 
+Yowani|2|20|Maniring sira am, "Yanem o ikasikalima na 46 kawan no nipatnek so rako a panaralayan am ikongo mo pancyan no kapakatlo mo a araw a mapatanek sya." 
 Yowani|2|21|Am o paingan ni Yeso so ciring na am kataotao na. 
 Yowani|2|22|Mirwa mavyay si Yeso am manakem da na no macinanao jya o mina ciring na. Ori o nyanoyngan da na do Seysyo a kano ciring na ni Yeso. 
 Yowani|2|23|Amyan si Yeso do Yelosaleng a macipamaring so kanen do Iyeci am aro tao a nimakacita so vazay na a yongkad no kapo na ji Ama ta do to. Am ori o nyanoyngan da rana jya. 
@@ -3061,7 +3061,7 @@ Yowani|5|1|Makanateng so araraw am macinao do pamarmarngan da so kanen no tao do
 Yowani|5|2|Amyan do Yelosaleng so ngaranan da Pazezevngen no kagling. Am amyan do siri na so meybebneng a ranom. O ingaran da jya no Sipolay a tao am Peyseta. O livolivon no meybebneng a ranom am meykalima o tezantehed do dang. 
 Yowani|5|3|O tezantehed rana ori am meycyeyreyray sira dang o meykeyngeyngen a tao. Sira rana ori am amyan jira ang so mavota kano ji makakalam a kano ji makapeygonagonay a tao. [Sira rana ori am panalahen da o kapeygonagonay no ranom. 
 Yowani|5|4|Ta o tinsi ni Ama ta do to am mangay na gonagonain o ranom ang. Anoyngan da o kato na rana apyan no ingingnen no ney manma a somivoz do ranom ang.] 
-Yowani|5|5|Amyan dang so asa ka tao a nimeyngen so wao so ikasikapat (38) so awawan. 
+Yowani|5|5|Amyan dang so asa ka tao a nimeyngen so wao so ikasikapat 38 so awawan. 
 Yowani|5|6|Macita na ori ni Yeso a ji meyvangon am katenngan na o kownay na rana nimeyngen. Maniring jya am, "Kokay. Mo ikakza o kavonas rana no ingingnen mo an?" 
 Yowani|5|7|Maniring o meyngen a tao ori am, "Mo kahakay, no kapeygonagonay no ranom am yabo yamarilaw nyaken a yamapangay jyaken do ranom. Yako naknakmen o yako kagonagonay so peyvongvongwan ko a somivoz do ranom am yarana myan so tao a yanimanmanma pa ka nyaken a nisomivoz." 
 Yowani|5|8|Maniring si Yeso jya am, "Tanek rana kahap mo na so atpil mo a omalam." 
@@ -3113,7 +3113,7 @@ Yowani|6|6|O peycirngan na sang am ileylamdam na si Veydipo. Ta katenngan ni Yes
 Yowani|6|7|Maniring si Veydipo am, "Tana meyvazay ko so kasisi no awan am ji pa makanet a ipanazang so ipakan so aro a tao ito." 
 Yowani|6|8|Maniring o asa ka macinanao jya meyngaran so Antele a kakteh ni Simong Pite am, 
 Yowani|6|9|"Yamyan jya so asa ka kanakan a yanimeyotwan so yalima ka myanpaw a kano yadwa ka among. Am no si pongden do aro a tao am jyabo kaponged na jira." 
-Yowani|6|10|Maniring jira si Yeso am, "Pancyan kamo sira amlisna." Am katamtamkan o yanan da. Karahan am mamimin rana sira amlisna. O vilang da no mahakay am kakaliman a ranaw (5000) sira. 
+Yowani|6|10|Maniring jira si Yeso am, "Pancyan kamo sira amlisna." Am katamtamkan o yanan da. Karahan am mamimin rana sira amlisna. O vilang da no mahakay am kakaliman a ranaw (5000 sira. 
 Yowani|6|11|Hapen na ni Yeso o myanpaw a kasaray na nya ji Ama ta do to. Karahan am pongden da rana no macinanao jya do meykalyalipenpen a amlisna tao. Akman sang o among a nivonong da, kapakapya da rana koman. 
 Yowani|6|12|Mabsoy rana sira am maniring si Yeso do macinanao jya am, "Peykakasa kamo na o atda da. Ta ingbeywan." 
 Yowani|6|13|Karahan am peykakasahen da na o atda da do alima ka myanpaw ang. Peysinsinmowen da o ji da nimimina am nipno da o adwa so ikarwa a yala. 
@@ -3227,7 +3227,7 @@ Yowani|7|49|Peydednan na sira no peyoyaoyyan na ni Ama ta do to omanoyong jya ta
 Yowani|7|50|Amyan jira ang so meyngaran so Niketemo. Iya rana ori am nimangay na nipacici si Yeso no kakwa pa. Maniring jira am, 
 Yowani|7|51|"Beken a iwawalam ta o kato mancyan no tao a meyraraten a jya nimamizing so ciring a jya nimacita meyraraten." 
 Yowani|7|52|Maniring sira am, "Yaka tao do Cyadidi saon. Cita pala do Seysyo. Jyabo o yasa ka panoyonoywan na so ciring ni Ama ta do to a nimapo do Cyadidi a." 
-Yowani|7|53|[Mamimin sira o aro a tao amrateng rana do kavahayan da.
+Yowani|7|53|Mamimin sira o aro a tao amrateng rana do kavahayan da.
 Yowani|8|1|Am nimangay si Yeso do meyngaran so Kanlan a tokon. 
 Yowani|8|2|Apnezak do ikadwa na araw am meysinaoli a mangay do rako a panaralayan. Aro sira tao a mangay komala sya. Karahan am amlisna si Yeso amnanao sira. 
 Yowani|8|3|No kanang am nyangay da no mangnanao no iwawalam ni Moyse a tao a kano tao a macyagom do Vadisay o asa ka mavakes. Iya rana am nisomagpyan a nyapisan da. Karahan am patanken da ori do tangain ni Yeso. 
@@ -3284,7 +3284,7 @@ Yowani|8|53|Yamo kadketan a ipanci o mo kahamahama pa kani Apolahan a inapo name
 Yowani|8|54|Maniring si Yeso am, "No si azwain ko o kataotao ko am abo peypeypangayan no akman sang a azwazway. O yazomwazway jyaken am si Ama a yanyo abneken a Tao nyo do to. 
 Yowani|8|55|Iya rana am nyo jyatenngi. Am ko katenngan. No si ipanci ko o kaji ko makatenngan jya am akman ko jinyo ori a mangalalas. Am ko katenngan a yamahap so nanao na. 
 Yowani|8|56|Tod na ji nala o araraw no yai ko ni Apolahan a inapo nyo. Katenngan na o kai ko am masaray rana." 
-Yowani|8|57|Maniring sira jya o tao do Yotay am, "Ala yaka pa jyanet a yasikalima (50) so kakawakawan eya an. Manngwa, manoyong kanimakacita mo rana si Apolahan an?" 
+Yowani|8|57|Maniring sira jya o tao do Yotay am, "Ala yaka pa jyanet a yasikalima 50 so kakawakawan eya an. Manngwa, manoyong kanimakacita mo rana si Apolahan an?" 
 Yowani|8|58|Maniring si Yeso am, "To ko na macitangayan jinyo am ji pa nimatazak a tao si Apolahan am amyan ko rana." 
 Yowani|8|59|Mangap sira so veysen a igseh da ji Yeso am kanitomayo na makowbot do rako a panaralayan.
 Yowani|9|1|Mangonong si Yeso do rarahan am makacita so nimeycicinda no kalyalikey na mavota tao. 
@@ -3754,7 +3754,7 @@ Yowani|21|7|Maniring ji Pite o ney kaglaw na ni Yeso a macinanao jya am, "Si Yes
 Yowani|21|8|Karwan da am kaoden da o vazangay makarala. Karahan am alikey rana kaji da makaransan do pamsan na am lolwen da na o tawaz a yanan no aro a among. 
 Yowani|21|9|Makaranes sira do pamsan na am macita da o myanpaw a kano inmala rana a yanan no panazaban ni Yeso so among. 
 Yowani|21|10|Maniring si Yeso jira am, "Pangap kamo pa do yanyo nimamong so apeleh." 
-Yowani|21|11|So nyangay na ni Simong Pite do vazangay amngingit so tawaz a ipakarala. Am mamimin a rarako a among o nimatawaz. Vilangan da na am atlo o ikasikanem na so ikarwa poo (153). Am jya nimapising o tawaz da no among ang. 
+Yowani|21|11|So nyangay na ni Simong Pite do vazangay amngingit so tawaz a ipakarala. Am mamimin a rarako a among o nimatawaz. Vilangan da na am atlo o ikasikanem na so ikarwa poo 153. Am jya nimapising o tawaz da no among ang. 
 Yowani|21|12|Maniring si Yeso jira am, "Sijya kamo a karyag nyo." Am abo o asa ka tao do macinanao jya o makadket jya pacicin, ta katenngan da o ka si Yeso na. 
 Yowani|21|13|Karahan am mangay jira si Yeso a kavonong na so myanpaw jira. Akman sang o among a vonongen na jira. 
 Yowani|21|14|Ipitlo na rana ya ni Yeso a mapacita do macinanao jya no keypirwa na rana mavyay. 

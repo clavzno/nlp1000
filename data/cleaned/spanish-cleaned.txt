@@ -90,7 +90,8 @@ San Mateo|4|23|Y rodeó Jesús toda Galilea, enseñando en las sinagogas de ello
 San Mateo|4|24|Y corría su fama por toda Siria; y le traían todos los que tenían mal; los tomados de diversas enfermedades y tormentos, y los endemoniados, y lunáticos, y paralíticos, y los sanaba. 
 San Mateo|4|25|Y le siguió gran multitud de Galilea y de Decápolis y de Jerusalén y de Judea y del otro lado del Jordán.
 San Mateo|5|1|Y viendo la multitud, subió en el monte; y sentándose, le acercaron a él sus discípulos. 
-San Mateo|5|2|Y abriendo su boca, les enseñaba, diciendo: 3|Bienaventurados los pobres en espíritu; porque de ellos es el Reino de los cielos. 
+San Mateo|5|2|Y abriendo su boca, les enseñaba, diciendo:
+San Mateo|5|3|Bienaventurados los pobres en espíritu; porque de ellos es el Reino de los cielos. 
 San Mateo|5|4|Bienaventurados los que lloran (enlutados), porque ellos recibirán consolación. 
 San Mateo|5|5|Bienaventurados los mansos; porque ellos recibirán la tierra por heredad. 
 San Mateo|5|6|Bienaventurados los que tienen hambre y sed de justicia (o rectitud), porque ellos serán saciados. 
@@ -332,7 +333,7 @@ San Mateo|11|16|Mas ¿a quién compararé esta generación? Es semejante a los m
 San Mateo|11|17|Y dicen: Os tañimos flauta, y no bailasteis; os endechamos, y no lamentasteis. 
 San Mateo|11|18|Porque vino Juan, que ni comía ni bebía, y dicen: Demonio tiene. 
 San Mateo|11|19|Vino el Hijo del hombre, que come y bebe, y dicen: He aquí un hombre glotón y bebedor de vino, amigo de publicanos y de pecadores. Mas la sabiduría es aprobada por sus hijos. 
-San Mateo|11|20|Entonces comenzó a reconvenir el beneficio a las ciudades en las cuales habían sido hechas muchas de sus maravillas, porque no se habían enmendado, diciendo: 21|¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón fueran hechas las maravillas que han sido hechas en vosotras, en otro tiempo se hubieran arrepentido en cilicio y en ceniza. 
+San Mateo|11|20|Entonces comenzó a reconvenir el beneficio a las ciudades en las cuales habían sido hechas muchas de sus maravillas, porque no se habían enmendado, diciendo: 21¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón fueran hechas las maravillas que han sido hechas en vosotras, en otro tiempo se hubieran arrepentido en cilicio y en ceniza. 
 San Mateo|11|22|Por tanto yo os digo, que a Tiro y a Sidón será más tolerable el castigo en el día del juicio, que a vosotras. 
 San Mateo|11|23|Y tú, Capernaum, que eres levantada hasta el cielo, hasta el Hades serás abatida; porque si en los de Sodoma fueran hechas las maravillas que han sido hechas en ti, hubiera quedado hasta el día de hoy. 
 San Mateo|11|24|Por tanto yo os digo, que a la tierra de los de Sodoma será más tolerable el castigo en el día del juicio, que a ti. 
@@ -486,7 +487,7 @@ San Mateo|14|33|Entonces los que estaban en el barco, vinieron y le adoraron, di
 San Mateo|14|34|Y llegando al otro lado, vinieron a la tierra de Genesaret. 
 San Mateo|14|35|Cuando le conocieron los varones de aquel lugar, enviaron por toda aquella tierra alrededor, y trajeron a él todos los enfermos; 
 San Mateo|14|36|y le rogaban que les dejara tocar solamente el borde de su manto; y todos los que le tocaron, fueron salvos.
-San Mateo|15|1|Entonces llegaron a Jesús ciertos escribas y fariseos de Jerusalén, diciendo: 2|¿Por qué tus discípulos traspasan la tradición de los ancianos? Porque no se lavan las manos cuando comen pan. 
+San Mateo|15|1|Entonces llegaron a Jesús ciertos escribas y fariseos de Jerusalén, diciendo: 2¿Por qué tus discípulos traspasan la tradición de los ancianos? Porque no se lavan las manos cuando comen pan. 
 San Mateo|15|3|Y él respondiendo, les dijo: ¿Por qué también vosotros traspasáis el mandamiento de Dios por vuestra tradición? 
 San Mateo|15|4|Porque Dios mandó, diciendo: Honra a tu padre y a tu madre, y el que maldijere al padre o a la madre, muera irremisiblemente. 
 San Mateo|15|5|Pero vosotros decís: Cualquiera que dijere al padre o a la madre: Es ya ofrenda mía a Dios todo aquello con que pudiera ayudarte,
@@ -610,7 +611,7 @@ San Mateo|18|28|Y saliendo aquel esclavo, halló a uno de sus conesclavos, que l
 San Mateo|18|29|Entonces su conesclavo, postrándose a sus pies, le rogaba, diciendo: Detén la ira para conmigo, y yo te lo pagaré todo. 
 San Mateo|18|30|Mas él no quiso; sino fue, y le echó en la cárcel hasta que pagara la deuda. 
 San Mateo|18|31|Y viendo sus conesclavos lo que pasaba, se entristecieron mucho, y viniendo, declararon a su señor todo lo que había pasado. 
-San Mateo|18|32|Entonces llamándole su señor, le dice: Esclavo malvado, toda aquella deuda te perdoné, porque me rogaste: 33|¿No te convenía también a ti tener misericordia de tu conesclavo, como también yo tuve misericordia de ti? 
+San Mateo|18|32|Entonces llamándole su señor, le dice: Esclavo malvado, toda aquella deuda te perdoné, porque me rogaste: 33¿No te convenía también a ti tener misericordia de tu conesclavo, como también yo tuve misericordia de ti? 
 San Mateo|18|34|Entonces su señor, enojado, le entregó a los verdugos, hasta que pagara todo lo que le debía. 
 San Mateo|18|35|Así también hará con vosotros mi Padre celestial, si no perdonareis de vuestros corazones cada uno a su hermano sus ofensas.
 San Mateo|19|1|Y aconteció que acabando Jesús estas palabras, se pasó de Galilea, y vino a los términos de Judea, pasado el Jordán. 
@@ -1316,7 +1317,7 @@ San Marcos|6|55|Y recorriendo toda la tierra de alrededor, comenzaron a traer de
 San Marcos|6|56|Y dondequiera que entraba, en aldeas, o ciudades, o heredades, ponían en las calles a los que estaban enfermos, y le rogaban que les dejara tocar siquiera el borde de su vestido; y todos los que le tocaban eran salvos.
 San Marcos|7|1|Y se juntaron a él fariseos, y algunos de los escribas, que habían venido de Jerusalén; 
 San Marcos|7|2|los cuales, viendo a algunos de sus discípulos comer pan con manos comunes, es a decir, no lavadas, los condenaban. 
-San Marcos|7|3|(Porque los fariseos y todos los judíos, teniendo la tradición de los ancianos, si muchas veces no se lavan las manos, no comen. 
+San Marcos|7|3|Porque los fariseos y todos los judíos, teniendo la tradición de los ancianos, si muchas veces no se lavan las manos, no comen. 
 San Marcos|7|4|Y volviendo de la plaza, si no se lavaren, no comen. Y muchas otras cosas hay, que tomaron para guardar, como las lavaduras de los vasos de beber, y de los jarros, y de los vasos de metal, y de los lechos.) 
 San Marcos|7|5|Y le preguntaron los fariseos y los escribas: ¿Por qué tus discípulos no andan conforme a la tradición de los ancianos, sino que comen pan con manos sin lavar? 
 San Marcos|7|6|Y respondiendo él, les dijo: Hipócritas, bien profetizó de vosotros Isaías, como está escrito: Este pueblo con los labios me honra, mas su corazón lejos está de mí. 
@@ -1846,7 +1847,7 @@ San Lucas|2|19|Mas María guardaba todas estas cosas, meditándolas en su coraz�
 San Lucas|2|20|Y se volvieron los pastores glorificando y alabando a Dios de todas las cosas que habían oído y visto, como les había sido dicho. 
 San Lucas|2|21|Y pasados los ocho días para circuncidar al niño, llamaron su nombre JESÚS; el cual le fue puesto por el ángel antes que él fuera concebido en el vientre. 
 San Lucas|2|22|Y cuando se cumplieron los días de su purificación, conforme a la ley de Moisés, le trajeron a Jerusalén para presentarle al Señor,
-San Lucas|2|23|(Como está escrito en la ley del Señor: Todo varón que abriere la matriz, será santo al Señor), 
+San Lucas|2|23|Como está escrito en la ley del Señor: Todo varón que abriere la matriz, será santo al Señor), 
 San Lucas|2|24|y para dar la ofrenda, conforme a lo que está dicho en la ley del Señor: un par de tórtolas, o dos palominos. 
 San Lucas|2|25|Y he aquí, había un hombre en Jerusalén, llamado Simeón, y este hombre, justo y pío, esperaba la consolación de Israel; y el Espíritu Santo era sobre él. 
 San Lucas|2|26|Y había recibido respuesta del Espíritu Santo, que no vería la muerte antes que viera al Cristo del Señor. 
@@ -1858,7 +1859,7 @@ San Lucas|2|31|la cual has aparejado en presencia de todos los pueblos;
 San Lucas|2|32|lumbre para ser revelada a los gentiles, y la gloria de tu pueblo Israel. 
 San Lucas|2|33|Y José y su madre estaban maravillados de las cosas que se decían de él. 
 San Lucas|2|34|Y los bendijo Simeón, y dijo a su madre María: He aquí, éste es puesto para caída y para levantamiento de muchos en Israel; y para señal a la que será contradicho;
-San Lucas|2|35|(y una espada traspasará tu misma alma), para que sean manifestados los pensamientos de muchos corazones. 
+San Lucas|2|35|y una espada traspasará tu misma alma), para que sean manifestados los pensamientos de muchos corazones. 
 San Lucas|2|36|Estaba también allí Ana, profetisa, hija de Fanuel, de la tribu de Aser; la cual había venido en grande edad, y había vivido con su marido siete años desde su virginidad; 
 San Lucas|2|37|y era viuda hacía ochenta y cuatro años, que no se apartaba del Templo, sirviendo de noche y de día con ayunos y oraciones. 
 San Lucas|2|38|Y ésta, sobreviniendo en la misma hora, juntamente confesaba al Señor, y hablaba de él a todos los que esperaban la redención en Jerusalén. 
@@ -2124,7 +2125,7 @@ San Lucas|8|25|Y les dijo: ¿Qué es de vuestra fe? Y atemorizados, se maravilla
 San Lucas|8|26|Y navegaron a la tierra de los gadarenos, que está delante de Galilea. 
 San Lucas|8|27|Y saliendo él a tierra, le vino al encuentro de la ciudad un hombre que tenía demonios ya de mucho tiempo; y no vestía vestido, ni estaba en casa, sino por los sepulcros. 
 San Lucas|8|28|El cual, cuando vio a Jesús, exclamó y se postró delante de él, y dijo a gran voz: ¿Qué tengo yo contigo, Jesús, Hijo del Dios Altísimo? Te ruego que no me atormentes. 
-San Lucas|8|29|(Porque mandaba al espíritu inmundo que saliera del hombre, porque ya de mucho tiempo le arrebataba; y le guardaban preso con cadenas y grillos; mas rompiendo las prisiones, era agitado del demonio por los desiertos.) 
+San Lucas|8|29|Porque mandaba al espíritu inmundo que saliera del hombre, porque ya de mucho tiempo le arrebataba; y le guardaban preso con cadenas y grillos; mas rompiendo las prisiones, era agitado del demonio por los desiertos.) 
 San Lucas|8|30|Y le preguntó Jesús, diciendo: ¿Qué nombre tienes? Y él dijo: Legión. Porque muchos demonios habían entrado en él. 
 San Lucas|8|31|Y le rogaban que no les mandara ir al abismo. 
 San Lucas|8|32|Y había allí un hato de muchos puercos que pacían en el monte; y le rogaron que los dejara entrar en ellos; y los dejó. 
@@ -2441,7 +2442,7 @@ San Lucas|14|34|Buena es la sal; mas si la sal fuere desvanecida, ¿con qué se 
 San Lucas|14|35|Ni para la tierra, ni para el muladar es buena; fuera la arrojan. Quien tiene oídos para oír, oiga.
 San Lucas|15|1|Y se llegaban a él todos los publicanos y pecadores a oírle. 
 San Lucas|15|2|Y murmuraban los fariseos y los escribas, diciendo: Este a los pecadores recibe, y con ellos come. 
-San Lucas|15|3|Y él les refirió esta parábola, diciendo: 4|¿Qué hombre de vosotros, teniendo cien ovejas, si perdiere una de ellas, no deja las noventa y nueve en el desierto, y va a la que se perdió, hasta que la halle? 
+San Lucas|15|3|Y él les refirió esta parábola, diciendo: 4¿Qué hombre de vosotros, teniendo cien ovejas, si perdiere una de ellas, no deja las noventa y nueve en el desierto, y va a la que se perdió, hasta que la halle? 
 San Lucas|15|5|Y hallada, la pone sobre sus hombros gozoso; 
 San Lucas|15|6|y viniendo a casa, junta a los amigos y a los vecinos, diciéndoles: Regocijad conmigo, porque he hallado mi oveja que se había perdido. 
 San Lucas|15|7|Os digo, que así habrá más gozo en el cielo de un pecador que se enmienda, que de noventa y nueve justos, que no tienen necesidad de enmendarse. 
@@ -2801,9 +2802,9 @@ San Lucas|23|13|Entonces Pilato, convocando los príncipes de los sacerdotes, y 
 San Lucas|23|14|les dijo: Me habéis presentado a éste por hombre que desvía al pueblo; y he aquí, preguntando yo delante de vosotros, no he hallado culpa alguna en este hombre de aquellas de que le acusáis. 
 San Lucas|23|15|Y ni aun Herodes; porque os remití a él, y he aquí, ninguna cosa digna de muerte ha hecho. 
 San Lucas|23|16|Le soltaré, pues, castigado. 
-San Lucas|23|17|(Y tenía necesidad de soltarles uno en la fiesta.) 
+San Lucas|23|17|Y tenía necesidad de soltarles uno en la fiesta.) 
 San Lucas|23|18|Mas toda la multitud dio voces a una, diciendo: Quita a éste, y suéltanos a Barrabás. 
-San Lucas|23|19|(El cual había sido echado en la cárcel por una sedición hecha en la ciudad, y una muerte.) 
+San Lucas|23|19|El cual había sido echado en la cárcel por una sedición hecha en la ciudad, y una muerte.) 
 San Lucas|23|20|Y les habló otra vez Pilato, queriendo soltar a Jesús. 
 San Lucas|23|21|Pero ellos volvieron a dar voces, diciendo: Cuélguenle, cuélguenle. 
 San Lucas|23|22|Y él les dijo la tercera vez: ¿Por qué? ¿Qué mal ha hecho éste? Ninguna culpa de muerte he hallado en él; le castigaré, pues, y le soltaré. 
@@ -2835,7 +2836,7 @@ San Lucas|23|47|Cuando el centurión vio lo que había acontecido, dio gloria a 
 San Lucas|23|48|Y toda la multitud de los que estaban presentes en este espectáculo, viendo lo que había acontecido, se volvían hiriendo sus pechos. 
 San Lucas|23|49|Mas todos sus conocidos, y las mujeres que le habían seguido desde Galilea, estaban lejos mirando estas cosas. 
 San Lucas|23|50|Y he aquí un varón llamado José, el cual era senador, varón bueno y justo,
-San Lucas|23|51|(el cual no había consentido en el consejo ni en los hechos de ellos), de Arimatea, ciudad de la Judea, el cual también esperaba el Reino de Dios. 
+San Lucas|23|51|el cual no había consentido en el consejo ni en los hechos de ellos), de Arimatea, ciudad de la Judea, el cual también esperaba el Reino de Dios. 
 San Lucas|23|52|Este llegó a Pilato, y pidió el cuerpo de Jesús. 
 San Lucas|23|53|Y quitado, lo envolvió en una sábana, y le puso en un sepulcro que era labrado de piedra, en el cual ninguno aún había sido puesto. 
 San Lucas|23|54|Y era día de la preparación de la Pascua; y estaba para rayar el sábado. 
@@ -3007,13 +3008,13 @@ San Juan|3|34|Porque el que Dios envió, las palabras de Dios habla; porque no l
 San Juan|3|35|El Padre ama al Hijo, y todas las cosas dio en su mano. 
 San Juan|3|36|El que cree en el Hijo, tiene vida eterna; mas el que al Hijo es desobediente, no verá la vida, sino que la ira de Dios permanece sobre él.
 San Juan|4|1|De manera que cuando el Señor supo cómo los fariseos habían oído que Jesús hacía discípulos y bautizaba más que Juan,
-San Juan|4|2|(aunque Jesús no bautizaba, sino sus discípulos), 
+San Juan|4|2|aunque Jesús no bautizaba, sino sus discípulos), 
 San Juan|4|3|dejó a Judea, y se fue otra vez a Galilea. 
 San Juan|4|4|Y era necesario que pasará por Samaria. 
 San Juan|4|5|Vino, pues, a una ciudad de Samaria que se llamaba Sicar, junto a la heredad que Jacob dio a José su hijo. 
 San Juan|4|6|Y estaba allí la fuente de Jacob. Pues Jesús, cansado del camino, así se sentó a la fuente. Era como la hora sexta. 
 San Juan|4|7|Vino una mujer de Samaria a sacar agua; y Jesús le dice: Dame de beber. 
-San Juan|4|8|(Porque sus discípulos habían ido a la ciudad a comprar de comer.) 
+San Juan|4|8|Porque sus discípulos habían ido a la ciudad a comprar de comer.) 
 San Juan|4|9|Y la mujer samaritana le dice: ¿Cómo tú, siendo judío, me pides a mí de beber, que soy mujer samaritana? Porque los judíos no se tratan con los samaritanos. 
 San Juan|4|10|Respondió Jesús y le dijo: Si conocieras el don de Dios, y quién es el que te dice: Dame de beber; tú pedirías de él, y él te daría agua viva. 
 San Juan|4|11|La mujer le dice: Señor, no tienes con qué sacarla, y el pozo es hondo; ¿de dónde, pues, tienes el agua viva?
@@ -3216,7 +3217,7 @@ San Juan|7|35|Entonces los judíos dijeron entre sí: ¿A dónde se ha de ir és
 San Juan|7|36|¿Qué dicho es éste que dijo: Me buscaréis, y no me hallaréis; y donde yo estaré, vosotros no podréis venir?
 San Juan|7|37|Mas en el postrer día, el día grande de la Fiesta, se puso de pie y clamó, diciendo: Si alguno tiene sed, venga a mí y beba. 
 San Juan|7|38|El que cree en mí, como dice la Escritura, ríos de agua viva correrán de su vientre. 
-San Juan|7|39|(Y esto dijo del Espíritu que habían de recibir los que creyeran en él; porque aún no era dado el Espíritu Santo, porque Jesús aún no era glorificado.) 
+San Juan|7|39|Y esto dijo del Espíritu que habían de recibir los que creyeran en él; porque aún no era dado el Espíritu Santo, porque Jesús aún no era glorificado.) 
 San Juan|7|40|Entonces muchos del pueblo, oyendo este dicho, decían: Verdaderamente éste es el profeta. 
 San Juan|7|41|Otros decían: Este es el Cristo. Algunos sin embargo decían: ¿De Galilea ha de venir el Cristo?
 San Juan|7|42|¿No dice la Escritura, que de la simiente de David, y de la aldea de Belén, de donde era David, vendrá el Cristo? 
@@ -3227,7 +3228,7 @@ San Juan|7|46|Los servidores respondieron: Nunca ha hablado nadie así como este
 San Juan|7|47|Entonces los fariseos les respondieron: ¿Habéis sido también vosotros engañados?
 San Juan|7|48|¿Ha creído en él alguno de los príncipes, o de los fariseos? 
 San Juan|7|49|Sino este pueblo que no sabe la ley, malditos son. 
-San Juan|7|50|Les dice Nicodemo (el que vino a él de noche, el cual era uno de ellos): 51|¿Nuestra ley juzga por ventura a un hombre, si primero no oyere de él, y entendiere lo que ha hecho? 
+San Juan|7|50|Les dice Nicodemo (el que vino a él de noche, el cual era uno de ellos): 51¿Nuestra ley juzga por ventura a un hombre, si primero no oyere de él, y entendiere lo que ha hecho? 
 San Juan|7|52|Respondieron y le dijeron: ¿No eres tú también galileo? Escudriña y ve que de Galilea nunca se levantó profeta. 
 San Juan|7|53|Y se fue cada uno a su casa.
 San Juan|8|1|Y Jesús se fue al monte de las Olivas. 
@@ -3373,7 +3374,7 @@ San Juan|10|40|Y se volvió al otro lado del Jordán, a aquel lugar donde primer
 San Juan|10|41|Y muchos venían a él, y decían que Juan, a la verdad, ninguna señal hizo; mas todo lo que Juan dijo de éste, era verdad. 
 San Juan|10|42|Y muchos creyeron allí en él.
 San Juan|11|1|Estaba entonces enfermo uno llamado Lázaro, de Betania, la aldea de María y de Marta su hermana. 
-San Juan|11|2|(Y María, cuyo hermano Lázaro estaba enfermo, fue la que ungió al Señor con ungüento, y limpió sus pies con sus cabellos). 
+San Juan|11|2|Y María, cuyo hermano Lázaro estaba enfermo, fue la que ungió al Señor con ungüento, y limpió sus pies con sus cabellos). 
 San Juan|11|3|Enviaron, pues, sus hermanas a él, diciendo: Señor, he aquí, el que amas está enfermo. 
 San Juan|11|4|Y oyéndolo Jesús, dijo: Esta enfermedad no es para muerte, sino para gloria de Dios, para que el Hijo de Dios sea glorificado por ella. 
 San Juan|11|5|Y amaba Jesús a Marta, y a su hermana, y a Lázaro. 
@@ -3401,7 +3402,7 @@ San Juan|11|26|Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Cr
 San Juan|11|27|Le dice: Sí Señor; yo he creído que tú eres el Cristo, el Hijo de Dios, que has venido al mundo. 
 San Juan|11|28|Y dicho esto, se fue, y llamó en secreto a María su hermana, diciendo: El Maestro está aquí y te llama. 
 San Juan|11|29|Ella, cuando lo oyó, se levantó prestamente y vino a él. 
-San Juan|11|30|(Que aún no había llegado Jesús a la aldea, mas estaba en aquel lugar donde Marta le había salido a recibir.) 
+San Juan|11|30|Que aún no había llegado Jesús a la aldea, mas estaba en aquel lugar donde Marta le había salido a recibir.) 
 San Juan|11|31|Entonces los judíos que estaban en casa con ella, y la consolaban, como vieron que María se había levantado prestamente, y había salido, la siguieron, diciendo: Va al sepulcro a llorar allí. 
 San Juan|11|32|Mas María, como vino donde estaba Jesús, viéndole, se derribó a sus pies, diciéndole: Señor, si hubieras estado aquí, no hubiera muerto mi hermano. 
 San Juan|11|33|Jesús entonces, como la vio llorando, y a los judíos que habían venido juntamente con ella llorando, se embraveció en Espíritu, se alborotó a sí mismo, 
@@ -3432,7 +3433,7 @@ San Juan|11|57|Y los sumos sacerdotes y los fariseos habían dado mandamiento, q
 San Juan|12|1|Jesús, pues, seis días antes de la Pascua, vino a Betania, donde Lázaro había sido muerto, al cual Jesús había resucitado de los muertos. 
 San Juan|12|2|Y le hicieron allí una cena y Marta servía, y Lázaro era uno de los que estaban sentados a la mesa juntamente con él. 
 San Juan|12|3|Entonces María tomó una libra de ungüento de nardo líquido, de mucho precio, y ungió los pies de Jesús, y limpió sus pies con sus cabellos; y la casa se llenó del olor del ungüento. 
-San Juan|12|4|Y dijo uno de sus discípulos, Judas Iscariote, hijo de Simón, el que le había de entregar: 5|¿Por qué no se ha vendido este ungüento por trescientos denarios, y se dio a los pobres? 
+San Juan|12|4|Y dijo uno de sus discípulos, Judas Iscariote, hijo de Simón, el que le había de entregar: 5¿Por qué no se ha vendido este ungüento por trescientos denarios, y se dio a los pobres? 
 San Juan|12|6|Mas dijo esto, no por el cuidado que él tenía de los pobres, sino porque era ladrón, y tenía la bolsa, y sustraía de lo que se echaba en ella. 
 San Juan|12|7|Entonces Jesús dijo: Déjala; para el día de mi sepultura ha guardado esto; 
 San Juan|12|8|porque a los pobres siempre los tenéis con vosotros, mas a mí no siempre me tendréis. 

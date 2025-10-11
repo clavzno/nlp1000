@@ -2147,8 +2147,8 @@ Lukas|9|9|Paꞌin si Herod, "Si Yahiya bakas daꞌakku pinunggelan. Sine enteꞌ
 Lukas|9|10|Na, meꞌ aꞌa bakas kawakilan weꞌ si Isahin magtipun ne balik pī si iye. Inaka-akahan weꞌ de si Isa kēmon meꞌ bakas tahinangden. Manjari binoꞌo siye weꞌ si Isa pī tudju puweblo Betsaida, siye-siye du hadja. 
 Lukas|9|11|Sakaliꞌ inin kataꞌuhan weꞌ meꞌ aꞌa mabanesin, paturul siye. Sinagina siye weꞌ si Isa duk inusihatan siye weꞌ ne sabab pagbayaꞌan Tuhanin, duk pinakawuliꞌ weꞌ ne kēmon meꞌ masakihin. 
 Lukas|9|12|Pagkohap ne teꞌed, pī si iye tindegne sampūꞌ duk duwehin duk paꞌinde si iye, "Daꞌakun ne meꞌ aꞌa inin pī si meꞌ kalumaꞌan mapaliputin duk si meꞌ lahat diyataꞌin miha kinakande duk patulihande, peggeꞌ lahat gaꞌi hep inin tantu papituhan aꞌa." 
-Lukas|9|13|Saguwaꞌ paꞌinne si siye, "Kaꞌam ne mamakan siyehin." Paꞌinde, "Luwal maniyaꞌ si kamitu, lime kayuꞌ pan duk duwe kenna - luwal bang pī kami melli kinakan para si meꞌ aꞌa mabanes inin." 
-Lukas|9|14|(Peggeꞌ niyaꞌ lime ngibu meꞌ lella malaꞌihin.) Paꞌin si Isa si meꞌ tindegnen, "Daꞌakun bi siye ningkoloꞌ lime-limempūꞌ da tumpuk." 
+Lukas|9|13|Saguwaꞌ paꞌinne si siye, "Kaꞌam ne mamakan siyehin." Paꞌinde, "Luwal maniyaꞌ si kamitu, lime kayuꞌ pan duk duwe kenna - luwal bang pī kami melli kinakan para si meꞌ aꞌa mabanes inin."
+Lukas|9|14|Peggeꞌ niyaꞌ lime ngibu meꞌ lella malaꞌihin.) Paꞌin si Isa si meꞌ tindegnen, "Daꞌakun bi siye ningkoloꞌ lime-limempūꞌ da tumpuk." 
 Lukas|9|15|Tinuhut weꞌ de pangandaꞌakan si Isahin duk pinatingkoloꞌ ne weꞌ de meꞌ aꞌahin kēmon. 
 Lukas|9|16|Manjari ineddoꞌ weꞌ si Isa pan lime kayuꞌin duk kenna duwehin, bu mayam iye magdiyataꞌ langit magpasalamat si Tuhan. Ubus bu binahagiꞌ-bahagiꞌ weꞌ ne panin duk pinangurung weꞌ ne si meꞌ tindegnen, dinaꞌak pangurung si meꞌ aꞌahin. 
 Lukas|9|17|Mangan siye kēmon duk esso siye. Ubus tinipun weꞌ meꞌ tindeg si Isahin lukas meꞌ aꞌahin, niyaꞌ sampūꞌ duk duwe bakaꞌ pennoꞌ. 
@@ -2986,7 +2986,7 @@ Yahiya|3|34|Almasi pinapitu weꞌ Tuhanin, duk iye binissānen, lapal Tuhanin, p
 Yahiya|3|35|Malasa teꞌed Tuhanin si Anaknen duk inurungan iye weꞌ ne kapatut si kēmon-kēmonin. 
 Yahiya|3|36|Sine-sine sandel si Anak Tuhanin ellum salama-lama. Saguwaꞌ manggaꞌi masandel duk manuhut si Anak Tuhanin, gaꞌ niyaꞌ umulne salama-lama. Bisan miyaꞌan, pateteg si iye mulkaꞌ Tuhanin salama-lama.
 Yahiya|4|1|Manjari, takale meꞌ Pariseohin weꞌ mas ekka koꞌ aꞌa patindeg pu si Isa duk tapandi weꞌ ne amban meꞌ mapatindeg pu si Yahiyahin. 
-Yahiya|4|2|(Saguwaꞌ iye matoꞌohin, dumaꞌin si Isa magpandi meꞌ aꞌahin saguwaꞌ meꞌ tindegnen hadja.) 
+Yahiya|4|2|Saguwaꞌ iye matoꞌohin, dumaꞌin si Isa magpandi meꞌ aꞌahin saguwaꞌ meꞌ tindegnen hadja.) 
 Yahiya|4|3|Pagkataꞌuhan weꞌ si Isa sabab meꞌ suwi-suwi inin, tahalaꞌ iye duk meꞌ tindegnen amban lahat Yahudiya balik pī si lahat Jalil. 
 Yahiya|4|4|Subey siye pabutas amban lahat Samariya. 
 Yahiya|4|5|Pagtekka siye si lahat Samariya, hap pī siye si dambuwaꞌ puweblo inēnan Sikar. Tapit puweblo inin si bulak pinangurung weꞌ si Yakub si anaknen Yusup awwalley. 
@@ -3680,7 +3680,7 @@ Yahiya|19|31|Peggeꞌ ellew Jumaꞌat hep miyaꞌan, hap pī meꞌ nakuraꞌ Yah
 Yahiya|19|32|Hangkan pī meꞌ sundaluhin duk pinolong weꞌ de dehellu meꞌ pusuꞌ saweꞌ si Isa duwangan ilansang diyataꞌ olomin. 
 Yahiya|19|33|Saguwaꞌ pagtapit ne siye pu si Isa, takitede weꞌ matey ne hatiꞌ iye, hangkan gaꞌ ne polongde pusuꞌnen. 
 Yahiya|19|34|Saguwaꞌ dangan meꞌ sundaluhin, ilogsok weꞌ ne duk budjakne seddi si Isahin. Magtawus pabuꞌus lahaꞌin magsaget duk boheꞌ. 
-Yahiya|19|35|(Aꞌa mangite maꞌumantag pu si Isa inin, sinulat weꞌ ne sabab inin supaya kaꞌam kahagad. Aꞌa manulat inin kapangandelan duk bennal panaksiꞌnen.) 
+Yahiya|19|35|Aꞌa mangite maꞌumantag pu si Isa inin, sinulat weꞌ ne sabab inin supaya kaꞌam kahagad. Aꞌa manulat inin kapangandelan duk bennal panaksiꞌnen.) 
 Yahiya|19|36|Sabab meꞌ maꞌumantag pu si Isa miyaꞌan, tuman tasulat dem kitabin. Pinaꞌin laꞌi, "Gaꞌ niyaꞌ polong bisan dambuwaꞌ tolangne." 
 Yahiya|19|37|Duk niyaꞌ isab da ayat tasulat dem kitab, pinaꞌin, "Payamande du aꞌa bakas ilogsokden." 
 Yahiya|19|38|Manjari, niyaꞌ dambuwaꞌ aꞌa amban lahat Arimati, ēnnen si Yusup. Si Yusup inin tindeg si Isa du isab saguwaꞌ gaꞌ iye magpatampal peggeꞌ tinalew iye si meꞌ nakuraꞌ Yahudihin. Pī iye pu si Pilatus duk pākune ngeddoꞌ bangkey si Isahin. Dinaꞌak ne iye weꞌ Pilatus, hangkan pī iye duk ilebbes weꞌ ne bangkey si Isahin amban diyataꞌ olom. 

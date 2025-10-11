@@ -2167,7 +2167,7 @@ Lucas|9|10|Migbalik la ding apostol at belita ra kang Jesus ing sablang depat da
 Lucas|9|11|Inyang abalu ra iti ding dakal a tau tinuki la kang Jesus. Tinggap na la at selitanan tungkul king Kayarian ning Dios, at pepakayap na la ding sablang sukat pakayapan. 
 Lucas|9|12|Inyang malapit neng lumbug ing aldo lepitan de ring labing adua at ngara, Palakuan yu na la ding tau ban mipunta la karing balen o baryung malapit ba lang manintun apangan da at apitudturan, uling mikelangan iting lugal. 
 Lucas|9|13|Oneng nganang Jesus karela, Ikayu mismu dinan yu lang apangan da.Ngarang mekibat, Lima la mung tinape at aduang asan ding bakal mi. Buri mung mako kami ban saling pamangan para karing dakal a taung dete?
-Lucas|9|14|(Ating manga limang libu katau karing lalaking atyu karin.)Nganang Jesus karing alagad na, Paluklukan yu lang makagrupung tia limang pulu katau. 
+Lucas|9|14|Ating manga limang libu katau karing lalaking atyu karin.)Nganang Jesus karing alagad na, Paluklukan yu lang makagrupung tia limang pulu katau. 
 Lucas|9|15|Memintu la ding alagad at pepaluklukan da la ring sabla. 
 Lucas|9|16|Kinua na lang Jesus ding limang tinape at aduang asan; tinalanga ya banua at pepasalamat ya king Dios para kareti. Pirasu na la at saka na la diwang karing alagad ban ipamie da la karing tau. 
 Lucas|9|17|Mengan la ngan at kinabsi la. Labi lang aduang kaing ding akatmu da ring alagad inyang tinipun da la ring tagan karing mengapirasung tinape. 
@@ -2341,7 +2341,7 @@ Lucas|12|26|Nung e yu arapat agyang ing malating bage a anti kaniti, baket paigu
 Lucas|12|27|Lawan yu la ding sampagang tutubu king marangle; e la magobra ni e la gagawang imalan para king sarili da. Sasabian ku kekayu, agyang mabandi ya i Solomon e ya mimalan a kasing santing na ning metung kareting sampaga. 
 Lucas|12|28|Ing Dios ya ing mamiblas king dikut, ing dikut a atyu ngeni, oneng bukas ala na at maduluk king ornu. Ikayu pa kaya ing e na piblasan? Karitak yu naman a kasalpantayanan! 
 Lucas|12|29|Inya e kayu pailingasngas nung nu kayu kumang pamangan at inuman. 
-Lucas|12|30|(Uling deting bage ila ding kayayalisuas dang panintunan ding paganu keti king yatu.) Balu na ning Ibpa yu king kailangan yu la deting bage. 
+Lucas|12|30|Uling deting bage ila ding kayayalisuas dang panintunan ding paganu keti king yatu.) Balu na ning Ibpa yu king kailangan yu la deting bage. 
 Lucas|12|31|Maygit king sabla, pagsikapan yung pag-arian na kayu ning Dios, at dinan na kayu kareting bage kailangan yu. 
 Lucas|12|32|E kayu tatakut, malating kawan, uling ikakatula na ning Ibpa yu ing ibie ne kekayu ing Kayarian. 
 Lucas|12|33|Ipisali yu ing pibandian yu at ipamie yu ing abli karing pakakalulu. Gawa kayung bulsa a e maluluma at tumipun kayung pibandian karin banua uling karin e la mabawas; alang miraras a mapanako at alang puliliang makasira. 
@@ -3232,7 +3232,7 @@ Juan|7|49|Ala lang balu ding dakal a taung den king Kautusan nang Moises, inya m
 Juan|7|50|Ing metung karela, i Nicodemo, itang minta kang Jesus king misan a bengi, migsalita ya karela. 
 Juan|7|51|Ngana, Agpang king Kautusan tamu, e ta ya sukat atulan ing metung a tau anggang e tamu pekiramdaman at abalu ing depat na. 
 Juan|7|52|Pekibat da kang Nicodemo, Ika man tau ka Galilea? Pagaralan me ing Kasulatan at akit mu king alang lunto propeta a tau Galilea. 
-Juan|7|53|[Minuli ya ing balang metung karela king sarili nang bale,
+Juan|7|53|Minuli ya ing balang metung karela king sarili nang bale,
 Juan|8|1|oneng minta ya i Jesus king Bunduk ding Olibo. 
 Juan|8|2|At kabukasan abak a maranun minta yang pasibayu king Templo. Lepitan de ring sablang tau karin. Linukluk ya i Jesus at tiru na la. 
 Juan|8|3|Dela re king arap na ding talaturu ning Kautusan at ding Pariseo ing metung a babaing merakap makipangalugud. Pepatalakaran de ing babai king arap da 
@@ -3768,7 +3768,7 @@ Juan|21|15|Inyang mekapag-almusal na la, kitnan neng Jesus i Simon Pedro. Ngana,
 Juan|21|16|Kitang nang kaduang besis, Simon, anak nang Juan, kaluguran mu ko?Mekibat ya i Pedro, Wa, Ginu, balu mu king kaluguran da ka.Nganang Jesus, Ingatan mu la ding tupa ku. 
 Juan|21|17|Kitang na king katlung besis, Simon, anak nang Juan, kaluguran mu ko?Melungkut ya i Pedro uling mekatatlu na kitang: Kaluguran mu ko? At mekibat ya, Ginu, balu mu ing sabla; balu mu king kaluguran da ka!Sinabi nang Jesus, Pakanan mu la ding tupa ku. 
 Juan|21|18|Ing katutuan sasabian ku keka: inyang kayanakan ka ika ing mibiblas king sarili mu at lalakad ka nung nu ka bisang munta. Potang tumua ka, iyatiat mu la ding gamat mu at aliwa ya ing miblas keka at midala keka king lugal a e ka bisang munta. 
-Juan|21|19|(Sinabi na iti ban ipabalu na nung makananu yang mate i Pedro at munie kaligayan king Dios.) Pangasabi na niti, nganang Jesus, Tuki ka kanaku!
+Juan|21|19|Sinabi na iti ban ipabalu na nung makananu yang mate i Pedro at munie kaligayan king Dios.) Pangasabi na niti, nganang Jesus, Tuki ka kanaku!
 Juan|21|20|Melikid ya i Pedro at ikit ne king kagulutan na ing alagad a pakamalan nang Jesus; ya itang linapit king salu nang Jesus inyang mag-apunan la at kinutang, Ginu, ninu ing magtaksil keka? 
 Juan|21|21|Inyang ikit neng Pedro, kitang na kang Jesus, Ginu, nanu ing mapalyari king taung ini? 
 Juan|21|22|Pekibat nang Jesus, Nung burian kung mie ya angga king pamagbalik ku, nanu keka ita? Ika tuki ka kanaku! 

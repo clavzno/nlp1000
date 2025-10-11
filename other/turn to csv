@@ -1,0 +1,15 @@
+'''
+# turn to csv
+for lang in corpora_lang:
+    print(f"attempting {lang}")
+    cleaned_file_path = data_folder / f"{lang}-cleaned.txt"
+
+    if cleaned_file_path.exists() and cleaned_file_path.stat().st_size > 0:
+        with cleaned_file_path.open("r", encoding="utf-8") as f:
+            df = pd.read_csv(cleaned_file_path, sep='|', on_bad_lines='warn', engine="python")
+            csv = df.to_csv(f'{lang}.csv', index='none') 
+            print(f"Added {lang} to parallel_corpora.xlsx")
+    print("Finished")
+
+# combine all csv in xlsx
+'''

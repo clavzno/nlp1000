@@ -1320,7 +1320,7 @@ Marcos|6|55|At nang malibot nilang nagtutumulin ang buong lupaing yaon, at nagpa
 Marcos|6|56|At saan man siya pumasok, sa mga nayon, o sa mga bayan o sa mga bukid, ay inilalagay nila sa mga liwasan ang mga may-sakit, at ipinamamanhik sa kaniya na ipahipo man lamang sa kanila ang laylayan ng kaniyang damit: at ang lahat ng nagsihipo sa kaniya ay pawang nagsigaling.
 Marcos|7|1|At nakisama sa kanila ang mga Fariseo, at ilan sa mga eskriba, na nagsipanggaling sa Jerusalem, 
 Marcos|7|2|At kanilang nangakita ang ilan sa kaniyang mga alagad na nagsisikain ng kanilang tinapay ng mga kamay na marurumi, sa makatuwid baga'y mga kamay na hindi hinugasan. 
-Marcos|7|3|(Sapagka't ang mga Fariseo, at ang lahat ng mga Judio, ay hindi nagsisikain, kundi muna mangaghugas na maingat ng mga kamay, na pinanghahawakan ang mga sali't-saling sabi ng matatanda; 
+Marcos|7|3|Sapagka't ang mga Fariseo, at ang lahat ng mga Judio, ay hindi nagsisikain, kundi muna mangaghugas na maingat ng mga kamay, na pinanghahawakan ang mga sali't-saling sabi ng matatanda; 
 Marcos|7|4|At kung nagsisipanggaling sila sa pamilihan, kung hindi muna mangaghugas, ay hindi sila nagsisikain; at may iba pang maraming bagay na kanilang minana, upang ganapin; gaya ng mga paghuhugas ng mga inuman, at ng mga saro, at ng mga inumang tanso.) 
 Marcos|7|5|At siya'y tinanong ng mga Fariseo at ng mga eskriba, Bakit ang iyong mga alagad ay hindi nagsisilakad ng ayon sa sali't-saling sabi ng matatanda, kundi nagsisikain sila ng kanilang tinapay ng mga kamay na karumaldumal? 
 Marcos|7|6|At sinabi niya sa kanila, Mabuti ang pagkahula ni Isaias tungkol sa inyong mga mapagpaimbabaw, ayon sa nasusulat, Ang bayang ito'y iginagalang ako ng kaniyang mga labi, Datapuwa't ang kanilang puso ay malayo sa akin. 
@@ -1801,8 +1801,8 @@ Lucas|1|50|At ang kaniyang awa ay sa mga lahi't lahi. Sa nangatatakot sa kaniya.
 Lucas|1|51|Siya'y nagpakita ng lakas ng kaniyang bisig; Isinambulat niya ang mga palalo sa paggunamgunam ng kanilang puso. 
 Lucas|1|52|Ibinaba niya ang mga prinsipe sa mga luklukan nila, At itinaas ang mga may mababang kalagayan. 
 Lucas|1|53|Binusog niya ang nangagugutom ng mabubuting bagay; At pinaalis niya ang mayayaman, na walang anoman. 
-Lucas|1|54|Tumulong siya sa Israel na kaniyang alipin, Upang maalaala niya ang awa 
-Lucas|1|55|(Gaya ng sinabi niya sa ating mga magulang) Kay Abraham at sa kaniyang binhi magpakailan man. 
+Lucas|1|54|Tumulong siya sa Israel na kaniyang alipin, Upang maalaala niya ang awa
+Lucas|1|55|Gaya ng sinabi niya sa ating mga magulang) Kay Abraham at sa kaniyang binhi magpakailan man. 
 Lucas|1|56|At si Maria ay natirang kasama niya na may tatlong buwan, at umuwi sa kaniyang bahay. 
 Lucas|1|57|Naganap nga kay Elisabet ang panahon ng panganganak; at siya'y nanganak ng isang lalake. 
 Lucas|1|58|At nabalitaan ng kaniyang mga kapitbahay at mga kamaganak, na dinakila ng Panginoon ang kaniyang awa sa kaniya; at sila'y nangakigalak sa kaniya. 
@@ -1816,8 +1816,8 @@ Lucas|1|65|At sinidlan ng takot ang lahat ng nagsisipanahan sa palibot nila; at 
 Lucas|1|66|At lahat ng mga nangakarinig nito ay pawang iningatan sa kanilang puso, na sinasabi, Magiging ano nga kaya ang batang ito? Sapagka't ang kamay ng Panginoon ay sumasa kaniya. 
 Lucas|1|67|At si Zacarias na kaniyang ama ay napuspos ng Espiritu Santo, at nanghula, na nagsasabi, 
 Lucas|1|68|Purihin ang Panginoon, ang Dios ng Israel; Sapagka't kaniyang dinalaw at tinubos ang kaniyang bayan, 
-Lucas|1|69|At nagtaas sa atin ng isang sungay ng kaligtasan Sa bahay ni David na kaniyang alipin 
-Lucas|1|70|(Gaya ng sinabi niya sa pamamagitan ng kaniyang mga banal na propeta na nagsilitaw buhat nang unang panahon), 
+Lucas|1|69|At nagtaas sa atin ng isang sungay ng kaligtasan Sa bahay ni David na kaniyang alipin
+Lucas|1|70|Gaya ng sinabi niya sa pamamagitan ng kaniyang mga banal na propeta na nagsilitaw buhat nang unang panahon), 
 Lucas|1|71|Kaligtasang mula sa ating mga kaaway, at sa kamay ng lahat ng nangapopoot sa atin; 
 Lucas|1|72|Upang magkaawang-gawa sa ating mga magulang, At alalahanin ang kaniyang banal na tipan; 
 Lucas|1|73|Ang sumpa na isinumpa niya kay Abraham na ating ama, 
@@ -1849,8 +1849,8 @@ Lucas|2|18|At lahat ng nangakarinig nito ay nangagtaka sa mga bagay na sinabi sa
 Lucas|2|19|Datapuwa't iningatan ni Maria ang lahat ng mga pananalitang ito, na pinagbulaybulay sa kaniyang puso. 
 Lucas|2|20|At nangagbalik ang mga pastor, na niluluwalhati at pinupuri ang Dios dahil sa lahat ng mga bagay na kanilang nangarinig at nangakita, ayon sa sinabi sa kanila. 
 Lucas|2|21|At nang makaraan ang walong araw upang tuliin siya, ay tinawag na JESUS ang kaniyang pangalan, na siyang itinawag ng anghel bago siya ipinaglihi sa tiyan. 
-Lucas|2|22|At nang maganap na ang mga araw na kanilang paglilinis alinsunod sa kautusan ni Moises, ay kanilang dinala siya sa Jerusalem, upang iharap siya sa Panginoon 
-Lucas|2|23|(Ayon sa nasusulat sa kautusan ng Panginoon, Ang bawa't lalaking nagbubukas ng bahay-bata ay tatawaging banal sa Panginoon), 
+Lucas|2|22|At nang maganap na ang mga araw na kanilang paglilinis alinsunod sa kautusan ni Moises, ay kanilang dinala siya sa Jerusalem, upang iharap siya sa Panginoon
+Lucas|2|23|Ayon sa nasusulat sa kautusan ng Panginoon, Ang bawa't lalaking nagbubukas ng bahay-bata ay tatawaging banal sa Panginoon), 
 Lucas|2|24|At upang maghandog ng hain alinsunod sa sinasabi sa kautusan ng Panginoon, Dalawang batobato, o dalawang inakay ng kalapati. 
 Lucas|2|25|At narito, may isang lalake sa Jerusalem, na nagngangalang Simeon; at ang lalaking ito'y matuwid at masipag sa kabanalan, na nag-aantay ng kaaliwan ng Israel: at sumasa kaniya ang Espiritu Santo. 
 Lucas|2|26|At ipinahayag sa kaniya ng Espiritu Santo, na di niya makikita ang kamatayan, hanggang sa makita muna niya ang Cristo ng Panginoon. 
@@ -2839,8 +2839,8 @@ Lucas|23|46|At si Jesus, na sumigaw ng malakas na tinig, ay nagsabi, Ama, sa mga
 Lucas|23|47|At nang makita ng senturion ang nangyari, ay niluwalhati niya ang Dios na nagsasabi, Tunay na ito'y isang taong matuwid. 
 Lucas|23|48|At ang lahat ng mga karamihang nangagkatipon sa panonood nito, pagkakita nila sa mga bagay na nangyari ay nangagsiuwing dinadagukan ang kanilang mga dibdib. 
 Lucas|23|49|At ang lahat ng mga kakilala niya at ang mga babaing sa kaniya'y nagsisunod buhat sa Galilea, at nangasa malayo na pinagmamasdan ang mga bagay na ito. 
-Lucas|23|50|At narito ang isang lalaking nagngangalang Jose, na isang kasangguni, isang lalaking mabuti at matuwid: 
-Lucas|23|51|(Siya'y hindi umayon sa kanilang payo at gawa), isang lalaking taga Arimatea, bayan ng mga Judio, na naghihintay ng kaharian ng Dios; 
+Lucas|23|50|At narito ang isang lalaking nagngangalang Jose, na isang kasangguni, isang lalaking mabuti at matuwid:
+Lucas|23|51|Siya'y hindi umayon sa kanilang payo at gawa), isang lalaking taga Arimatea, bayan ng mga Judio, na naghihintay ng kaharian ng Dios; 
 Lucas|23|52|Ang taong ito'y naparoon kay Pilato: at hiningi ang bangkay ni Jesus. 
 Lucas|23|53|At ito'y ibinababa niya, at binalot ng isang kayong lino, at inilagay sa isang libingang hinukay sa bato, na doo'y wala pang nalilibing. 
 Lucas|23|54|At noo'y araw ng Paghahanda, at nalalapit na ang sabbath. 
@@ -3011,8 +3011,8 @@ Juan|3|33|Ang tumatanggap ng kaniyang patotoo ay naglagay dito ng kaniyang tatak
 Juan|3|34|Sapagka't ang sinugo ng Dios ay nagsasalita ng mga salita ng Dios: sapagka't hindi niya ibinibigay ang Espiritu sa pamamagitan ng sukat. 
 Juan|3|35|Sinisinta ng Ama ang Anak, at inilagay sa kaniyang kamay ang lahat ng mga bagay. 
 Juan|3|36|Ang sumasampalataya sa Anak ay may buhay na walang hanggan; nguni't ang hindi tumatalima sa Anak ay hindi makakakita ng buhay, kundi ang poot ng Dios ay sumasa kaniya.
-Juan|4|1|Nang maalaman nga ng Panginoon na nabalitaan ng mga Fariseo na si Jesus ay gumagawa at bumabautismo ng lalong maraming alagad kay sa kay Juan 
-Juan|4|2|(Bagaman hindi bumabautismo si Jesus, kundi ang kaniyang mga alagad), 
+Juan|4|1|Nang maalaman nga ng Panginoon na nabalitaan ng mga Fariseo na si Jesus ay gumagawa at bumabautismo ng lalong maraming alagad kay sa kay Juan
+Juan|4|2|Bagaman hindi bumabautismo si Jesus, kundi ang kaniyang mga alagad), 
 Juan|4|3|Nilisan niya ang Judea, at naparoong muli sa Galilea. 
 Juan|4|4|At kinakailangang magdaan siya sa Samaria. 
 Juan|4|5|Sumapit nga siya sa isang bayan ng Samaria, na tinatawag na Sicar, malapit sa bahagi ng lupang ibinigay ni Jacob kay Jose na kaniyang anak: 
@@ -3133,8 +3133,8 @@ Juan|6|18|At lumalaki ang dagat dahil sa isang malakas na hanging humihihip.
 Juan|6|19|Nang sila nga'y mangakagaod na ng may dalawangpu't lima o tatlongpung estadio, ay kanilang nakita si Jesus na lumalakad sa ibabaw ng dagat, at lumalapit sa daong: at sila'y nangahintakutan. 
 Juan|6|20|Datapuwa't sinabi niya sa kanila, Ako nga; huwag kayong mangatakot. 
 Juan|6|21|Malugod nga nilang tinanggap siya sa daong: at pagdaka'y dumating ang daong sa lupang kanilang tinutumpa. 
-Juan|6|22|Nang kinabukasan ay nakita ng karamihang nakatayo sa kabilang ibayo ng dagat na doo'y walang ibang daong, kundi isa, at hindi lumulan sa daong si Jesus na kasama ng kaniyang mga alagad, kundi ang kaniyang mga alagad lamang ang nagsipaglayag 
-Juan|6|23|(Gayon man ay may mga daong na nagsidating na mula sa Tiberias malapit sa dako na kanilang kinainan ng tinapay pagkatapos na makapagpasalamat ang Panginoon): 
+Juan|6|22|Nang kinabukasan ay nakita ng karamihang nakatayo sa kabilang ibayo ng dagat na doo'y walang ibang daong, kundi isa, at hindi lumulan sa daong si Jesus na kasama ng kaniyang mga alagad, kundi ang kaniyang mga alagad lamang ang nagsipaglayag
+Juan|6|23|Gayon man ay may mga daong na nagsidating na mula sa Tiberias malapit sa dako na kanilang kinainan ng tinapay pagkatapos na makapagpasalamat ang Panginoon): 
 Juan|6|24|Nang makita nga ng karamihan na wala roon si Jesus, ni ang kaniyang mga alagad man, ay nagsilulan sila sa mga daong, at nagsidating sa Capernaum, na hinahanap si Jesus. 
 Juan|6|25|At nang siya'y kanilang masumpungan sa kabilang ibayo ng dagat, ay kanilang sinabi sa kanila, Rabi, kailan ka dumating dito? 
 Juan|6|26|Sinagot sila ni Jesus at sinabi, Katotohanan, katotohanang sinasabi ko sa inyo, Ako'y inyong hinahanap, hindi dahil sa inyong nangakitang mga tanda, kundi dahil sa kayo'y nagsikain ng tinapay, at kayo'y nangabusog. 
@@ -3221,7 +3221,7 @@ Juan|7|35|Ang mga Judio nga'y nangagsangusapan, Saan paroroon ang taong ito na h
 Juan|7|36|Ano ang salitang ito na kaniyang sinabi, Hahanapin ninyo ako, at hindi ninyo ako masusumpungan; at kung saan ako naroroon, ay hindi kayo makaparoroon? 
 Juan|7|37|Nang huling araw nga, na dakilang araw ng kapistahan, si Jesus ay tumayo at sumigaw, na nagsasabi, Kung ang sinomang tao'y nauuhaw, ay pumarito siya sa akin, at uminom. 
 Juan|7|38|Ang sumasampalataya sa akin, gaya ng sinasabi ng kasulatan, ay mula sa loob niya ay aagos ang mga ilog ng tubig na buhay. 
-Juan|7|39|(Nguni't ito'y sinalita niya tungkol sa Espiritu, na tatanggapin ng mga magsisisampalataya sa kaniya: sapagka't hindi pa ipinagkakaloob ang Espiritu; sapagka't si Jesus ay hindi pa niluluwalhati.) 
+Juan|7|39|Nguni't ito'y sinalita niya tungkol sa Espiritu, na tatanggapin ng mga magsisisampalataya sa kaniya: sapagka't hindi pa ipinagkakaloob ang Espiritu; sapagka't si Jesus ay hindi pa niluluwalhati.) 
 Juan|7|40|Ang ilan nga sa karamihan, nang marinig ang mga salitang ito, ay nangagsabi, Tunay na ito ang propeta. 
 Juan|7|41|Sinasabi ng mga iba, Ito nga ang Cristo. Datapuwa't sinasabi ng ilan, Ano, sa Galilea baga manggagaling ang Cristo? 
 Juan|7|42|Hindi baga sinabi ng kasulatan na ang Cristo ay manggagaling sa lahi ni David, at mula sa Bet-lehem, ang nayong kinaroonan ni David? 
@@ -3407,7 +3407,7 @@ Juan|11|26|At ang sinomang nabubuhay at sumasampalataya sa akin ay hindi mamamat
 Juan|11|27|Sinabi niya sa kaniya, Oo, Panginoon: sumasampalataya ako na ikaw ang Cristo ang Anak ng Dios, sa makatuwid baga'y ang naparirito sa sanglibutan. 
 Juan|11|28|At nang masabi na niya ito, ay yumaon siya, at tinawag ng lihim si Maria na kapatid niya, na sinasabi, Ang Guro ay narito, at tinatawag ka. 
 Juan|11|29|At siya, nang marinig niya ito, ay nagtindig na madali, at pumaroon sa kaniya. 
-Juan|11|30|(Hindi pa nga dumarating si Jesus sa nayon, kundi naroroon pa sa dakong kinasalubungan sa kaniya ni Marta.) 
+Juan|11|30|Hindi pa nga dumarating si Jesus sa nayon, kundi naroroon pa sa dakong kinasalubungan sa kaniya ni Marta.) 
 Juan|11|31|Ang mga Judio nga na kaniyang mga kasama sa bahay, at nangagsisialiw sa kaniya, pagkakita nilang si Maria, na siya'y nagtindig na madali at lumabas, ay nagsisunod sa kaniya, na inaakalang paroroon siya sa libingan upang doo'y tumangis. 
 Juan|11|32|Si Maria nga, pagdating niya sa kinaroroonan ni Jesus, at pagkakita sa kaniya, ay nagpatirapa sa kaniyang paanan, na sinabi sa kaniya, Panginoon, kung ikaw sana'y narito, disin ay hindi namatay ang aking kapatid. 
 Juan|11|33|Nang makita nga ni Jesus na siya'y tumatangis, at gayon din ang mga Judiong nagsisitangis na kasama niyang dumating, ay nalagim siya sa espiritu, at nagulumihanan, 

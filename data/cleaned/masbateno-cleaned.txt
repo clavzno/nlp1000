@@ -960,7 +960,7 @@ Mateo|26|49|Nagdiretso man dayon si Judas pagtulos kan Jesus kag nagsabi, "Kumus
 Mateo|26|50|Didi nagsabi si Jesus sa iya, "Amigo, himua na dayon an tuyo mo."Pakasabi sani ginturulos siya ninda kag dinakop. 
 Mateo|26|51|Dahilan sadto usad san mga parasunod ni Jesus an nagbugnot san iya talibong kag may tinigbas na suruguon san pinakapuno san kapadian kaya nautas an talinga sani. 
 Mateo|26|52|Ugaling sinabihan siya ni Jesus, "Ibalik mo sa taguban an imo talibong kay an tanan na nagagamit sana mapapatay man paagi sana. 
-Mateo|26|53|Nano, dili mo aram na kun gugustuhon ko makapangayo akoʼn bulig sa akon Ama na magsugo sin 7,000| na mga anghel agod magbantay sa akon? 
+Mateo|26|53|Nano, dili mo aram na kun gugustuhon ko makapangayo akoʼn bulig sa akon Ama na magsugo sin 7,000 na mga anghel agod magbantay sa akon? 
 Mateo|26|54|Pero kun sugad sani pan-o matuman an Banal Na Kasuratan na nagasabi na ini dapat mangyari?" 
 Mateo|26|55|Tapos inatubang ni Jesus an kadamuan kag ginhunga, "Nano, tulisan an paghuna niyo sa akon kay nagdarara pa kamo sin mga talibong kag mga balbag para lang dakupon ako? Adto ako pirme uruadlaw na nagatukdo sa templo pero wara man niyo pagdakupa. 
 Mateo|26|56|Nangyari ugaling ini tanan agod matuman an mga nasurat san mga propeta." Didi binarayaan siya san tanan na mga disipulos kag nagdurulag. 
@@ -991,7 +991,8 @@ Mateo|27|5|Tapos pinilak ni Judas an 30 ka bilog na plata sa may salog san templ
 Mateo|27|6|Pinamurot naman san mga namumuno san kapadian an mga plata kag nagsarabi, "Dili ini dapat ihulog sa surudlan san kwarta para sa templo kay kabayadan ini sin kamatayon." 
 Mateo|27|7|Kaya nagkaurusad sinda na ibakal sin uma san parahimoʼn kuron agod himuon na rulubngan san mga dayo. 
 Mateo|27|8|Dahilan sani gintawag idto na Uma san Dugo hasta niyan. 
-Mateo|27|9|Tapos natuman gayod an sinabi san propeta na si Jeremias,"30 ka bilog na plata an kantidad na ginkauruyunan san mga taga-Israel na ibayad para sa iya. 
+Mateo|27|9|Tapos natuman gayod an sinabi san propeta na si Jeremias,"
+Mateo|27|30|ka bilog na plata an kantidad na ginkauruyunan san mga taga-Israel na ibayad para sa iya. 
 Mateo|27|10|Kinuha ninda ina kag uma an ginbakal ninda sa parahimo sin kuron pareho san ginsugo sa akon san Ginoo." 
 Mateo|27|11|Niyan adto na si Jesus ginapaatubang sa gobernador. Tapos ginhunga siya sani, "Nano, ikaw an hadi san mga Judio?"Nagsabat si Jesus, "Ikaw an nagsabi sana." 
 Mateo|27|12|San ginaakusar naman siya san mga namumuno san kapadian kag san mga Judio wara gayod siya magsabat. 
@@ -2068,8 +2069,8 @@ Lucas|7|24|Pagharali san mga ginsugo ni Juan nagtuna naman si Jesus pag-istorya 
 Lucas|7|25|Nano man gali an ginahuna niyo na makita? Tawo na nakabado sin matahom? Syimpre dili, kay idtoʼn nagabarado sin mga matahom kag nabubuhay sa kabuganaan adto nagaistar sa mga palasyo san mga hadi! 
 Lucas|7|26|Kun kaya ngani nano man gayod an ginkadtuan niyo na makita? Propeta? Oo, kag tandai ini, mas labaw pa gayod sa propeta an nakita niyo, 
 Lucas|7|27|kay siya an katumanan san nasurat sa Banal Na Kasuratan,'Kitaa, may suruguon ako na mapauna sa imo.Siya an magapreparar san imo aagihan.'," 
-Lucas|7|28|Nagpadayon si Jesus, "Tandai ini na ginasabi ko sa iyo, sa tanan na kabataan na gin-anak san mga babayi wara na gayod sin nakalabaw kan Juan. Ugaling mas labaw ki sa iya an pinakamenos sa kahadian san Dios." 
-Lucas|7|29|(An tanan na mga tawo na nagpamati sa iya kag amo man an mga parasukot san buwis, nag-ako na tama an katuyuan san Dios kay nagpabunyag sinda kan Juan, 
+Lucas|7|28|Nagpadayon si Jesus, "Tandai ini na ginasabi ko sa iyo, sa tanan na kabataan na gin-anak san mga babayi wara na gayod sin nakalabaw kan Juan. Ugaling mas labaw ki sa iya an pinakamenos sa kahadian san Dios."
+Lucas|7|29|An tanan na mga tawo na nagpamati sa iya kag amo man an mga parasukot san buwis, nag-ako na tama an katuyuan san Dios kay nagpabunyag sinda kan Juan, 
 Lucas|7|30|pero an mga Pariseo kag mga Paratukdo san Kasuguan nagsikway san katuyuan san Dios para sa inda sadiri kag wara nagpabunyag kan Juan.) 
 Lucas|7|31|Didi naman nagpadayon si Jesus, "Niyan, sa nano ko maikukumparar an mga tawo na nabubuhay yana? Kay nano an napaparehuan ninda? 
 Lucas|7|32|Pareho sinda sa mga kabataan na nagairingkod sa merkado kag nagapasiriyak-siyak sa inda mga kakanam sugad sani,'Gintugtugan kamo namon sin plawta pero dili man kamo nagsarayaw!Tapos, nagkanta naman kamiʼn mamunduon pero wara kamo nagtarangis!'
@@ -2428,7 +2429,7 @@ Lucas|14|27|An dili mag-upod kag habo mamatay alang-alang sa akon dili man angay
 Lucas|14|28|"Kun kaya ngani ipamutang ta na igwa didi sa iyo sin nagaplano na magpatindog sin tore. Dili ba anay maingkod kag trabahuon niya kun sing-ano an magagasto kay agod makita kun makakaya niya ini? 
 Lucas|14|29|Kay basi kun iya na ini mapatunaan kag pakatapos amo pa niya nakita na dili gali niya kaya na ipahuman, pagatuya-tuyaon siya san mga umaragi kag sasabihon,
 Lucas|14|30|'Adi an tawo na nagpatindog sin tore kag dili man gali niya kaya ipahuman.'
-Lucas|14|31|"Usad pa, nano na klaseʼn hadi na nakigyera sa iya kapareho hadi an dili anay maingkod kag mag-isip-isip na kun an kaupod niya na 10,000| na mga suldados makakaya sa iya kaaway na igwa sin 20,000| na suldados? 
+Lucas|14|31|"Usad pa, nano na klaseʼn hadi na nakigyera sa iya kapareho hadi an dili anay maingkod kag mag-isip-isip na kun an kaupod niya na 10,000 na mga suldados makakaya sa iya kaaway na igwa sin 20,000 na suldados? 
 Lucas|14|32|Kay kun dili ninda makaya, myintras harayo pa an inda kaaway masugo na siya sin suruguon na makipag-areglar. 
 Lucas|14|33|Sugad man sana an dili magbaya san tanan niya na mga kasadirihan dili angay magin parasunod ko. 
 Lucas|14|34|"Pareho ini siya sa maayo na asin na kun mawar-an sin lasa pan-o pa ini mapaarat gihapon? 
