@@ -194,7 +194,7 @@ Matthew|7|20|Thus you will know them by their fruits.
 Matthew|7|21|"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but only the one who does the will of my Father in heaven. 
 Matthew|7|22|On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?'
 Matthew|7|23|Then I will declare to them, 'I never knew you; go away from me, you who behave lawlessly.'
-Matthew|7|24 "Everyone, then, who hears these words of mine and acts on them will be like a wise man who built his house on rock. 
+Matthew|7|24|"Everyone, then, who hears these words of mine and acts on them will be like a wise man who built his house on rock. 
 Matthew|7|25|The rain fell, the floods came, and the winds blew and beat on that house, but it did not fall because it had been founded on rock. 
 Matthew|7|26|And everyone who hears these words of mine and does not act on them will be like a foolish man who built his house on sand. 
 Matthew|7|27|The rain fell, and the floods came, and the winds blew and beat against that house, and it fell—and great was its fall!"
@@ -409,7 +409,7 @@ Matthew|13|12|For to those who have, more will be given, and they will have an a
 Matthew|13|13|The reason I speak to them in parables is that 'seeing they do not perceive, and hearing they do not listen, nor do they understand.'
 Matthew|13|14|With them indeed is fulfilled the prophecy of Isaiah that says:'You will indeed listen but never understand,and you will indeed look but never perceive. 
 Matthew|13|15|For this people's heart has grown dull,and their ears are hard of hearing,and they have shut their eyes,so that they might not look with their eyes,and hear with their earsand understand with their heart and turn—and I would heal them.'
-Matthew|13|16 "But blessed are your eyes, for they see, and your ears, for they hear. 
+Matthew|13|16|"But blessed are your eyes, for they see, and your ears, for they hear. 
 Matthew|13|17|Truly I tell you, many prophets and righteous people longed to see what you see but did not see it and to hear what you hear but did not hear it. 
 Matthew|13|18|"Hear, then, the parable of the sower. 
 Matthew|13|19|When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what is sown in the heart; this is what was sown on the path. 
@@ -890,7 +890,7 @@ Matthew|25|27|Then you ought to have invested my money with the bankers, and on 
 Matthew|25|28|So take the talent from him, and give it to the one with the ten talents. 
 Matthew|25|29|For to all those who have, more will be given, and they will have an abundance, but from those who have nothing, even what they have will be taken away. 
 Matthew|25|30|As for this worthless slave, throw him into the outer darkness, where there will be weeping and gnashing of teeth.'
-Matthew|25|31 "When the Son of Man comes in his glory and all the angels with him, then he will sit on the throne of his glory. 
+Matthew|25|31|"When the Son of Man comes in his glory and all the angels with him, then he will sit on the throne of his glory. 
 Matthew|25|32|All the nations will be gathered before him, and he will separate people one from another as a shepherd separates the sheep from the goats, 
 Matthew|25|33|and he will put the sheep at his right hand and the goats at the left. 
 Matthew|25|34|Then the king will say to those at his right hand, 'Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world, 
@@ -937,7 +937,7 @@ Matthew|26|28|for this is my blood of the covenant, which is poured out for many
 Matthew|26|29|I tell you, I will never again drink of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
 Matthew|26|30|When they had sung the hymn, they went out to the Mount of Olives. 
 Matthew|26|31|Then Jesus said to them, "You will all fall away because of me this night, for it is written,'I will strike the shepherd,and the sheep of the flock will be scattered.'
-Matthew|26|32 "But after I am raised up, I will go ahead of you to Galilee." 
+Matthew|26|32|"But after I am raised up, I will go ahead of you to Galilee." 
 Matthew|26|33|Peter said to him, "Even if all fall away because of you, I will never fall away." 
 Matthew|26|34|Jesus said to him, "Truly I tell you, this very night, before the cock crows, you will deny me three times." 
 Matthew|26|35|Peter said to him, "Even though I must die with you, I will not deny you." And so said all the disciples. 
@@ -1322,7 +1322,7 @@ Mark|7|4|and they do not eat anything from the market unless they wash, and ther
 Mark|7|5|So the Pharisees and the scribes asked him, "Why do your disciples not walk according to the tradition of the elders but eat with defiled hands?" 
 Mark|7|6|He said to them, "Isaiah prophesied rightly about you hypocrites, as it is written,'This people honors me with their lips,but their hearts are far from me; 
 Mark|7|7|in vain do they worship me,teaching human precepts as doctrines.'
-Mark|7|8 "You abandon the commandment of God and hold to human tradition."
+Mark|7|8|"You abandon the commandment of God and hold to human tradition."
 Mark|7|9|Then he said to them, "You have a fine way of rejecting the commandment of God in order to keep your tradition! 
 Mark|7|10|For Moses said, 'Honor your father and your mother,' and, 'Whoever speaks evil of father or mother must surely die.'
 Mark|7|11|But you say that if anyone tells father or mother, 'Whatever support you might have had from me is Corban' (that is, an offering to God), 
@@ -1557,7 +1557,7 @@ Mark|12|33|and 'to love him with all the heart and with all the understanding an
 Mark|12|34|When Jesus saw that he answered wisely, he said to him, "You are not far from the kingdom of God." After that no one dared to ask him any question. 
 Mark|12|35|While Jesus was teaching in the temple, he said, "How can the scribes say that the Messiah is the son of David? 
 Mark|12|36|David himself, by the Holy Spirit, declared,'The Lord said to my Lord,"Sit at my right hand,until I put your enemies under your feet." '
-Mark|12|37 "David himself calls him Lord, so how can he be his son?" And the large crowd was listening to him with delight. 
+Mark|12|37|"David himself calls him Lord, so how can he be his son?" And the large crowd was listening to him with delight. 
 Mark|12|38|As he taught, he said, "Beware of the scribes, who like to walk around in long robes and to be greeted with respect in the marketplaces 
 Mark|12|39|and to have the best seats in the synagogues and places of honor at banquets! 
 Mark|12|40|They devour widows' houses and for the sake of appearance say long prayers. They will receive the greater condemnation."
@@ -1629,7 +1629,7 @@ Mark|14|24|He said to them, "This is my blood of the covenant, which is poured o
 Mark|14|25|Truly I tell you, I will never again drink of the fruit of the vine until that day when I drink it new in the kingdom of God."
 Mark|14|26|When they had sung the hymn, they went out to the Mount of Olives. 
 Mark|14|27|And Jesus said to them, "You will all fall away, for it is written,'I will strike the shepherd,and the sheep will be scattered.'
-Mark|14|28 "But after I am raised up, I will go before you to Galilee." 
+Mark|14|28|"But after I am raised up, I will go before you to Galilee." 
 Mark|14|29|Peter said to him, "Even though all fall away, I will not." 
 Mark|14|30|Jesus said to him, "Truly I tell you, this day, this very night, before the cock crows twice, you will deny me three times." 
 Mark|14|31|But he said vehemently, "Even though I must die with you, I will not deny you." And all of them said the same. 
@@ -2074,7 +2074,7 @@ Luke|7|29|And all the people who heard this, including the tax collectors, ackno
 Luke|7|30|But the Pharisees and the experts in the law, not having been baptized by him, rejected God's purpose for themselves.) 
 Luke|7|31|"To what, then, will I compare the people of this generation, and what are they like? 
 Luke|7|32|They are like children sitting in the marketplace and calling to one another,'We played the flute for you, and you did not dance;we wailed, and you did not weep.'
-Luke|7|33 "For John the Baptist has come eating no bread and drinking no wine, and you say, 'He has a demon'; 
+Luke|7|33|"For John the Baptist has come eating no bread and drinking no wine, and you say, 'He has a demon'; 
 Luke|7|34|the Son of Man has come eating and drinking, and you say, 'Look, a glutton and a drunkard, a friend of tax collectors and sinners!'
 Luke|7|35|Nevertheless, wisdom is vindicated by all her children."
 Luke|7|36|One of the Pharisees asked Jesus to eat with him, and when he went into the Pharisee's house he reclined to dine. 
@@ -2102,7 +2102,7 @@ Luke|8|7|Some fell among thorns, and the thorns grew with it and choked it.
 Luke|8|8|Some fell into good soil, and when it grew it produced a hundredfold." As he said this, he called out, "If you have ears to hear, then hear!"
 Luke|8|9|Then his disciples asked him what this parable meant. 
 Luke|8|10|He said, "To you it has been given to know the secrets of the kingdom of God, but to others I speak in parables, so that'looking they may not perceiveand hearing they may not understand.'
-Luke|8|11 "Now the parable is this: The seed is the word of God. 
+Luke|8|11|"Now the parable is this: The seed is the word of God. 
 Luke|8|12|The ones on the path are those who have heard; then the devil comes and takes away the word from their hearts, so that they may not believe and be saved. 
 Luke|8|13|The ones on the rock are those who, when they hear the word, receive it with joy. But these have no root; they believe only for a while and in a time of testing fall away. 
 Luke|8|14|As for what fell among the thorns, these are the ones who hear, but as they go on their way they are choked by the cares and riches and pleasures of life, and their fruit does not mature. 
@@ -3568,7 +3568,7 @@ John|15|22|If I had not come and spoken to them, they would not have sin, but no
 John|15|23|Whoever hates me hates my Father also. 
 John|15|24|If I had not done among them the works that no one else did, they would not have sin. But now they have seen and hated both me and my Father. 
 John|15|25|It was to fulfill the word that is written in their law, 'They hated me without a cause.'
-John|15|26 "When the Advocate comes, whom I will send to you from the Father, the Spirit of truth who comes from the Father, he will testify on my behalf. 
+John|15|26|"When the Advocate comes, whom I will send to you from the Father, the Spirit of truth who comes from the Father, he will testify on my behalf. 
 John|15|27|You also are to testify, because you have been with me from the beginning.
 John|16|1|"I have said these things to you to keep you from falling away. 
 John|16|2|They will put you out of the synagogues. Indeed, an hour is coming when those who kill you will think that by doing so they are offering worship to God. 
