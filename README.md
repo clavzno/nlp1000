@@ -1,4 +1,4 @@
-# nlp1000
+# Project 1: Data Cleaning
 Submitted on October 12, 2025
 
 NLP1000 S17
@@ -34,7 +34,6 @@ Group 12:
 └── /parallel-corpora --> parallel corpora (aligned) but in separate xlsx files
 └── .gitignore
 └── main.ipynb --> MAIN SUBMISSION contains source information, source code, documentation
-└── removed.ipynb --> experimental code not part of the main submission
 └── cleaned_sentences.ipynb --> cleaned sentence files in xlsx format - from data/cleaned/(sentences)-(lang)-cleaned.txt files
 └── README.md --> contains the same information as this markdown block.
 └── cleaned_verses.xlsx --> cleaned verse files in xlsx format - created when running the notebook from data/cleaned/(lang)-cleaned.txt
