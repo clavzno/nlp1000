@@ -10,16 +10,10 @@ Group 12:
 | Clavano, Angelica (Jack) | 12206245 |
 | Lozada, Job | 12307246 |
 
-
-## Table of Contents:
-```
-1. Data Selection
-1.1 Web Scraping
-2. Data Cleaning and Segmentation (includes breakdown of steps)
-3. Parallel Corpus Creation
-4. AI Declaration
-5. References
-```
+## Table of Contents
+1. Data Selection & Web Scraping
+2. Data Cleaning and Segmentation
+3. Parallel Corpus
 
 ---
 
@@ -35,13 +29,17 @@ Group 12:
 └── /data
     └── lang.txt files --> raw webscraped data
     └── /cleaned
-        └── (sentences)-lang-cleaned.txt --> cleaned sentence files
-        └── lang-cleaned.txt --> cleaned verse files
-└── /other --> other files, will be deleted before submission
+        └── (sentences)-lang-cleaned.txt --> cleaned sentence files in txt format
+        └── lang-cleaned.txt --> cleaned verse files in txt format
+└── /parallel-corpora --> parallel corpora (aligned) but in separate xlsx files
 └── .gitignore
-└── main.ipynb --> MAIN SUBMISSION
+└── main.ipynb --> MAIN SUBMISSION contains source information, source code, documentation
+└── removed.ipynb --> experimental code not part of the main submission
+└── cleaned_sentences.ipynb --> cleaned sentence files in xlsx format - from data/cleaned/(sentences)-(lang)-cleaned.txt files
 └── README.md --> contains the same information as this markdown block.
-└── cleaned_verses.xlsx --> all verses divided into sheets
-└── parallel_corpora.xlsx --> parallel corpora 
-└── requirements.txt --> project dependencies for this project.
+└── cleaned_verses.xlsx --> cleaned verse files in xlsx format - created when running the notebook from data/cleaned/(lang)-cleaned.txt
+└── parallel_corpora.xlsx --> parallel corpora base file (unaligned) - created when running the notebook 
+└── parallel_corpora_all.xlsx --> parallel corpora (aligned)
+└── ai_declaration.pdf --> AI declaration
+└── steps.xlsx --> steps for regex present in divide_into_verses() and divide_into_sentences()
 ```
