@@ -1,251 +1,251 @@
 Top 250	Frequency
-t i		18637
-i t i		6331
-d a		5560
-n a		5476
-a		5342
-n i		4853
-.		4197
-k a		4081
-i t		3855
-m a		3851
-a n		3639
-k e		3511
-a g i		3450
-n g		3378
-a d a		3322
-g i t		3210
-n g a		3184
-d a g		3143
-a n a		2968
-t a		2920
-a n g		2888
-a   a		2817
-g a		2585
-"		2419
-p a		2282
-a   n		2206
-e t		2192
-e n		2103
-s a		2040
-k e n		1999
-k a d		1979
-a k a		1968
-a   t		1968
-i   a		1956
-a   k		1933
-a y		1906
-a g		1829
-n o		1821
-d i		1805
-p a n		1698
-a   i		1681
-i   J		1662
-k e t		1590
-i n		1550
-m a n		1537
-n n a		1531
-a g a		1520
-n a n		1468
-J e		1465
-a ,		1411
-s u s		1403
-u n a		1396
-J e s		1395
-e s u		1393
-n a g		1391
-n a k		1384
-i n a		1382
-a   m		1380
-i   p		1376
-a k		1358
-n   a		1348
-a .		1328
-a p a		1318
-y o		1311
-a y o		1296
-i   k		1275
-o   a		1264
-k a y		1237
-d a k		1224
-i   m		1217
-a l a		1201
-n   n		1198
-a s a		1187
-k u a		1152
-a n n		1151
-N		1149
-n   t		1128
-a d		1116
-i   n		1103
-b a		1092
-a y a		1091
-i n u		1062
-i d		1044
-i   t		1044
-a   d		1037
-a m i		1037
-I		1019
-t o		1009
-a b a		982
-o   t		977
-o   k		973
-a w a		971
-n u n		958
-a r a		954
-u s		943
-d a y		930
-k i		928
-i   s		924
-a m		922
-t o y		917
-e m		917
-i   d		903
-i   b		885
-l a		883
-s a n		872
-a m a		870
-g a n		863
-a t a		855
-i t a		853
-k a n		847
-m a y		846
-u a n		845
-s i		843
-a k i		841
-a p u		834
-a a n		823
-a w		808
-a   p		808
-a y t		807
-n t o		794
-d d a		790
-t a n		780
-t a o		778
-o   i		775
-k i n		767
-e n k		766
-o ,		748
-g e m		741
-u n g		740
-n a .		735
-l a n		735
-a r i		732
-o   n		730
-,   "		726
-o y		723
-N a		723
-o .		718
-m a k		713
-n   k		705
-. "		703
-,   n		702
-a t		701
-i   i		699
-b a g		692
-s i n		687
-a o		683
-k a s		679
-K		675
-n   d		674
-e n g		669
-n g e		664
-n k u		662
-,   k		654
-g a r		654
-n a ,		636
-n g i		636
-y t o		633
-a g s		633
-a d i		633
-D i		625
-n d a		622
-a   s		619
-n   i		618
-n i a		617
-u m a		616
-y   a		616
-a n i		604
-a n t		596
-w a n		591
-p a y		589
-a y s		588
-b a l		587
-t   n		577
-i d i		570
-g b a		570
-y s a		568
-a s i		567
-A		549
-a l i		544
-m i n		534
-a t t		531
-t a t		530
-i   A		527
-a s		525
-d i a		523
-a d d		523
-t a y		523
-n a p		518
-o n		516
-i m		516
-i   D		514
-t t a		514
-m e		513
-k i t		509
-p u		505
-s .		501
-m e t		500
-r a m		494
-i d a		494
-s   k		491
-t   i		482
-o   d		481
-p a g		481
-l i n		478
-m a t		477
-i a k		474
-i o s		474
-D i o		470
-i k a		466
-d a l		466
-d a n		464
-i   l		462
-o   m		462
-t   k		459
-a   b		456
-i n t		456
-" A		454
-t   t		453
-i m m		453
-g p a		452
-g s a		452
-a g t		451
-a r		451
-d u		450
-s u		446
-a g b		445
-a e n		443
-d a .		441
-t e n		438
-i p a		437
-i a y		436
-i n g		433
-g a p		431
-m b a		426
-y   t		422
-m m a		414
-n .		412
-i l i		410
-m a i		410
-a k u		410
-n ,		409
-s   i		409
-u a d		408
-a m m		406
-a n d		402
-e n n		401
-b a t		400
-p a s		396
-m i d		393
-s ,		392
+ti_		12499
+iti		6331
+_ti		6138
+_a_		5341
+_it		3674
+_ka		3662
+_ma		3536
+_ke		3511
+agi		3450
+_da		3437
+ada		3322
+an_		3228
+git		3210
+nga		3184
+dag		3143
+ana		2968
+ang		2888
+a_a		2817
+na_		2741
+_na		2735
+_ng		2596
+ni_		2437
+_ni		2416
+ga_		2278
+_pa		2255
+a_n		2206
+et_		2192
+da_		2123
+en_		2067
+ken		1999
+kad		1979
+aka		1968
+a_t		1968
+i_a		1956
+a_k		1933
+_ta		1773
+ay_		1719
+pan		1698
+a_i		1681
+i_J		1662
+ket		1590
+man		1537
+nna		1531
+aga		1520
+nan		1468
+_Je		1465
+_sa		1415
+a,_		1410
+sus		1403
+_ag		1399
+una		1396
+Jes		1395
+esu		1393
+nag		1391
+nak		1384
+ina		1382
+a_m		1380
+i_p		1376
+no_		1357
+n_a		1348
+a._		1328
+ak_		1320
+apa		1318
+yo_		1311
+ayo		1296
+i_k		1275
+o_a		1264
+kay		1237
+dak		1224
+i_m		1217
+ala		1201
+n_n		1198
+asa		1187
+kua		1152
+ann		1151
+ta_		1147
+n_t		1128
+i_n		1103
+aya		1091
+inu		1062
+i_t		1044
+a_d		1037
+ami		1037
+_ad		1032
+_ba		1020
+to_		993
+di_		990
+aba		982
+o_t		977
+o_k		973
+awa		971
+nun		958
+ara		954
+us_		943
+day		930
+i_s		924
+toy		917
+em_		917
+i_d		903
+i_b		885
+_in		879
+san		872
+ama		870
+gan		863
+._N		858
+ata		855
+ita		853
+kan		847
+may		846
+uan		845
+aki		841
+apu		834
+aan		823
+_di		815
+a_p		808
+ayt		807
+_si		804
+_ki		795
+nto		794
+_id		791
+dda		790
+ng_		782
+tan		780
+tao		778
+o_i		775
+kin		767
+enk		766
+o,_		748
+gem		741
+ung		740
+na.		735
+lan		735
+ari		732
+o_n		730
+,_"		726
+oy_		723
+_Na		723
+o._		718
+._I		717
+mak		713
+_la		708
+n_k		705
+."_		703
+,_n		702
+i_i		699
+at_		695
+_am		693
+bag		692
+sin		687
+ao_		681
+kas		679
+._"		677
+n_d		674
+in_		671
+eng		669
+nge		664
+nku		662
+,_k		654
+gar		654
+na,		636
+ngi		636
+yto		633
+ags		633
+adi		633
+sa_		625
+_Di		623
+nda		622
+a_s		619
+n_i		618
+nia		617
+uma		616
+y_a		616
+ani		604
+ant		596
+wan		591
+pay		589
+ays		588
+bal		587
+t_n		577
+idi		570
+gba		570
+ysa		568
+asi		567
+aw_		545
+ali		544
+min		534
+att		531
+tat		530
+i_A		527
+dia		523
+add		523
+tay		523
+nap		518
+on_		516
+i_D		514
+tta		514
+_me		511
+kit		509
+s._		501
+met		500
+ram		494
+ida		494
+s_k		491
+_im		489
+t_i		482
+o_d		481
+pag		481
+lin		478
+mat		477
+iak		474
+ios		474
+Dio		470
+ika		466
+dal		466
+_no		464
+dan		464
+i_l		462
+o_m		462
+t_k		459
+a_b		456
+int		456
+_"A		454
+t_t		453
+imm		453
+gpa		452
+gsa		452
+agt		451
+agb		445
+aen		443
+da.		441
+ten		438
+ipa		437
+iay		436
+ing		433
+gap		431
+ag_		430
+mba		426
+._K		425
+y_t		422
+ka_		419
+as_		414
+mma		414
+n._		412
+_an		411
+ili		410
+mai		410
+aku		410
+n,_		409
+s_i		409
+uad		408

@@ -1,251 +1,251 @@
 Top 250	Frequency
-d e		8175
-o s		5017
-e l		4848
-e s		4296
-e n		4099
-q u e		3835
-u e		3727
-l a		3714
-Y		3542
-y		3421
-q u		3362
-.		3186
-n o		2925
-l o		2901
-l e		2608
-l o s		2523
-s e		2482
-d o		2302
-a s		2194
-d i		2152
-a		2135
-,   y		2031
-s ,		1973
-s   d		1908
-c o		1907
-n d o		1738
-o ,		1723
-e s t		1701
-a l		1667
-h a		1647
-r e		1627
-s u		1556
-t e		1542
-e   e		1493
-r a		1479
-e   l		1478
-t o		1331
-e n t		1303
-i e n		1302
-e   d		1290
-o   d		1287
-p o		1255
-a d o		1210
-o n		1194
-m a		1155
-e n d		1144
-i e r		1123
-u n		1115
-é l		1113
-o   e		1102
-p a		1091
-a n		1076
-s   e		1039
-e r o		1000
-c o n		986
-a ,		979
-r o n		969
-i j o		939
-a   l		935
-e   a		918
-s i		912
-e   s		901
-o s ,		900
-n   e		889
-s t a		889
-s .		869
-p o r		869
-t r o		869
-s a		857
-o r		854
-m i		852
-a   d		850
-a n d		841
-o :		838
-m e		823
-r e s		801
-s   l		792
-v i		792
-o   a		786
-s   p		781
-d i j		776
-t a		774
-h e		768
-d o s		766
-n t o		752
-e r a		750
-s   c		747
-m u		740
-;   y		737
-c i e		730
-e ,		727
-s   s		720
-v e		715
-d i c		714
-b r e		713
-e   h		710
-p a r		707
-J e		702
-d e l		698
-c u		697
-o .		690
-c a		689
-s   a		682
-a b a		674
-o t r		669
-n   l		667
-r o s		666
-a   s		664
-y   l		663
-s   q		661
-h o		655
-t u		645
-n t e		644
-a r a		635
-,   d		634
-a   e		629
-r o		627
-e   c		627
-p r		623
-e   t		622
-J e s		621
-d a		619
-e s ú		618
-s ú s		618
-?		618
-l a s		617
-l e s		617
-h a b		610
-í a		601
-a   m		598
-o   l		595
-s o		592
-e l l		583
-i s		583
-r q u		582
-o r q		579
-v o		566
-f u		564
-o   q		558
-,   q		557
-f u e		552
-m o		552
-o   s		551
-e r		550
-e   m		549
-u e r		549
-t r a		548
-c e s		548
-m b r		540
-a   c		538
-i n o		530
-e s p		526
-m a n		520
-l l o		518
-p e		517
-c o m		512
-,   s		508
-t o d		505
-,   l		503
-E		503
-n t r		502
-c u a		499
-a n t		495
-,   p		493
-c i		492
-l l a		491
-n   a		491
-n a		490
-i d o		484
-s   h		483
-a .		479
-e   p		479
-t i		476
-e   v		476
-a   q		475
-d e s		473
-e r e		470
-n t a		463
-y o		460
-j o :		458
-a   t		455
-a   p		454
-s t o		451
-s ;		451
-p u		451
-o s .		449
-n ,		449
-o m b		447
-b a		444
-n o s		439
-o s o		437
-i é n		435
-a q u		434
-a   a		427
-i o s		425
-u s		422
-r á		420
-s t r		420
-a q		419
-s e r		418
-j o		416
-u e s		415
-y   d		413
-e   n		411
-i c i		410
-a d r		409
-d r e		407
-o n c		407
-n c e		407
-s   m		406
-o   p		405
-d a d		404
-a r		403
-N o		403
-e s ,		402
-,   e		401
-l l		400
-a r o		400
-s t e		397
-n i		395
-o ;		392
-y   e		391
-o   t		388
-a r á		388
-a   v		387
-c h o		385
-s o t		385
-o   c		384
-l   c		381
-o n d		380
-t o n		379
-t e n		378
-u a n		376
-M a		373
-é i s		373
-e r t		372
-r a n		371
-n d i		370
-i ó		369
-t a r		369
-E n		369
-h o m		366
-e c i		365
-p u e		362
-s u s		360
-b í a		358
-E l		358
-é n		357
-l   q		357
-t i e		356
+_de		4718
+os_		4600
+que		3835
+ue_		3727
+de_		3457
+_y_		3420
+_qu		3362
+el_		2574
+los		2523
+_en		2392
+_el		2274
+es_		2227
+_lo		2197
+_di		2147
+_a_		2133
+_la		2088
+as_		2073
+_es		2069
+,_y		2031
+do_		2019
+s,_		1973
+s_d		1908
+_co		1803
+_Y_		1783
+ndo		1738
+o,_		1721
+no_		1715
+en_		1707
+est		1701
+_se		1636
+la_		1626
+_le		1561
+._Y		1541
+e_e		1493
+e_l		1478
+ra_		1452
+_ha		1443
+ent		1303
+ien		1302
+e_d		1290
+o_d		1287
+ado		1210
+_no		1210
+_po		1190
+on_		1187
+end		1144
+ier		1123
+o_e		1102
+_pa		1080
+le_		1047
+s_e		1039
+_ma		1036
+_su		1030
+ero		1000
+con		986
+a,_		979
+re_		974
+ron		969
+_al		950
+ijo		939
+a_l		935
+e_a		918
+an_		910
+e_s		901
+os,		900
+n_e		889
+sta		889
+s._		869
+por		869
+tro		869
+te_		857
+a_d		850
+se_		846
+and		841
+o:_		838
+res		801
+s_l		792
+_vi		790
+o_a		786
+s_p		781
+dij		776
+or_		767
+dos		766
+nto		752
+era		750
+s_c		747
+_to		742
+_mu		740
+;_y		737
+_un		736
+cie		730
+e,_		727
+s_s		720
+al_		717
+dic		714
+bre		713
+e_h		710
+par		707
+_si		706
+lo_		704
+_Je		702
+_sa		699
+del		698
+_cu		697
+o._		690
+_él		689
+_te		685
+s_a		682
+aba		674
+_ve		672
+otr		669
+n_l		667
+ros		666
+a_s		664
+y_l		663
+s_q		661
+_re		653
+nte		644
+ara		635
+,_d		634
+a_e		629
+e_c		627
+_pr		623
+e_t		622
+Jes		621
+esú		618
+sús		618
+las		617
+les		617
+hab		610
+_mi		607
+ía_		601
+a_m		598
+o_l		595
+to_		589
+ell		583
+rqu		582
+is_		582
+orq		579
+_ca		578
+_fu		564
+o_q		558
+,_q		557
+fue		552
+o_s		551
+e_m		549
+uer		549
+tra		548
+ces		548
+mbr		540
+a_c		538
+_he		534
+ino		530
+ro_		528
+esp		526
+su_		526
+man		520
+llo		518
+com		512
+,_s		508
+tod		505
+,_l		503
+ntr		502
+cua		499
+ant		495
+,_p		493
+_ho		493
+_ci		492
+lla		491
+n_a		491
+_so		490
+_pe		490
+ido		484
+s_h		483
+_vo		483
+a._		479
+e_p		479
+e_v		476
+a_q		475
+des		473
+ere		470
+_me		466
+nta		463
+jo:		458
+a_t		455
+a_p		454
+sto		451
+s;_		451
+_pu		451
+os.		449
+n,_		449
+omb		447
+nos		439
+oso		437
+ién		435
+aqu		434
+._E		434
+_ti		432
+mo_		427
+a_a		427
+ios		425
+él_		424
+us_		421
+rá_		420
+str		420
+_aq		419
+ser		418
+_os		417
+ues		415
+y_d		413
+e_n		411
+ici		410
+adr		409
+dre		407
+onc		407
+nce		407
+s_m		406
+jo_		405
+o_p		405
+dad		404
+es,		402
+,_e		401
+_ll		400
+aro		400
+da_		399
+ste		397
+o;_		392
+y_e		391
+ta_		390
+o_t		388
+ará		388
+a_v		387
+cho		385
+sot		385
+o_c		384
+_ta		384
+l_c		381
+ond		380
+un_		379
+ton		379
+ten		378
+uan		376
+_Ma		373
+éis		373
+ert		372
+ran		371
+ndi		370
+ió_		369
+tar		369
+hom		366
