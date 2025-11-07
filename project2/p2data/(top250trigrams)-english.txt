@@ -1,251 +1,251 @@
-Top 250	Frequency
-_th		9217
-the		8063
-he_		6304
-nd_		4186
-_an		3820
-and		3718
-_to		3195
-to_		2998
-_yo		2423
-you		2423
-d_t		2272
-_hi		2167
-ed_		2118
-_he		2118
-_of		2073
-ing		2068
-of_		2002
-is_		1927
-e_t		1845
-en_		1742
-ll_		1736
-_wi		1732
-_wh		1723
-at_		1719
-e_w		1715
-_be		1664
-her		1650
-re_		1633
-_sa		1613
-ou_		1585
-er_		1567
-_ha		1516
-ng_		1493
-n_t		1449
-him		1434
-_in		1353
-hat		1344
-,_a		1340
-ut_		1323
-_no		1284
-as_		1280
-e_s		1261
-ere		1229
-,_"		1226
-o_t		1198
-or_		1181
-his		1173
-t_t		1160
-ill		1157
-in_		1145
-ve_		1114
-ey_		1086
-not		1074
-e_a		1072
-_on		1061
-hey		1056
-on_		1049
-tha		1045
-_fo		1041
-for		1018
-s_a		1018
-es_		1016
-d,_		1013
-me_		1012
-hen		1008
-_wa		998
-m,_		994
-aid		992
-ave		989
-ot_		962
-wil		955
-e_o		945
-sai		933
-hem		926
-one		923
-d_h		918
-_we		911
-_a_		896
-s_t		886
-id_		875
-who		874
-se_		858
-_is		853
-e_h		839
-The		831
-thi		825
-s,_		821
-."_		817
-ne_		815
-_Je		805
-_Th		805
-e,_		797
-_I_		789
-d_a		785
-f_t		778
-_co		777
-e_c		774
-_do		759
-_it		754
-ent		744
-o_h		741
-th_		738
-was		725
-ter		712
-an_		709
-us_		707
-_ca		698
-_ma		698
-_se		694
-our		692
-ho_		691
-it_		684
-ith		677
-om_		670
-esu		665
-r_t		652
-Jes		650
-sus		648
-are		640
-_me		639
-_di		636
-t_a		628
-ome		623
-_al		621
-,_t		619
-_re		609
-t_h		609
-wer		609
-_so		605
-eve		605
-e_f		604
-out		604
-wit		602
-ear		601
-all		594
-d_w		589
-ad_		589
-be_		588
-d_s		588
-ow_		586
-com		579
-ur_		578
-im_		574
-_ar		574
-s_s		565
-t_i		565
-ver		560
-n_h		558
-ay_		552
-nt_		551
-_wo		543
-im,		542
-hav		539
-y_t		538
-e_d		537
-e_b		535
-oth		533
-hea		532
-t_w		521
-_as		520
-ath		517
-ame		513
-e_i		511
-t_o		509
-st_		508
-_fr		505
-s_w		503
-ple		503
-man		493
-_bu		483
-red		477
-_te		477
-n_a		472
-le_		472
-n_o		459
-d_b		458
-s_o		457
-ive		456
-_pr		455
-,_s		452
-_de		450
-g_t		447
-e_m		446
-And		443
-_An		441
-had		439
-rom		438
-._T		437
-s_h		436
-d_i		432
-n,_		430
-ord		429
-_go		426
-ers		422
-hin		421
-r,_		417
-m_t		416
-fro		416
-but		414
-e_p		413
-ven		411
-em,		410
-_ou		410
-y_w		410
-ght		408
-les		408
-est		405
-t,_		404
-_li		404
-ld_		404
-em_		396
-rea		394
-_st		394
-ose		390
-,_b		389
-whe		385
-ate		383
-do_		382
-e_y		382
-e_l		381
-,_w		375
-ly_		374
-_si		373
-kin		370
-._A		369
-use		366
-d_o		365
-r_a		364
-,_h		363
-m_a		362
-say		361
-wor		361
-od_		359
-_ho		358
-_lo		358
-er,		355
-_So		354
-_Wh		354
-_sh		353
-rd_		352
-e._		350
-s_i		350
-_He		349
-_fi		349
-e_g		347
-dis		347
-igh		345
-_br		344
-r_h		342
-_my		342
+english_top250
+_th
+the
+he_
+nd_
+_an
+and
+_to
+to_
+_yo
+you
+d_t
+_hi
+ed_
+_he
+_of
+ing
+of_
+is_
+e_t
+en_
+ll_
+_wi
+_wh
+at_
+e_w
+_be
+her
+re_
+_sa
+ou_
+er_
+_ha
+ng_
+n_t
+him
+_in
+hat
+,_a
+ut_
+_no
+as_
+e_s
+ere
+,_"
+o_t
+or_
+his
+t_t
+ill
+in_
+ve_
+ey_
+not
+e_a
+_on
+hey
+on_
+tha
+_fo
+for
+s_a
+es_
+d,_
+me_
+hen
+_wa
+m,_
+aid
+ave
+ot_
+wil
+e_o
+sai
+hem
+one
+d_h
+_we
+_a_
+s_t
+id_
+who
+se_
+_is
+e_h
+The
+thi
+s,_
+."_
+ne_
+_Je
+_Th
+e,_
+_I_
+d_a
+f_t
+_co
+e_c
+_do
+_it
+ent
+o_h
+th_
+was
+ter
+an_
+us_
+_ca
+_ma
+_se
+our
+ho_
+it_
+ith
+om_
+esu
+r_t
+Jes
+sus
+are
+_me
+_di
+t_a
+ome
+_al
+,_t
+_re
+t_h
+wer
+_so
+eve
+e_f
+out
+wit
+ear
+all
+d_w
+ad_
+be_
+d_s
+ow_
+com
+ur_
+im_
+_ar
+s_s
+t_i
+ver
+n_h
+ay_
+nt_
+_wo
+im,
+hav
+y_t
+e_d
+e_b
+oth
+hea
+t_w
+_as
+ath
+ame
+e_i
+t_o
+st_
+_fr
+s_w
+ple
+man
+_bu
+red
+_te
+n_a
+le_
+n_o
+d_b
+s_o
+ive
+_pr
+,_s
+_de
+g_t
+e_m
+And
+_An
+had
+rom
+._T
+s_h
+d_i
+n,_
+ord
+_go
+ers
+hin
+r,_
+m_t
+fro
+but
+e_p
+ven
+em,
+_ou
+y_w
+ght
+les
+est
+t,_
+_li
+ld_
+em_
+rea
+_st
+ose
+,_b
+whe
+ate
+do_
+e_y
+e_l
+,_w
+ly_
+_si
+kin
+._A
+use
+d_o
+r_a
+,_h
+m_a
+say
+wor
+od_
+_ho
+_lo
+er,
+_So
+_Wh
+_sh
+rd_
+e._
+s_i
+_He
+_fi
+e_g
+dis
+igh
+_br
+r_h
+_my

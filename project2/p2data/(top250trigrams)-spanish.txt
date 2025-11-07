@@ -1,251 +1,251 @@
-Top 250	Frequency
-_de		4718
-os_		4600
-que		3835
-ue_		3727
-de_		3457
-_y_		3420
-_qu		3362
-el_		2574
-los		2523
-_en		2392
-_el		2274
-es_		2227
-_lo		2197
-_di		2147
-_a_		2133
-_la		2088
-as_		2073
-_es		2069
-,_y		2031
-do_		2019
-s,_		1973
-s_d		1908
-_co		1803
-_Y_		1783
-ndo		1738
-o,_		1721
-no_		1715
-en_		1707
-est		1701
-_se		1636
-la_		1626
-_le		1561
-._Y		1541
-e_e		1493
-e_l		1478
-ra_		1452
-_ha		1443
-ent		1303
-ien		1302
-e_d		1290
-o_d		1287
-ado		1210
-_no		1210
-_po		1190
-on_		1187
-end		1144
-ier		1123
-o_e		1102
-_pa		1080
-le_		1047
-s_e		1039
-_ma		1036
-_su		1030
-ero		1000
-con		986
-a,_		979
-re_		974
-ron		969
-_al		950
-ijo		939
-a_l		935
-e_a		918
-an_		910
-e_s		901
-os,		900
-n_e		889
-sta		889
-s._		869
-por		869
-tro		869
-te_		857
-a_d		850
-se_		846
-and		841
-o:_		838
-res		801
-s_l		792
-_vi		790
-o_a		786
-s_p		781
-dij		776
-or_		767
-dos		766
-nto		752
-era		750
-s_c		747
-_to		742
-_mu		740
-;_y		737
-_un		736
-cie		730
-e,_		727
-s_s		720
-al_		717
-dic		714
-bre		713
-e_h		710
-par		707
-_si		706
-lo_		704
-_Je		702
-_sa		699
-del		698
-_cu		697
-o._		690
-_él		689
-_te		685
-s_a		682
-aba		674
-_ve		672
-otr		669
-n_l		667
-ros		666
-a_s		664
-y_l		663
-s_q		661
-_re		653
-nte		644
-ara		635
-,_d		634
-a_e		629
-e_c		627
-_pr		623
-e_t		622
-Jes		621
-esú		618
-sús		618
-las		617
-les		617
-hab		610
-_mi		607
-ía_		601
-a_m		598
-o_l		595
-to_		589
-ell		583
-rqu		582
-is_		582
-orq		579
-_ca		578
-_fu		564
-o_q		558
-,_q		557
-fue		552
-o_s		551
-e_m		549
-uer		549
-tra		548
-ces		548
-mbr		540
-a_c		538
-_he		534
-ino		530
-ro_		528
-esp		526
-su_		526
-man		520
-llo		518
-com		512
-,_s		508
-tod		505
-,_l		503
-ntr		502
-cua		499
-ant		495
-,_p		493
-_ho		493
-_ci		492
-lla		491
-n_a		491
-_so		490
-_pe		490
-ido		484
-s_h		483
-_vo		483
-a._		479
-e_p		479
-e_v		476
-a_q		475
-des		473
-ere		470
-_me		466
-nta		463
-jo:		458
-a_t		455
-a_p		454
-sto		451
-s;_		451
-_pu		451
-os.		449
-n,_		449
-omb		447
-nos		439
-oso		437
-ién		435
-aqu		434
-._E		434
-_ti		432
-mo_		427
-a_a		427
-ios		425
-él_		424
-us_		421
-rá_		420
-str		420
-_aq		419
-ser		418
-_os		417
-ues		415
-y_d		413
-e_n		411
-ici		410
-adr		409
-dre		407
-onc		407
-nce		407
-s_m		406
-jo_		405
-o_p		405
-dad		404
-es,		402
-,_e		401
-_ll		400
-aro		400
-da_		399
-ste		397
-o;_		392
-y_e		391
-ta_		390
-o_t		388
-ará		388
-a_v		387
-cho		385
-sot		385
-o_c		384
-_ta		384
-l_c		381
-ond		380
-un_		379
-ton		379
-ten		378
-uan		376
-_Ma		373
-éis		373
-ert		372
-ran		371
-ndi		370
-ió_		369
-tar		369
-hom		366
+spanish_top250
+_de
+os_
+que
+ue_
+de_
+_y_
+_qu
+el_
+los
+_en
+_el
+es_
+_lo
+_di
+_a_
+_la
+as_
+_es
+,_y
+do_
+s,_
+s_d
+_co
+_Y_
+ndo
+o,_
+no_
+en_
+est
+_se
+la_
+_le
+._Y
+e_e
+e_l
+ra_
+_ha
+ent
+ien
+e_d
+o_d
+ado
+_no
+_po
+on_
+end
+ier
+o_e
+_pa
+le_
+s_e
+_ma
+_su
+ero
+con
+a,_
+re_
+ron
+_al
+ijo
+a_l
+e_a
+an_
+e_s
+os,
+n_e
+sta
+s._
+por
+tro
+te_
+a_d
+se_
+and
+o:_
+res
+s_l
+_vi
+o_a
+s_p
+dij
+or_
+dos
+nto
+era
+s_c
+_to
+_mu
+;_y
+_un
+cie
+e,_
+s_s
+al_
+dic
+bre
+e_h
+par
+_si
+lo_
+_Je
+_sa
+del
+_cu
+o._
+_él
+_te
+s_a
+aba
+_ve
+otr
+n_l
+ros
+a_s
+y_l
+s_q
+_re
+nte
+ara
+,_d
+a_e
+e_c
+_pr
+e_t
+Jes
+esú
+sús
+las
+les
+hab
+_mi
+ía_
+a_m
+o_l
+to_
+ell
+rqu
+is_
+orq
+_ca
+_fu
+o_q
+,_q
+fue
+o_s
+e_m
+uer
+tra
+ces
+mbr
+a_c
+_he
+ino
+ro_
+esp
+su_
+man
+llo
+com
+,_s
+tod
+,_l
+ntr
+cua
+ant
+,_p
+_ho
+_ci
+lla
+n_a
+_so
+_pe
+ido
+s_h
+_vo
+a._
+e_p
+e_v
+a_q
+des
+ere
+_me
+nta
+jo:
+a_t
+a_p
+sto
+s;_
+_pu
+os.
+n,_
+omb
+nos
+oso
+ién
+aqu
+._E
+_ti
+mo_
+a_a
+ios
+él_
+us_
+rá_
+str
+_aq
+ser
+_os
+ues
+y_d
+e_n
+ici
+adr
+dre
+onc
+nce
+s_m
+jo_
+o_p
+dad
+es,
+,_e
+_ll
+aro
+da_
+ste
+o;_
+y_e
+ta_
+o_t
+ará
+a_v
+cho
+sot
+o_c
+_ta
+l_c
+ond
+un_
+ton
+ten
+uan
+_Ma
+éis
+ert
+ran
+ndi
+ió_
+tar
+hom

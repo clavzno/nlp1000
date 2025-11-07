@@ -1,251 +1,251 @@
-Top 250	Frequency
-_si		8076
-si_		6312
-an_		5331
-_pa		4217
-ang		4173
-in_		4135
-_du		4032
-_ma		4004
-iye		3709
-_ka		3299
-ne_		3262
-iya		3065
-_me		3039
-me_		3028
-hin		2991
-uk_		2977
-ain		2759
-duk		2606
-ye_		2602
-n,_		2568
-_iy		2554
-nin		2407
-han		2403
-ina		2343
-n._		2325
-we_		2271
-aka		2256
-_ba		2168
-uwa		2102
-ng_		2085
-n_s		2067
-e_s		2055
-ban		1986
-_Is		1930
-i_I		1874
-Isa		1871
-_we		1867
-_sa		1822
-nga		1818
-_ne		1799
-n_d		1713
-_aa		1673
-in.		1671
-siy		1667
-aha		1658
-e,_		1584
-in,		1583
-e_m		1582
-ya_		1563
-_ta		1560
-_in		1528
-gan		1508
-ku_		1503
-amb		1501
-ai_		1483
-wa_		1483
-e_k		1464
-mag		1460
-nen		1441
-,_"		1433
-nde		1431
-sa_		1423
-e_a		1417
-kaa		1396
-pai		1395
-ini		1384
-aam		1378
-ahi		1361
-aa_		1359
-nan		1345
-nne		1334
-e_d		1332
-a_s		1327
-ala		1320
-n_m		1316
-uha		1301
-_ga		1301
-ata		1253
-_Pa		1243
-_la		1232
-ani		1227
-_bi		1208
-tan		1199
-a_m		1192
-_Ma		1190
-man		1179
-,_p		1165
-e_p		1157
-aan		1143
-_ku		1143
-_pi		1142
-i_s		1137
-aku		1131
-nak		1131
-ari		1111
-am_		1102
-."_		1089
-kan		1084
-u_s		1071
-agu		1071
-ama		1066
-_de		1055
-ana		1047
-i_m		1020
-_da		1019
-e_b		1013
-._P		1005
-un_		1005
-bi_		999
-de_		988
-_Tu		985
-gge		973
-tin		963
-n_p		949
-e_n		949
-_pe		941
-ew_		937
-ine		936
-ali		935
-pan		935
-ind		932
-Tuh		922
-guw		914
-_Sa		913
-sab		912
-gai		901
-i_k		890
-asa		886
-e_t		884
-mba		883
-pin		880
-uwe		873
-a,_		870
-jar		867
-_ni		858
-n_b		857
-aya		856
-n_k		853
-a_p		849
-en_		847
-and		842
-Man		836
-anj		834
-nja		825
-ri_		823
-_su		818
-ge_		815
-ell		796
-_ak		794
-em_		792
-aba		789
-_mi		786
-isa		786
-_ti		785
-_am		784
-yaa		781
-ab_		778
-inn		773
-ngk		770
-lan		765
-e_i		759
-as_		756
-apa		755
-pī_		755
-al_		753
-i_p		749
-_ha		748
-pag		744
-e._		743
-niy		742
-ey_		740
-i_i		738
-ann		737
-_pī		733
-du_		732
-_ke		730
-a_k		727
-ung		726
-a_d		723
-_te		716
-egg		712
-at_		710
-._S		697
-ga_		695
-a_n		691
-uma		680
-mbu		679
-ate		676
-bin		674
-k_m		672
-anu		671
-sin		670
-lai		669
-san		669
-ale		655
-._M		648
-ak_		646
-i_d		643
-miy		639
-ne,		638
-a_i		635
-ant		632
-n_a		631
-dem		629
-pat		627
-k_p		623
-ara		616
-te_		612
-kit		609
-mak		603
-ite		599
-us_		590
-kew		587
-ami		578
-_na		578
-_pu		577
-_ng		575
-gka		574
-kal		572
-an,		569
-kat		566
-n_i		565
-_is		564
-aki		562
-ye,		560
-yan		556
-u_i		554
-aga		550
-kas		549
-kah		548
-den		547
-nun		547
-ut_		547
-lum		544
-en.		541
-mon		541
-,_s		540
-_bu		540
-lew		539
-g_s		539
-a_b		539
-Sag		538
-tu_		534
-n."		533
-agt		530
-ka_		524
-kka		518
-k_s		507
-tey		503
-ehi		500
+yakan_top250
+_si
+si_
+an_
+_pa
+ang
+in_
+_du
+_ma
+iye
+_ka
+ne_
+iya
+_me
+me_
+hin
+uk_
+ain
+duk
+ye_
+n,_
+_iy
+nin
+han
+ina
+n._
+we_
+aka
+_ba
+uwa
+ng_
+n_s
+e_s
+ban
+_Is
+i_I
+Isa
+_we
+_sa
+nga
+_ne
+n_d
+_aa
+in.
+siy
+aha
+e,_
+in,
+e_m
+ya_
+_ta
+_in
+gan
+ku_
+amb
+ai_
+wa_
+e_k
+mag
+nen
+,_"
+nde
+sa_
+e_a
+kaa
+pai
+ini
+aam
+ahi
+aa_
+nan
+nne
+e_d
+a_s
+ala
+n_m
+uha
+_ga
+ata
+_Pa
+_la
+ani
+_bi
+tan
+a_m
+_Ma
+man
+,_p
+e_p
+aan
+_ku
+_pi
+i_s
+aku
+nak
+ari
+am_
+."_
+kan
+u_s
+agu
+ama
+_de
+ana
+i_m
+_da
+e_b
+._P
+un_
+bi_
+de_
+_Tu
+gge
+tin
+n_p
+e_n
+_pe
+ew_
+ine
+ali
+pan
+ind
+Tuh
+guw
+_Sa
+sab
+gai
+i_k
+asa
+e_t
+mba
+pin
+uwe
+a,_
+jar
+_ni
+n_b
+aya
+n_k
+a_p
+en_
+and
+Man
+anj
+nja
+ri_
+_su
+ge_
+ell
+_ak
+em_
+aba
+_mi
+isa
+_ti
+_am
+yaa
+ab_
+inn
+ngk
+lan
+e_i
+as_
+apa
+pī_
+al_
+i_p
+_ha
+pag
+e._
+niy
+ey_
+i_i
+ann
+_pī
+du_
+_ke
+a_k
+ung
+a_d
+_te
+egg
+at_
+._S
+ga_
+a_n
+uma
+mbu
+ate
+bin
+k_m
+anu
+sin
+lai
+san
+ale
+._M
+ak_
+i_d
+miy
+ne,
+a_i
+ant
+n_a
+dem
+pat
+k_p
+ara
+te_
+kit
+mak
+ite
+us_
+kew
+ami
+_na
+_pu
+_ng
+gka
+kal
+an,
+kat
+n_i
+_is
+aki
+ye,
+yan
+u_i
+aga
+kas
+kah
+den
+nun
+ut_
+lum
+en.
+mon
+,_s
+_bu
+lew
+g_s
+a_b
+Sag
+tu_
+n."
+agt
+ka_
+kka
+k_s
+tey
+ehi
