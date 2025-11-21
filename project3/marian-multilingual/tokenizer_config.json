@@ -1,0 +1,86 @@
+{
+  "added_tokens_decoder": {
+    "0": {
+      "content": "</s>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "1": {
+      "content": "<unk>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "57372": {
+      "content": "<pad>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "57373": {
+      "content": "_ENG_",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "57374": {
+      "content": "_PAG_",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "57375": {
+      "content": "_PAM_",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "57376": {
+      "content": "_TAO_",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "57377": {
+      "content": "_TGL_",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    }
+  },
+  "additional_special_tokens": [
+    "_ENG_",
+    "_PAG_",
+    "_PAM_",
+    "_TAO_",
+    "_TGL_"
+  ],
+  "clean_up_tokenization_spaces": false,
+  "eos_token": "</s>",
+  "extra_special_tokens": {},
+  "model_max_length": 512,
+  "pad_token": "<pad>",
+  "separate_vocabs": false,
+  "source_lang": "en",
+  "sp_model_kwargs": {},
+  "target_lang": "tl",
+  "tokenizer_class": "MarianTokenizer",
+  "unk_token": "<unk>"
+}
